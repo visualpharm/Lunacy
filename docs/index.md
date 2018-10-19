@@ -3,7 +3,20 @@ Welcome to the user manual for Lunacy. This documentation covers everything you 
 
 # Download Icons
 
+## Search
+
+## Download
+
+### Formats
+### Sizes
+About pixel perfect
+
+# Effects
+
 # Collections
+
+# Pricing
+### Paid vs Free
 
 # Contacting Support
 
