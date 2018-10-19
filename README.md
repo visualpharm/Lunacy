@@ -1,12 +1,8 @@
-# Lunacy, Sketch for Windows
+# Icons8 Web App
 
 
 Native Windows app that works offline and supports .sketch files
 
-[Lunacy Home Page](https://icons8.com/lunacy)
-
-[Release notes](https://icons8.github.io/Lunacy/)
+[Icons8 web app](https://beta.icons8.com/)
 
 [Community](https://community.icons8.com)
-
-[Suggest feature](http://lunatics.icons8.com)
