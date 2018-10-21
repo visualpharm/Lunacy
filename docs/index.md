@@ -15,6 +15,8 @@ About pixel perfect
 
 # Collections
 
+# FAQ
+
 # Pricing
 ### Paid vs Free
 
