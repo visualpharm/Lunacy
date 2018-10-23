@@ -9,7 +9,9 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  - We, as a movie-scale team, offer a constantly updated collection of [stock photos](https://photos.icons8.com/) (high resolution) with the same style and quality across the collection. We use standardised light conditions across all photo sessions. Therefore, our clients can combine the objects, models, and backdrops as they wish. Many images have transparent backgrounds. Photo API integration called [Moose](https://photos.icons8.com/api/v1/documentation) is in beta at the moment.
  - We offer a conceptually new service called [omg-img ](http://img.icons8.com/). This service allows you to get new UI products to the market quicker and at a lower cost. It drastically increases the workflow efficiency and let your team to stay focused on business logic of your app not on the low level processing tasks such as adjusting icons sizes, colors, formats etc. You even don’t have to export an icon and store it on a server. Everything becomes much more easier with [omg-img](http://img.icons8.com/) service
  - We constantly invest in optimisation of our search engines, so that our customers could get most relevant results in less time and in more intuitive way. Cutting edge technologies such as word embeddings and deep learning are applied to boost the performance of search process. [Visual search](http://ai.icons8.com/Scribble/Search) architecture is in development stage at the moment. 
+ - We offer [Line Awesome](https://icons8.com/line-awesome) fonts as a more nicer alternative for the [Font Awesome](https://iconpharm.com/web-app/category/all/font-awesome) 
  - We guarantee that we have all the icons/photos you need. Otherwise we create one absolutely for free per your request
+ - We guarantee, whatever you've download once, you can download it anytime.
 # Icons Apps
 ## Web app
 ### Searching
