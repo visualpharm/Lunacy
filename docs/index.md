@@ -24,7 +24,9 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
 # API Icons Integration
 # API Photos Integration
 # Licensing Model
-This section aims to explain in detail various aspects of licensing and pricing for icons/photos services. While the strict [license agreement](https://icons8.com/download/Icons8_License.pdf) mainly focuses on the legitimacy of various types of usage this chapter helps end-user to quickly grasp the main pricing features and wisely select the best possible usage option.
+This section aims to explain in detail various aspects of licensing and pricing for icons/photos services. While the strict [license agreement](https://icons8.com/download/Icons8_License.pdf) mainly focuses on the legitimacy of various types of usage, this chapter helps our clients to quickly grasp the main pricing features and wisely select the best possible usage plan.
 
+There are two possibilities for our clients to use Icons8 services: for free and paid. Please note that we do provide lots fruitful things to use for free. Go ahead and read the free option section below for more detail. Paid plans of cause have the most ambitious capabilities which are described in paid option section.
+## Free option
 
-### Paid vs Free
+## Paid option
