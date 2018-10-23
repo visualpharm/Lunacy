@@ -5,11 +5,11 @@ The demand for visual content seems is only getting stronger nowadays. More view
 
 The icons/photos platform is not only a dedicated comprehensive storage of all the icons you need (guaranteed), but it is actually a sophisticated distributed environment of innovative tools with the following list of unbeatable features:
  - We offer free online web app and free desktop apps (mac&windows) for maximum comfort and ease of integration. Apps provide build-in editors to search and to craft the look/feel of the content you need. Various types of export options are provided
- - We offer an API integration option. API functions allow your apps to send requests in our system to search and get icons with the corresponding metadata on the fly. This option let you build extremely sophisticated apps.
+ - We offer an icons API integration option. API functions allow your apps to send requests in our system to search and get icons with the corresponding metadata on the fly. This option let you build extremely sophisticated apps.
+ - We, as a movie-scale team, offer a constantly updated collection of [stock photos](https://photos.icons8.com/) (high resolution) with the same style and quality across the collection. We use standardised light conditions across all photo sessions. Therefore, our clients can combine the objects, models, and backdrops as they wish. Many images have transparent backgrounds. Photo API integration called [Moose](https://photos.icons8.com/api/v1/documentation) is in beta at the moment.
  - We offer a conceptually new service called [omg-img ](http://img.icons8.com/). This service allows you to get new UI products to the market quicker and at a lower cost. It drastically increases the workflow efficiency and let your team to stay focused on business logic of your app not on the low level processing tasks such as adjusting icons sizes, colors, formats etc. You even don’t have to export an icon and store it on a server. Everything becomes much more easier with [omg-img](http://img.icons8.com/) service
  - We constantly invest in optimisation of our search engines, so that our customers could get most relevant results in less time and in more intuitive way. Cutting edge technologies such as word embeddings and deep learning are applied to boost the performance of search process. [Visual search](http://ai.icons8.com/Scribble/Search) architecture is in development stage at the moment. 
- - We guarantee that we have all the icons you need. Otherwise we create one absolutely for free
- - 
+ - We guarantee that we have all the icons/photos you need. Otherwise we create one absolutely for free per your request
 # Icons Apps
 ## Web app
 ### Searching
@@ -28,7 +28,7 @@ This section aims to explain in detail various aspects of licensing and pricing 
 
 There are two possibilities for our clients to use Icons8 services: for free and paid. Please note that we do provide lots fruitful things to use for free. Go ahead and read the free option section below for more detail. Paid plans of cause have the most ambitious capabilities which are described in paid option section.
 ## Free option
-All of the [Icons8](https://icons8.com/) icons/photos services and icons apps can be used for free except the API integration service. You are welcome to use them for free for personal or commercial use however it will require from you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most case it is enough to place a web link pointed to our website's main page or what is even better pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
+All of the [Icons8](https://icons8.com/) icons/photos services and icons apps can be used for free except the API integration service. You are welcome to use them for free for personal or commercial use however it will require from you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
 
 Below is the list of suggested places where you may set up a link:
 
@@ -54,3 +54,17 @@ Below is the list of suggested places where you may set up a link:
 
 .
 ## Paid option
+Alternatively, you can [purchase a license](https://icons8.com/paid-license-99/#/) to get all formats and use them without crediting us
+There are two options - monthly subscription and yearly one.  
+99% of our customers use monthly or yearly [subscriptions](https://icons8.com/paid-license-99)  
+  
+Enterprise  
+If you have more than 10 people from your company who will use Icons8, you're welcome to enjoy our enterprise license. It is cheaper than buying individual licenses and easier to manage.  
+[Enterprise license explained](https://icons8.com/enterprise/)  
+  
+API  
+This license allows embedding icons in your apps and includes access to our API.  
+[API license explained](https://icons8.docs.apiary.io/#)
+
+
+### Paid vs Free
