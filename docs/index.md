@@ -56,4 +56,4 @@ Below is the list of suggested places where you may set up a link:
  - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
 
 .
-## Paid licensing
+## <a name="Paid-licensing"></a> Paid licensing
