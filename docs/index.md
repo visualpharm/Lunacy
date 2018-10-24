@@ -28,10 +28,11 @@ The service empowers developers and interface designers to get new UI products t
 
 **2. Icon’s search available straight from the address bar of your browser**
 For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
-https://img.icons8.com/home
-https://img.icons8.com/house
-https://img.icons8.com/bungalow
-https://img.icons8.com/targaryen-house
+
+ - https://img.icons8.com/home 
+ - https://img.icons8.com/house
+- https://img.icons8.com/bungalow
+- https://img.icons8.com/targaryen-house
 There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
 
 **3. How do I apply styles?**
@@ -46,16 +47,16 @@ On our website, there is a list of icons styles on the left pane of the icons pa
 
 **4. Recolouring monochrome icons made easy**
 To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
-<img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
-<img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
-<img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
+- <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
+- <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
+- <img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
 
 **5. How can I resize an icon?**
 To modify an icon’s size the same logic is applied as before. It’s just enough to insert an icon’s size within its link:
-'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
-'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
-'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
-'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
+- 'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
+- 'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
+- 'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
+- 'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
 
 For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`, depending on what you prefer the most.
 
