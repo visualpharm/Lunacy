@@ -13,12 +13,14 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  - We offer fabulous [set of stickers for iOS Messages](https://icons8.com/imessage/) available via [app store](https://itunes.apple.com/app/id1159302973) 
  - We guarantee that we have all the icons/photos you need. Otherwise [we create one absolutely for free](https://icons8.com/request-icon/free/hot) per your request
  - We guarantee, whatever you've download once, you can download it anytime
-# Icons Apps
-## [Web App](https://github.com/visualpharm/icons-docs/blob/master/docs/web_app.md)
-## Desktop Apps (Windows&Mac) 
+# Icons Apps:
+- ## [Web App](https://github.com/visualpharm/icons-docs/blob/master/docs/web_app.md)
+- ## Desktop Apps (Windows&Mac) 
 # API Icons Integration
 # API Photos Integration
-# Other services
-## [Omg-Img](https://github.com/visualpharm/icons-docs/blob/master/docs/omg_img.md)
-## Scribble-AI
+# Other services:
+- ## [Omg-Img](https://github.com/visualpharm/icons-docs/blob/master/docs/omg_img.md)
+- ## Scribble-AI
 # [Licensing Model](https://github.com/visualpharm/icons-docs/blob/master/docs/licensing_model.md)
+
+
