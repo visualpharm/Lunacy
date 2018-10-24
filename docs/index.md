@@ -14,11 +14,7 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  - We guarantee that we have all the icons/photos you need. Otherwise [we create one absolutely for free](https://icons8.com/request-icon/free/hot) per your request
  - We guarantee, whatever you've download once, you can download it anytime
 # Icons Apps
-## Web app
-### Searching
-### Editing/Formating
-### Effects/Collections
-### Downloading 
+## [Web App](https://github.com/visualpharm/icons-docs/blob/master/docs/web_app.md)
 ## Desktop Apps (Windows&Mac)
 ### Searching
 ### Editing/Formatting/pixel perfect etc.
@@ -28,3 +24,5 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
 # API Icons Integration
 # API Photos Integration
 # [Licensing Model](https://github.com/visualpharm/icons-docs/blob/master/docs/licensing_model.md)
+
+
