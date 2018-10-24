@@ -10,6 +10,7 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  - We offer a conceptually new service called [omg-img ](http://img.icons8.com/). This service allows you to get new UI products to the market quicker and at a lower cost. It drastically increases the workflow efficiency and let your team to stay focused on business logic of your app not on the low level processing tasks such as adjusting icons sizes, colors, formats etc. You even don’t have to export an icon and store it on a server. Everything becomes much more easier with [omg-img](http://img.icons8.com/) service
  - We constantly invest in optimisation of our search engines, so that our customers could get most relevant results in less time and in more intuitive way. Cutting edge technologies such as word embeddings and deep learning are applied to boost the performance of search process. [Visual search](http://ai.icons8.com/Scribble/Search) architecture is in development stage at the moment. 
  - We offer [Line Awesome](https://icons8.com/line-awesome) fonts as a more nicer alternative for the [Font Awesome](https://iconpharm.com/web-app/category/all/font-awesome) 
+ - We offer fabulous [set of stickers for iOS Messages](https://icons8.com/imessage/) available via [app store](https://itunes.apple.com/app/id1159302973) 
  - We guarantee that we have all the icons/photos you need. Otherwise we create one absolutely for free per your request
  - We guarantee, whatever you've download once, you can download it anytime.
 # Icons Apps
@@ -26,10 +27,10 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
 # API Icons Integration
 # API Photos Integration
 # Licensing Model
-This section aims to explain in detail various aspects of licensing and pricing for icons/photos services. While the strict [license agreement](https://icons8.com/download/Icons8_License.pdf) mainly focuses on the legitimacy of various types of usage, this chapter helps our clients to quickly grasp the main pricing features and wisely select the best possible usage plan.
+This section aims to explain in detail various aspects of licensing and pricing for icons/photos services. While the strict [license agreement](https://icons8.com/download/Icons8_License.pdf) mainly focuses on the legitimacy of various types of usage, this chapter helps our clients to quickly grasp the main pricing features and wisely select the best possible usage option.
 
-There are two possibilities for our clients to use Icons8 services: for free and paid. Please note that we do provide lots fruitful things to use for free. Go ahead and read the free option section below for more detail. Paid plans of cause have the most ambitious capabilities which are described in paid option section.
-## Free option
+There are two possibilities for our clients to use [Icons8](https://icons8.com/) services: on a free basis and on a payable basis. Please note that we do provide lots fruitful things to use for free. Actually, among all the icons/photos services there are only two services that potentially could be payable: [regular icon license](https://icons8.com/paid-license-99/#/) and [API integrations license](https://icons8.com/paid-license-99/#/). All other services provided absolutely for free without any hidden costs. Of cause, there could be some requests from our clients for custom art/photo processing work, but in general [these](https://icons8.com/paid-license-99/#/) are the only two services that in principle could be payable.  For information regarding the free of charge usage please read the ['Free of charge licensing']((#Free-of-charge-licensing)) section below. Payable option of cause have the most ambitious capabilities. All the shades of licensing associated with paid licenses are described in ['Paid licensing'](#Paid-licensing) section. 
+## Free of charge licensing
 All of the [Icons8](https://icons8.com/) icons/photos services and icons apps can be used for free except the API integration service. You are welcome to use them for free for personal or commercial use however it will require from you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
 
 Below is the list of suggested places where you may set up a link:
@@ -55,18 +56,4 @@ Below is the list of suggested places where you may set up a link:
  - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
 
 .
-## Paid option
-Alternatively, you can [purchase a license](https://icons8.com/paid-license-99/#/) to get all formats and use them without crediting us
-There are two options - monthly subscription and yearly one.  
-99% of our customers use monthly or yearly [subscriptions](https://icons8.com/paid-license-99)  
-  
-Enterprise  
-If you have more than 10 people from your company who will use Icons8, you're welcome to enjoy our enterprise license. It is cheaper than buying individual licenses and easier to manage.  
-[Enterprise license explained](https://icons8.com/enterprise/)  
-  
-API  
-This license allows embedding icons in your apps and includes access to our API.  
-[API license explained](https://icons8.docs.apiary.io/#)
-
-
-### Paid vs Free
+## Paid licensing
