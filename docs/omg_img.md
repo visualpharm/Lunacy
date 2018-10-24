@@ -1,3 +1,4 @@
+#  Omg-img Service 
 **1. Why [omg-img](http://img.icons8.com/) service?**
 The service empowers developers and interface designers to get new UI products to the market faster at a lower cost. It drastically increases the workflow efficiency and let your team to stay focused on business logic of your app not on the low level processing tasks such as adjusting icons sizes, colors, formats etc. You even don’t have to export an icon and store it on a server. Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
 
