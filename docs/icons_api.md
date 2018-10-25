@@ -19,8 +19,8 @@ In a nutshell, [icons API](https://api.icons8.com/) represents by itself a web s
 
 Below is a complete list of operations with definitions and links to live test page:
 | Operation | Definition | Live Test |
-|--|--|--|
-| [GET /api/iconsets/icon](https://api.icons8.com/manual/icon)  | Returns several icons | [Try](https://api.icons8.com/try/icon)  | 
+|:--|:--|:--:|
+| [GET /api/iconsets/icon](https://api.icons8.com/manual/icon)|Returns several icons | [Try](https://api.icons8.com/try/icon)  | 
 |[GET /api/iconsets/icons](https://api.icons8.com/manual/icons)|Returns all icons in alphabetical order|[Try](https://api.icons8.com/try/icons)|
 |[GET /api/iconsets/search](https://api.icons8.com/manual/search)|Returns icons by the specified search criteria|[Try](https://api.icons8.com/try/search)|
 |[GET /api/iconsets/latest](https://api.icons8.com/manual/latest)|Returns several icons sorted by date, with the newest first|[Try](https://api.icons8.com/try/latest)|
