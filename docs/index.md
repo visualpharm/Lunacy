@@ -16,8 +16,8 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
 # Icons Apps:
 - ## [Web App](https://github.com/visualpharm/icons-docs/blob/master/docs/web_app.md)
 - ## Desktop Apps (Windows & Mac) 
-# API Icons integration service
-# API Photos integration service
+# [Icons API integration service](https://github.com/visualpharm/icons-docs/blob/master/docs/icons_api.md)
+# Photos API integration service
 # Other services:
 - ## [Omg-Img service](https://github.com/visualpharm/icons-docs/blob/master/docs/omg_img.md)
 - ## Scribble-AI service
