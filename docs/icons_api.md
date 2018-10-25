@@ -38,18 +38,18 @@ Below is a complete list of operations with definitions and links to live test p
 |[GET /api/iconsets/download](https://api.icons8.com/manual/download)|Download icon's image|[Try](https://api.icons8.com/try/download)|
 
 ## Elements, Attributes, Parameters
-
+- more discussion to be added here
 ## API vs. JSON (pros&cons)
-
+- more discussion to be added here
 ### What If We Go out of Business etc.
+- more discussion to be added here
 ## Examples
-
+- more discussion to be added here
 ## Use cases
 These are examples of API usage in production applications:
 
--   **Template customisation.**<br>  This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
+-   **Template customisation.**  <br> This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
     
 -   **Graphics and text editors.** <br>  [Gravit](https://gravit.io/)  allows to insert our icons via API into their mockups.
     
--   **Any application with customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
-
+-   **Application customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
