@@ -40,15 +40,16 @@ Below is a complete list of operations with definitions and links to live test p
 ## Elements, Attributes, Parameters
 
 ## API vs. JSON (pros&cons)
+
 ### What If We Go out of Business etc.
 ## Examples
 
 ## Use cases
 These are examples of API usage in production applications:
 
--   **Template customisation.**  This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
+-   **Template customisation.**<br>  This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
     
--   **Graphics and text editors.**  [Gravit](https://gravit.io/)  allows to insert our icons via API into their mockups.
+-   **Graphics and text editors.** <br>  [Gravit](https://gravit.io/)  allows to insert our icons via API into their mockups.
     
--   **Any application with customisation.**  [TimeTune](http://timetune.center/)  uses our API to customise activities.
+-   **Any application with customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
 
