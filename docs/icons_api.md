@@ -18,17 +18,33 @@ In a nutshell, [icons API](https://api.icons8.com/) represents by itself a web s
 -   Suggestions for find-as-you-type, etc. 
 
 Below is a complete list of operations with definitions and links to live test page:
+
+|T|T|
+|--|--|
+|T|T|
+
 | Operation | Definition | Live Test |
 |:--|:--|:--:|
-| [GET /api/iconsets/icon](https://api.icons8.com/manual/icon)|Returns several icons | [Try](https://api.icons8.com/try/icon)  | 
+| [GET /api/iconsets/icon](https://api.icons8.com/manual/icon)|Returns several icons | [Try](https://api.icons8.com/try/icon)  |
 |[GET /api/iconsets/icons](https://api.icons8.com/manual/icons)|Returns all icons in alphabetical order|[Try](https://api.icons8.com/try/icons)|
+
 |[GET /api/iconsets/search](https://api.icons8.com/manual/search)|Returns icons by the specified search criteria|[Try](https://api.icons8.com/try/search)|
+
 |[GET /api/iconsets/latest](https://api.icons8.com/manual/latest)|Returns several icons sorted by date, with the newest first|[Try](https://api.icons8.com/try/latest)|
+
 |[GET /api/iconsets/similar](https://api.icons8.com/manual/similar)|Returns icons that similar to the given one|[Try](https://api.icons8.com/try/similar)|
+
 |[GET /api/iconsets/total](https://api.icons8.com/manual/total)|Returns the total number of icons for different platforms|[Try](https://api.icons8.com/try/total)|
+
 |[GET /api/iconsets/list](https://api.icons8.com/manual/list)|Returns lists with information about icons|[Try](https://api.icons8.com/try/list)|
+
 |[GET /api/iconsets/categories](https://api.icons8.com/manual/categories)|Returns lists of categories|[Try](https://api.icons8.com/try/categories)|
+
 |[GET /api/iconsets/category](https://api.icons8.com/manual/category)|Returns lists of icons in particular category|[Try](https://api.icons8.com/try/category)|
-|[GET /api/iconsets/suggest](https://api.icons8.com/manual/suggest)|Returns suggests about icons and tags for given string|[Try](https://api.icons8.com/try/suggest)
+
+|[GET /api/iconsets/suggest](https://api.icons8.com/manual/suggest)|Returns suggests about icons and tags for given string|[Try](https://api.icons8.com/try/suggest)|
+
 |[GET /api/iconsets/svg-symbol](https://api.icons8.com/manual/svg-symbol)|Returns SVG `symbol` image consists of specified icons|[Try](https://api.icons8.com/try/svg-symbol)|
+
 |[GET /api/iconsets/download](https://api.icons8.com/manual/download)|Download icon's image|[Try](https://api.icons8.com/try/download)|
+
