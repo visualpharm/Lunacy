@@ -2,7 +2,7 @@
 **1. Why [omg-img](http://img.icons8.com/) service?**
 The service empowers developers and interface designers to get new UI products to the market faster at a lower cost. It drastically increases the workflow efficiency and let your team to stay focused on business logic of your app not on the low level processing tasks such as adjusting icons sizes, colors, formats etc. You even don’t have to export an icon and store it on a server. Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
 
-**2. Icon’s search available straight from the address bar of your browser**
+**2. Icon’s search available straight from the address bar of your browser.**
 For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
 
  - https://img.icons8.com/home 
@@ -22,6 +22,7 @@ On our website, there is a list of icons styles on the left pane of the icons pa
 |Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
 
 [Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
+
 **4. Recolouring monochrome icons made easy**
 To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
 - <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
@@ -47,10 +48,10 @@ Each icon style is drawn for a specific pixel grid. Look at these few examples o
 * Office: `16x16`, `30x30`, `40x40`, `80x80`
 
 In order to avoid all sorts of artefacts (blurring edges, washed out colours etc.) associated with changing an icon’s size, we strongly recommend you to choose multiples of original icon's size. For example for iOS style the multiples would be: `50x50`, `100x100`, `150x150` etc.
-You can set an icon’s size either by specifying the size in pixels `100x100` / `100px` or with the use of factors: `2x` or `x2` (the number can vary)
+You can set an icon’s size either by specifying the size in pixels `100x100` / `100px` or with the use of factors: `2x` or `x2` (the number can vary).
 For example:
-'https://img.icons8.com/color/1x/brazilian-carnival.png' <img src='https://img.icons8.com/color/1x/brazilian-carnival.png'/>
-'https://img.icons8.com/color/2x/brazilian-carnival.png' <img src='https://img.icons8.com/color/2x/brazilian-carnival.png' />
+- 'https://img.icons8.com/color/1x/brazilian-carnival.png' <img src='https://img.icons8.com/color/1x/brazilian-carnival.png'/>
+- 'https://img.icons8.com/color/2x/brazilian-carnival.png' <img src='https://img.icons8.com/color/2x/brazilian-carnival.png' />
 
 **7. What is the maximum size of an icon that your service can provide?**
 The restriction applied to free png icons is 550px. Please read more in [API license](https://icons8.com/paid-license-99/#/).
@@ -72,7 +73,7 @@ Yes you can use icons with .png extension in [omg-img](http://img.icons8.com/) s
 
 **12. How to use responsive size for [Office](https://icons8.com/office-icons/) style?**
 It’s quite simple. Just add a parameter `office` to your request. For example:
- <img src='http://img.icons8.com/office/50px/car.png?office=16'> `http://img.icons8.com/office/50px/car.png?office=16`
-<img src='http://img.icons8.com/office/50px/car.png?office=30'> `http://img.icons8.com/office/50px/car.png?office=30`
-<img src='http://img.icons8.com/office/50px/car.png?office=40'> `http://img.icons8.com/office/50px/car.png?office=40`
-<img src='http://img.icons8.com/office/50px/car.png?office=80'> `http://img.icons8.com/office/50px/car.png?office=80`
+ - <img src='http://img.icons8.com/office/50px/car.png?office=16'> `http://img.icons8.com/office/50px/car.png?office=16`
+- <img src='http://img.icons8.com/office/50px/car.png?office=30'> `http://img.icons8.com/office/50px/car.png?office=30`
+- <img src='http://img.icons8.com/office/50px/car.png?office=40'> `http://img.icons8.com/office/50px/car.png?office=40`
+- <img src='http://img.icons8.com/office/50px/car.png?office=80'> `http://img.icons8.com/office/50px/car.png?office=80`
