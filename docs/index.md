@@ -22,4 +22,5 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
 - ## [Omg-Img service](https://github.com/visualpharm/icons-docs/blob/master/docs/omg_img.md)
 - ## Scribble-AI service
 # [Licensing Model](https://github.com/visualpharm/icons-docs/blob/master/docs/licensing_model.md)
+# FAQ
 
