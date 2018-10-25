@@ -1,0 +1,6 @@
+# Icons API Integration
+The big idea behind the icons API is the ease of manipulation of visual content. Having just a huge bunch of icons files may not necessarily help you to efficiently and competitively produce and support agile development. Wouldn't it be much more better to have a dedicated platform like [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing, updating, and delivering the visual content in most suitable forms to outperform expectations of even the most demanding developers and UX designers? That is actually what the icons/photos services are all about. 
+
+This is us, the Icons8, who takes the responsibility to maintain the whole infrastructure of managing and accessing visual content to let our clients to focus on delivering new products to the market with highest pace and lowest cost possible.
+
+In a nutshell, icons API represents by itself a web service with a list of web methods to manipulate with the visual content on the fly. These web methods could be invoked from various types of applications either web, desktop, or mobile. This is how integration is being achieved. Such architecture gives a unique level of flexibility to our clients to develop very sophisticated applications with outstanding UX and optimised time-to-market.
