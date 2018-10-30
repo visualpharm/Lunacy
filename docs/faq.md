@@ -1,3 +1,4 @@
+<!--
 # FAQ
 
 <details>
@@ -30,12 +31,13 @@ Enter a query and press search!
 
   </details>
 </details>
-
+-->
 
 
 # FAQ
 <details>
   <summary><strong>LICENSING</strong></summary>
+  
    ### Can I....
   yes you can do ....
   <!--
@@ -46,8 +48,10 @@ Enter a query and press search!
      * Sub bullets
 -->
 </details
+  
   <details>
   <summary><strong>SEARCHING</strong></summary>
+  
    ### Can I....
   yes you can do ....
   <!--
@@ -58,4 +62,5 @@ Enter a query and press search!
      * Sub bullets
 -->
 </details
+
   
