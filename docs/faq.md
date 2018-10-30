@@ -56,34 +56,20 @@ Enter a query and press search!
 </details
 
 
-
+<!--
 # FAQ
 <details>
   <summary><strong>LICENSING</strong></summary>
-  
-   ### Can I....
+   
   yes you can do ....
-  <!--
-  ### Can I....
-  1. A n
-  2. list
-     * With some
-     * Sub bullets
--->
+ 
 </details
   
   <details>
   <summary><strong>SEARCHING</strong></summary>
   
-   ### Can I....
   yes you can do ....
-  <!--
-  ### Can I....
-  1. A n
-  2. list
-     * With some
-     * Sub bullets
--->
+ 
 </details
-
+-->
   
