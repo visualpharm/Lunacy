@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-***License***
+<strong><em>License***<em><strong>
 </summary>
 <details>
 <summary>
