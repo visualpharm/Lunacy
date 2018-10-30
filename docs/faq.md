@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-LICENSING
+  <h1>LICENSING</h1>
 </summary>
 <details>
   
@@ -10,14 +10,13 @@ LICENSING
 Can I continue to use icons in current and future commercial projects after my subscription is canceled
 </summary> 
 The answer is very simple!
- 
   </details>
    </details>
    
 
 <details>
 <summary>
-SEARCHING
+  <h1>SEARCHING</h1>
 </summary>
 <details>
 <summary>
