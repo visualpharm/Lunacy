@@ -7,25 +7,25 @@ LICENSING
 <details>
   
 <summary>
-<em><strong> Can I continue to use icons in current and future commercial projects after my subscription is canceled</strong><em>
-</summary>
-<p>
+Can I continue to use icons in current and future commercial projects after my subscription is canceled
+</summary> 
 The answer is very simple!
-</p> 
+ 
   </details>
    </details>
    
-  <details>
+
+<details>
 <summary>
 SEARCHING
 </summary>
 <details>
 <summary>
-<em><strong>How can I search an Icon? </strong><em>
+ How can I search an Icon?  
 </summary>
-<p>
+
 Enter a query and press search!
-</p>
+
   </details>
 </details>
   
