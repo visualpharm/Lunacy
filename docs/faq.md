@@ -10,9 +10,11 @@
 <summary>
 Can I continue to use icons in current and future commercial projects after my subscription is canceled
 </summary> 
+
 The answer is very simple!
-  </details>
-   </details>
+
+</details>
+</details>
    
 
 <details>
@@ -28,4 +30,32 @@ Enter a query and press search!
 
   </details>
 </details>
+
+
+
+# FAQ
+<details>
+  <summary><strong>LICENSING</strong></summary>
+   ### Can I....
+  yes you can do ....
+  <!--
+  ### Can I....
+  1. A n
+  2. list
+     * With some
+     * Sub bullets
+-->
+</details
+  <details>
+  <summary><strong>SEARCHING</strong></summary>
+   ### Can I....
+  yes you can do ....
+  <!--
+  ### Can I....
+  1. A n
+  2. list
+     * With some
+     * Sub bullets
+-->
+</details
   
