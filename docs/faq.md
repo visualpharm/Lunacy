@@ -9,7 +9,7 @@ License
 Can I continue to use icons in current and future commercial projects after my subscription is canceled
 </summary>
 <p>
-*The answer is very simple!*
+<em>The answer is very simple!</em>
 </p>
 </details
 
