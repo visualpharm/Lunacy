@@ -3,17 +3,18 @@
 
 # FAQ
 <details>
-  <summary>Click 1</summary>
-  
+  <summary>Click 1
+ </summary>
  
 </details
 
 
 
 
+
 <details>
-  <summary>Click 2</summary>
-  
+  <summary>Click 2
+ </summary>
  
 </details
  
