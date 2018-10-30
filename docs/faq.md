@@ -7,15 +7,15 @@
    <strong>LICENSING</strong>
  </summary>
  
- <ul>
+ <ol>
   <li>
  
  <details>
   <summary>
-   <strong>L1</strong>
+   <strong>How do I get ...</strong>
  </summary>
  
- ### very easy
+Its easy ...
 </details
 
 
@@ -26,11 +26,10 @@
 
  <details>
   <summary>
-   <strong>L2</strong>
+   <strong>Can my license be ... </strong>
  </summary>
  
- ### How do I...
- its ver simp;e
+ Just try ...
 </details
 
 
@@ -39,7 +38,7 @@
 </details
 
 </li>
-</ul>
+</ol>
 
 
 <hr>
