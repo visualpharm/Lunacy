@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-  <h1>LICENSING</h1>
+  <h3>LICENSING</h3>
 </summary>
 <details>
   
@@ -16,7 +16,7 @@ The answer is very simple!
 
 <details>
 <summary>
-  <h1>SEARCHING</h1>
+  <h3>SEARCHING</h3>
 </summary>
 <details>
 <summary>
