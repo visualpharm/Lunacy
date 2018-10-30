@@ -2,11 +2,11 @@
 
 <details>
 <summary>
-License
+## License
 </summary>
 <details>
 <summary>
-Can I continue to use icons in current and future commercial projects after my subscription is canceled
+### Can I continue to use icons in current and future commercial projects after my subscription is canceled
 </summary>
 <p>
 <em>The answer is very simple!</em>
