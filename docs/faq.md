@@ -1,13 +1,10 @@
-## collapsible markdown?
+# FAQ
 
-<details><summary>CLICK ME</summary>
+<details>
+<summary>
+Can I continue to use icons in current and future commercial projects after my subscription is canceled
+</summary>
 <p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
+The answer is very simple!
 </p>
-</details>
+</details
