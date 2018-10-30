@@ -1,9 +1,10 @@
 # FAQ
 
 <details>
-<summary>
-  <h3>LICENSING</h3>
+<h3><summary>
+  LICENSING
 </summary>
+  </h3>
 <details>
   
 <summary>
