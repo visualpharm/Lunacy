@@ -4,9 +4,10 @@
 # FAQ
 <details>
   <summary>
-   ***Click 1***
+   <strong>LICENSING</strong>
  </summary>
- 
+ ### How do I...
+ its ver simp;e
 </details
 
 
@@ -14,8 +15,10 @@
 
 
 <details>
-  <summary>Click 2
+  <summary>
+   <strong>SEARCHNING</strong>
  </summary>
- 
+ ### How do I...
+ its ver simp;e
 </details
  
