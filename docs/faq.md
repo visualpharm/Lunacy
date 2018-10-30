@@ -6,6 +6,7 @@
   <summary>
    <strong>LICENSING</strong>
  </summary>
+ 
  ### How do I...
  its ver simp;e
 </details
@@ -18,6 +19,7 @@
   <summary>
    <strong>SEARCHNING</strong>
  </summary>
+ 
  ### How do I...
  its ver simp;e
 </details
