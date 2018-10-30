@@ -34,9 +34,19 @@ Enter a query and press search!
 -->
 
 
-# A collapsible section with markdown
+# FAQ
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click 1</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details
+
+<details>
+  <summary>Click 2</summary>
   
   ## Heading
   1. A numbered
