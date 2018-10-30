@@ -12,6 +12,9 @@ LICENSING
 The answer is very simple!
 </p>
 </details
+  </details>
+  
+  <details>
 <summary>
 SEARCHING
 </summary>
