@@ -7,6 +7,8 @@
    <strong>LICENSING</strong>
  </summary>
  
+ <ul>
+  <li>
  
  <details>
   <summary>
@@ -18,6 +20,9 @@
 
 
 <hr>
+</li>
+  <li>
+   
 
  <details>
   <summary>
@@ -32,6 +37,9 @@
 <hr>
 
 </details
+
+</li>
+</ul>
 
 
 <hr>
