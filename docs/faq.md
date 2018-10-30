@@ -3,7 +3,8 @@
 
 # FAQ
 <details>
-  <summary>Click 1
+  <summary>
+   ***Click 1***
  </summary>
  
 </details
