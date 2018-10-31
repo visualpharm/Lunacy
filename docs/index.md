@@ -372,6 +372,39 @@ This license allows embedding icons in your apps and includes access to our API.
  
  <ol>
   <li>
+   <details>
+    <summary>
+      <strong>Can I use Icons8 for free?</strong>
+    </summary>
+    
+   Yes, you can use our icons for free for personal or commercial use if you put a link to our website.
+   Please note that the free icons can only be downloaded in PNG up to 100x100px. The Popular Icons and Logos are free in all 
+   formats, including SVG. Alternatively, you can purchase a license to get all formats and use them without crediting us.
+   </details>
+ <hr>
+ </li>
+ <li>
+ <details>
+  <summary>
+   <strong>Can I use the icons after my subscription is expired?</strong>
+ </summary>
+  
+Yes, the icons that you've used while your subscription was active can be used indefinitely.
+Kindly note that after you make subscription and it expires you are not able to use previously downloaded icons on our web or app (unless you've downloaded them to your device).
+ </details>
+  <hr>
+</li>
+</ol> 
+ </details>
+
+
+<details>
+  <summary>
+   <strong>SEARCH. EDIT. LAYOUT. DOWNLOAD. FONTS. COLLECTIONS. </strong>
+ </summary>
+ 
+ <ol>
+  <li>
  
    <details>
     <summary>
@@ -390,72 +423,13 @@ This license allows embedding icons in your apps and includes access to our API.
   <summary>
    <strong>Can I use the icons after my subscription is expired?</strong>
  </summary>
+  
 Yes, the icons that you've used while your subscription was active can be used indefinitely.
 Kindly note that after you make subscription and it expires you are not able to use previously downloaded icons on our web or app (unless you've downloaded them to your device).
  </details>
-</details>
-</li>
-</ol>
-</details>
- 
-</details>
-<hr>
-
-<!--
-# Icons Apps:
-- ## [Web App](https://github.com/visualpharm/icons-docs/blob/master/docs/web_app.md)
-- ## Desktop Apps (Windows & Mac) 
-# [Icons API](https://github.com/visualpharm/icons-docs/blob/master/docs/icons_api.md)
-# Photos API
-# Other services:
-- ## [Omg-Img service](https://github.com/visualpharm/icons-docs/blob/master/docs/omg_img.md)
-- ## Scribble-AI service
-# [Licensing Model](https://github.com/visualpharm/icons-docs/blob/master/docs/licensing_model.md)
-# [FAQ](https://github.com/visualpharm/icons-docs/blob/master/docs/faq.md)
--->
-<!--
-<details>
- FAQ
-  <summary>
-   <strong>FAQ</strong>
- </summary>
- 
- <details>
-  <summary>
-   <strong>LICENSING. FREE USAGE. SUBSCRIPTION. CANCELATION. DISTRIBUTION. </strong>
- </summary>
- 
- <ol>
-  <li>
- 
-   <details>
-    <summary>
-      <strong>Can I use Icons8 for free?</strong>
-    </summary>
- 
-   Yes, you can use our icons for free for personal or commercial use if you put a link to our website.
-   Please note that the free icons can only be downloaded in PNG up to 100x100px. The Popular Icons and Logos are free in all 
-   formats, including SVG. Alternatively, you can purchase a license to get all formats and use them without crediting us.
-   </details
- 
  <hr>
- </li>
- <li>
- <details>
-  <summary>
-   <strong>Can I use the icons after my subscription is expired?</strong>
- </summary>
-Yes, the icons that you've used while your subscription was active can be used indefinitely.
-Kindly note that after you make subscription and it expires you are not able to use previously downloaded icons on our web or app (unless you've downloaded them to your device).
-</details
-
-
-<hr>
-</details
 </li>
 </ol>
-<hr>
+</details> 
 </details>
- 
-</details
--->
+<hr>
