@@ -19,14 +19,15 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
    <strong>Icons Apps</strong>
   </summary>
  
- <hr>
+  
  - Web App
- <hr>
+  
  - Desktop Apps (Windows & Mac) 
- <hr>
+ 
  
 </details
 
+<hr>
 
 # [Icons API](https://github.com/visualpharm/icons-docs/blob/master/docs/icons_api.md)
 # Photos API
