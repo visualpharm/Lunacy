@@ -25,7 +25,7 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
 
 <details>
   <summary>
-   <h2>FAQ</h2>
+   <p><font size="6">FAQ</font></p>
  </summary>
  
  <details>
