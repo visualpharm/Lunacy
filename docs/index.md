@@ -14,19 +14,27 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  - We guarantee that we have all the icons/photos you need. Otherwise [we create one absolutely for free](https://icons8.com/request-icon/free/hot) per your request
  - We assure, whatever you've download once, you can download it anytime
  
+ The content of the document is split into categories listed as the collapsable sections bellow:
  <details>
   <summary>
    <strong>Icons Apps</strong>
   </summary>
  
-  
- - Web App
-  
- - Desktop Apps (Windows & Mac) 
- 
- 
-</details
-
+  <details>
+  <summary>
+   <strong>Web App</strong>
+  </summary>
+ Web App
+ </details>
+ <hr>
+  <details>
+  <summary>
+   <strong>Desktop Apps (Windows & Mac)</strong>
+  </summary>
+ Desktop Apps (Windows & Mac)
+ </details>
+  <hr>
+</details> 
 <hr>
 
 # [Icons API](https://github.com/visualpharm/icons-docs/blob/master/docs/icons_api.md)
