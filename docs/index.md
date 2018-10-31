@@ -18,7 +18,7 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  
  <details>
   <summary>
-   <span style="color:blue"><strong>Icons Apps</strong></span>
+   <span style="color:blue"><strong>ICONS APPS</strong></span>
   </summary>
  <ul>
   <li>
@@ -40,6 +40,114 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  </ul>
 </details> 
 <hr> 
+
+
+ <details>
+  <summary>
+   <span style="color:blue"><strong>API INTEGRATION</strong></span>
+  </summary>
+ <ul>
+  <li>
+  <details>
+  <summary>
+   <strong>Icons API</strong>
+  </summary>
+ Icons API
+ </details>
+ </li>
+  <li>
+  <details>
+  <summary>
+   <strong>Photo API</strong>
+  </summary>
+ Photo API
+ </details>
+  </li>
+ </ul>
+</details> 
+<hr> 
+
+
+
+
+
+ <details>
+  <summary>
+   <span style="color:blue"><strong>OTHER SERVICES</strong></span>
+  </summary>
+ <ul>
+  <li>
+  <details>
+  <summary>
+   <strong>Omg-Img service</strong>
+  </summary>
+ Icons API
+ </details>
+ </li>
+  <li>
+  <details>
+  <summary>
+   <strong>Scribble-AI service</strong>
+  </summary>
+ Photo API
+ </details>
+  </li>
+ </ul>
+</details> 
+<hr> 
+
+
+ <details>
+  <summary>
+   <span style="color:blue"><strong>LICENSING MODEL</strong></span>
+  </summary>
+ Licensing model text goes here...
+ </details>
+ 
+ 
+ 
+ 
+ <details>
+ FAQ
+  <summary>
+   <strong>FAQ</strong>
+ </summary>
+ 
+ <details>
+  <summary>
+   <strong>LICENSING. FREE USAGE. SUBSCRIPTION. CANCELATION. DISTRIBUTION. </strong>
+ </summary>
+ 
+ <ol>
+  <li>
+ 
+   <details>
+    <summary>
+      <strong>Can I use Icons8 for free?</strong>
+    </summary>
+ 
+   Yes, you can use our icons for free for personal or commercial use if you put a link to our website.
+   Please note that the free icons can only be downloaded in PNG up to 100x100px. The Popular Icons and Logos are free in all 
+   formats, including SVG. Alternatively, you can purchase a license to get all formats and use them without crediting us.
+   </details>
+ 
+ <hr>
+ </li>
+ <li>
+ <details>
+  <summary>
+   <strong>Can I use the icons after my subscription is expired?</strong>
+ </summary>
+Yes, the icons that you've used while your subscription was active can be used indefinitely.
+Kindly note that after you make subscription and it expires you are not able to use previously downloaded icons on our web or app (unless you've downloaded them to your device).
+ </details>
+</details>
+</li>
+</ol>
+</details>
+ 
+</details>
+<hr>
 
 <!--
 # Icons Apps:
