@@ -14,7 +14,8 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  - We guarantee that we have all the icons/photos you need. Otherwise [we create one absolutely for free](https://icons8.com/request-icon/free/hot) per your request
  - We assure, whatever you've download once, you can download it anytime
  
- The content of the document is split into categories listed as the collapsable sections bellow:
+ The content of the document is split into categories listed <!--as the collapsable sections--> bellow:
+ <!--
  <details>
   <summary>
    <h1>Icons Apps</h1>
@@ -35,15 +36,21 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  </details>
   
 </details> 
-<hr>
+<hr> 
+-->
 
+# Icons Apps:
+- ## [Web App](https://github.com/visualpharm/icons-docs/blob/master/docs/web_app.md)
+- ## Desktop Apps (Windows & Mac) 
 # [Icons API](https://github.com/visualpharm/icons-docs/blob/master/docs/icons_api.md)
 # Photos API
 # Other services:
 - ## [Omg-Img service](https://github.com/visualpharm/icons-docs/blob/master/docs/omg_img.md)
 - ## Scribble-AI service
 # [Licensing Model](https://github.com/visualpharm/icons-docs/blob/master/docs/licensing_model.md)
+# [FAQ](https://github.com/visualpharm/icons-docs/blob/master/docs/faq.md)
 
+<!--
 <details>
  FAQ
   <summary>
@@ -88,4 +95,4 @@ Kindly note that after you make subscription and it expires you are not able to 
 </details>
  
 </details
-
+-->
