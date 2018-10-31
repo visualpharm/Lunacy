@@ -20,21 +20,24 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
   <summary>
    <span style="color:blue"><strong>Icons Apps</strong></span>
   </summary>
- 
+ <ul>
+  <li>
   <details>
   <summary>
    <strong>Web App</strong>
   </summary>
  Web App
  </details>
- 
+ </li>
+  <li>
   <details>
   <summary>
    <strong>Desktop Apps (Windows & Mac)</strong>
   </summary>
  Desktop Apps (Windows & Mac)
  </details>
-  
+  </li>
+ </ul>
 </details> 
 <hr> 
 
