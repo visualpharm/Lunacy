@@ -17,7 +17,7 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  The content of the document is split into categories listed as the collapsable sections bellow:
  <details>
   <summary>
-   <strong>Icons Apps</strong>
+   <h1>Icons Apps</h1>
   </summary>
  
   <details>
@@ -26,14 +26,14 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
   </summary>
  Web App
  </details>
- <hr>
+ 
   <details>
   <summary>
    <strong>Desktop Apps (Windows & Mac)</strong>
   </summary>
  Desktop Apps (Windows & Mac)
  </details>
-  <hr>
+  
 </details> 
 <hr>
 
