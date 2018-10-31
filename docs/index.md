@@ -20,9 +20,9 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
   </summary>
  
  <hr>
- - ## [Web App](https://github.com/visualpharm/icons-docs/blob/master/docs/web_app.md)
+ - Web App
  <hr>
- - ## Desktop Apps (Windows & Mac) 
+ - Desktop Apps (Windows & Mac) 
  <hr>
  
 </details
