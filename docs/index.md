@@ -15,7 +15,7 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  - We assure, whatever you've download once, you can download it anytime
  
  The content of the document is split into categories listed <!--as the collapsable sections--> bellow:
- 
+ <hr>
  <details>
   <summary>
    <span style="color:blue"><strong>ICONS APPS</strong></span>
@@ -104,11 +104,11 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
  Licensing model text goes here...
  </details>
  
- 
+ <hr>
  
  
  <details>
- FAQ
+ 
   <summary>
    <strong>FAQ</strong>
  </summary>
