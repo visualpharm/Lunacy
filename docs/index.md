@@ -28,11 +28,19 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
   <summary>
    <strong>Web App</strong>
   </summary>
+   
+   
  ## Searching
+ ...
 ## Editing/Formating
+...
 ## Effects/Collections
+...
 ## Downloading 
+...
+
  </details>
+   
  </li>
   <li>
   <details>
