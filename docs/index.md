@@ -24,8 +24,9 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
 # [Licensing Model](https://github.com/visualpharm/icons-docs/blob/master/docs/licensing_model.md)
 
 <details>
+ FAQ
   <summary>
-   <strong> <font color="FF00CC">FAQ</font><strong>
+   <strong> <font color="FF00CC"> FAQ </font></strong>
  </summary>
  
  <details>
