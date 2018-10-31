@@ -367,7 +367,7 @@ This license allows embedding icons in your apps and includes access to our API.
  
  <details>
   <summary>
-   <strong>LICENSING. FREE USAGE. SUBSCRIPTION. CANCELATION. DISTRIBUTION. </strong>
+   <strong>LICENSING. FREE USAGE. SUBSCRIPTION. USAGE AFTER CANCELATION. DISTRIBUTION. </strong>
  </summary>
  
  <ol>
@@ -400,6 +400,44 @@ Kindly note that after you make subscription and it expires you are not able to 
 
 <details>
   <summary>
+   <strong>ICONS API. SOAP/JSON INTEGRATION. REQWESTS LIMITS. PLAN. WHAT IF ... </strong>
+ </summary>
+ 
+ <ol>
+  <li>
+ 
+   <details>
+    <summary>
+      <strong>Can I ...?</strong>
+    </summary>
+ 
+   more discussion goes here ...
+   </details>
+ 
+ <hr>
+ </li>
+ <li>
+ <details>
+  <summary>
+   <strong>Can I ...?</strong>
+ </summary>
+  
+ more discussion goes here ...
+ </details>
+ <hr>
+</li>
+</ol>
+</details> 
+
+
+
+
+
+
+
+
+<details>
+  <summary>
    <strong>SEARCH. EDIT. LAYOUT. DOWNLOAD. FONTS. COLLECTIONS. </strong>
  </summary>
  
@@ -408,12 +446,10 @@ Kindly note that after you make subscription and it expires you are not able to 
  
    <details>
     <summary>
-      <strong>Can I use Icons8 for free?</strong>
+      <strong>Can I ...?</strong>
     </summary>
  
-   Yes, you can use our icons for free for personal or commercial use if you put a link to our website.
-   Please note that the free icons can only be downloaded in PNG up to 100x100px. The Popular Icons and Logos are free in all 
-   formats, including SVG. Alternatively, you can purchase a license to get all formats and use them without crediting us.
+  more discussion goes here ...
    </details>
  
  <hr>
@@ -421,15 +457,16 @@ Kindly note that after you make subscription and it expires you are not able to 
  <li>
  <details>
   <summary>
-   <strong>Can I use the icons after my subscription is expired?</strong>
+   <strong>Can I ...?</strong>
  </summary>
   
-Yes, the icons that you've used while your subscription was active can be used indefinitely.
-Kindly note that after you make subscription and it expires you are not able to use previously downloaded icons on our web or app (unless you've downloaded them to your device).
+ more discussion goes here ...
  </details>
  <hr>
 </li>
 </ol>
 </details> 
+
+
+
 </details>
-<hr>
