@@ -1,4 +1,5 @@
 # Welcome to icons/photos services user manual
+<hr>
 This documentation covers pretty much everything you need to know about how to get started and succeed with icons/photos services.
 <hr>
 <!--# Overview-->
@@ -27,7 +28,10 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
   <summary>
    <strong>Web App</strong>
   </summary>
- Web App
+ ## Searching
+## Editing/Formating
+## Effects/Collections
+## Downloading 
  </details>
  </li>
   <li>
@@ -53,7 +57,122 @@ The icons/photos platform is not only a dedicated comprehensive storage of all t
   <summary>
    <strong>Icons API</strong>
   </summary>
- Icons API
+ 
+ 
+## Overview
+The big idea behind the icons API is the ease of manipulation with visual content. Having just a huge bunch of icons files may not necessarily help you to efficiently and competitively produce and support agile development. Wouldn't it be much more better to have a dedicated platform like [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing, updating, and delivering the visual content in most suitable forms to outperform expectations of even the most demanding developers and UX designers? That is actually what the icons/photos services are all about. 
+
+This is us, the Icons8, who takes the responsibility to maintain the whole [infrastructure](https://api.icons8.com/) of managing and accessing visual content to let our clients to focus on delivering new products to the market with highest pace and lowest cost possible.
+
+In a nutshell, [icons API](https://api.icons8.com/) represents by itself a web service with a list of web methods to manipulate with the visual content on the fly. The web methods could be invoked from various types of applications either web, desktop, or mobile. This is how integration is being achieved. Such architecture gives a unique level of flexibility to our clients to develop very sophisticated applications with outstanding UX and optimised time-to-market.
+
+## API functions
+
+[Icons API](https://api.icons8.com/) handles requests from clients apps and returns both Base64-encoded icons and the meta information. Some of the operations are:
+-   Searching for a string
+-   Getting the categories
+-   Getting the icons from a category
+-   Searches for similar icons (icons that have similar tags)
+-   Suggestions for find-as-you-type, etc.
+-   Searching for a string
+-   Getting the categories
+-   Getting the icons from a category
+-   Searches for similar icons (icons that have similar tags)
+-   Suggestions for find-as-you-type, etc. 
+
+Below is a complete list of operations with definitions and links to live test page:
+
+| Operation | Definition | Live Test |
+|:--|:--|:--:|
+| [GET /api/iconsets/icon](https://api.icons8.com/manual/icon)|Returns several icons | [Try](https://api.icons8.com/try/icon)  |
+|[GET /api/iconsets/icons](https://api.icons8.com/manual/icons)|Returns all icons in alphabetical order|[Try](https://api.icons8.com/try/icons)|
+|[GET /api/iconsets/search](https://api.icons8.com/manual/search)|Returns icons by the specified search criteria|[Try](https://api.icons8.com/try/search)|
+|[GET /api/iconsets/latest](https://api.icons8.com/manual/latest)|Returns several icons sorted by date, with the newest first|[Try](https://api.icons8.com/try/latest)|
+|[GET /api/iconsets/similar](https://api.icons8.com/manual/similar)|Returns icons that similar to the given one|[Try](https://api.icons8.com/try/similar)|
+|[GET /api/iconsets/total](https://api.icons8.com/manual/total)|Returns the total number of icons for different platforms|[Try](https://api.icons8.com/try/total)|
+|[GET /api/iconsets/list](https://api.icons8.com/manual/list)|Returns lists with information about icons|[Try](https://api.icons8.com/try/list)|
+|[GET /api/iconsets/categories](https://api.icons8.com/manual/categories)|Returns lists of categories|[Try](https://api.icons8.com/try/categories)|
+|[GET /api/iconsets/category](https://api.icons8.com/manual/category)|Returns lists of icons in particular category|[Try](https://api.icons8.com/try/category)|
+|[GET /api/iconsets/suggest](https://api.icons8.com/manual/suggest)|Returns suggests about icons and tags for given string|[Try](https://api.icons8.com/try/suggest)|
+|[GET /api/iconsets/svg-symbol](https://api.icons8.com/manual/svg-symbol)|Returns SVG `symbol` image consists of specified icons|[Try](https://api.icons8.com/try/svg-symbol)|
+|[GET /api/iconsets/download](https://api.icons8.com/manual/download)|Download icon's image|[Try](https://api.icons8.com/try/download)|
+
+## Elements, Attributes, Parameters
+
+## API vs. JSON (pros&cons)
+### What If We Go out of Business etc.
+## Examples
+
+## Use cases
+These are examples of API usage in production applications:
+
+-   **Template customisation.**  <br> This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
+    
+-   **Graphics and text editors.** <br>  [Gravit](https://gravit.io/)  allows to insert our icons via API into their mockups.
+    
+-   **Application customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
+
+
+
+
+You can plug Icons8 into your system in two ways:
+
+-   Via  [our API](https://api.icons8.com/)
+-   By downloading a JSON with all base64 encoded icons and metadata (names, tags, and categories)
+
+## API or JSON?
+
+**We think  [API](https://api.icons8.com/)  is better.**  It took us a couple of years to develop it. In particular, it provides:
+
+-   Sphinx full-text  [search](https://icons8.com/icon/131/search)  with morphology
+-   A third party spell  [check](https://icons8.com/icon/set/check/all)  API
+-   Multiple operations that would take months of development
+-   Also, we’ve learned some stuff the hard way, by doing it and removing it. For example, using synonyms APIs proved to be a failure
+-   Also, we keep improving the metadata daily
+
+On the other hand,  **utilizing JSON on your side is 100% reliable;**  you can’t beat that.
+
+## What If We Go out of Business?
+
+If we want you to count on our technology, we must earn your trust. Here is what happens  _in an extremely unlikely event of an emergency_, as they say in the pre-flight safety demonstrations.
+
+If we go out of  [business](https://icons8.com/web-app/category/Business), the following will happen:
+
+-   **We’ll keep the website**, including our API,  [running](https://en.icons8.com/web-app/915/running)  for years. Although we utilize a number of servers for everything from generating the icons to serving content to Google, the core of the website is an $80 droplet on Digital Ocean. We must be extremely broke to shut it down.
+-   **If you’ve used JSON, you are 100% safe.**  If you use our API, keep our JSON export as a backup; if anything happens, you’ll have years to switch to it.
+
+However, the probability of going out of  [business](https://icons8.com/icon/pack/business)  is low. Our company,  [VisualPharm](http://visualpharm.com/), has existed since 2003; the cash flow is good, and we grow organically without any loans.
+
+## License Expiration
+
+A license is valid for one year after the purchase. It includes:
+
+-   All icons created to the date + one year of new icons
+-   Access to our API (according to your plan)
+-   Support (according to your plan)
+
+After one year, we will offer you a subscription for another year.
+
+_Exception_: we will not charge for the software that you don’t support anymore. You can keep distributing the software for free, if:
+
+-   It has all icons offline and doesn’t use our API
+-   You don’t release new versions after the license expiration
+
+## Limitations
+
+-   The price includes  _all icons at the moment of the purchase + 1 year of new icons_. The icons that we create after 1 year cost $249 per year.
+-   Please make it clear to your users that they can only use the icons for creations with your software. They cannot export the icons and use them in other authoring tools.
+-   Please make it clear to your users that they can purchase additional licenses.
+- 
+## Getting Started
+
+To get started, please  [contact us](https://icons8.com/contact)  to obtain an API key.
+
+## Pricing
+
+Our API license starts at $100/month.
+ 
+ 
  </details>
  </li>
   <li>
