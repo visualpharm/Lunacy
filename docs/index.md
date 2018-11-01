@@ -341,19 +341,7 @@ Below is the list of suggested places where you may set up a link:
  - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
 
 ##  Paid licensing
-There is a conceptual difference between 
 
-Alternatively, you can [purchase a license](https://icons8.com/paid-license-99/#/) to get all formats and use them without crediting us
-There are two options - monthly subscription and yearly one.  
-99% of our customers use monthly or yearly [subscriptions](https://icons8.com/paid-license-99)  
-  
-Enterprise  
-If you have more than 10 people from your company who will use Icons8, you're welcome to enjoy our enterprise license. It is cheaper than buying individual licenses and easier to manage.  
-[Enterprise license explained](https://icons8.com/enterprise/)  
-  
-API  
-This license allows embedding icons in your apps and includes access to our API.  
-[API license explained](https://icons8.docs.apiary.io/#)
  </details>
  
  <hr>
