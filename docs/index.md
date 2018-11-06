@@ -1,4 +1,4 @@
-# Welcome to icons/photos services user manual
+# Welcome to icons services user manual
 <hr>
 This documentation covers pretty much everything you need to know about how to get started and succeed with icons/photos services.
 <hr>
