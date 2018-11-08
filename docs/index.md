@@ -3,7 +3,11 @@ This document covers pretty much everything you need to know about how to get st
 # Why icons services?
 The demand for visual content seems is only getting stronger nowadays. More views, more downloads, more profit are associated with visually rich posts, apps and all sort of UX in general. This trend poses a new challenge for developers and UX designers: how to efficiently manage the basic pieces of visual content in their projects? Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing the icons, keeping them up-to-date, and making them easily accessible in the most suitable forms in various contexts.
 
-# Icons Apps / Img-omg / API integration
+The [Icons8](https://icons8.com/) provide three main icons services in order to outperform expectations of even the most demanding developers and UX designers. They are the Icons Apps, Img-Omg and API integration. The next section will help you to grasp the main features and differences of the services.
+
+# Icons Apps, Img-omg, API integration - which one do I need?
+
+
 
 The icons/photos platform is not only a dedicated comprehensive storage of all the icons you need (guaranteed), but it is actually a sophisticated distributed environment of innovative tools with the following list of unbeatable features:
  - We provide free online web app and free desktop apps (mac&windows) for maximum comfort and ease of integration. Apps provide build-in editors to search and to craft the look/feel of the content you need. Various types of export options are provided
