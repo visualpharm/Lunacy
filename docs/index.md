@@ -5,7 +5,7 @@ The demand for visual content seems is only getting stronger nowadays. More view
 
 The [Icons8](https://icons8.com/) provide three main icons services in order to outperform expectations of even the most demanding developers and UX designers. They are the Icons Apps, Img-Omg and API integration. The next section will help you to grasp the main features and differences of the services.
 
-# Icons Apps / Img-omg / API integration - which one do I need?
+# Which one do I need?
 
 One of the most frequently asked questions from our customers is what icon service/app do I actually need for my project? This section provide coarse overview and comparison of the icons apps/services. The further discussion will examine each service features in detail. 
 
@@ -17,9 +17,6 @@ In a short, API integration gives you an ability to access our icons programmati
 
 Please follow the detailed discussion on regard to API integration [here]()
 ## Img-Omg Service
-
-
-## Icons apps
  
  The content of the document is split into categories listed as the collapsable sections bellow:
  <hr>
