@@ -17,9 +17,9 @@ In a short, [service integration](...) gives you an ability to access icons prog
 
 Please, follow [this link](...) to read more about the framework.
 
-## Service Integration Framework / License
+## Standard Framework / License
  
- The content of the document is split into categories listed as the collapsable sections bellow:
+ The content of the rest of the document is split into categories listed as the collapsable sections bellow:
  <hr>
  <details>
   <summary>
