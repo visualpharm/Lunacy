@@ -12,11 +12,16 @@ One of the most frequently asked questions from our customers is what icon servi
 ## API Integration
 In a short, API integration gives you an ability to access our icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. End-users of your solutions could generate their own projects, build their own visual content from within your apps tied to our icons API. You can plug [Icons8](https://icons8.com/) into your system in two ways:
 
--   Via  [API functions]()
+-   Via  [API calls]()
 -   By downloading and embedding a JSON file with all base64 encoded icons and metadata (names, tags, and categories) into your IT-infrastructure
+
+In the mean time API of version 4.0 provides means to query metadata from our service. Basically when you supply a search query to our v4 service you get back a json/xml which contains all the metadata of the most relevant icons associated with that query (see the attachment). Then you may use this information contained in the metadata and the [Img-Omg service]()  to actually retrieve the icons you need.
 
 Please follow the detailed discussion on regard to API integration [here]()
 ## Img-Omg Service
+The service is aimed to retrieve png icons of various styles, colours, sizes etc. directly from the CDN to your application of any scale with a single line of code.
+
+
 ## Icons apps
  
  The content of the document is split into categories listed as the collapsable sections bellow:
