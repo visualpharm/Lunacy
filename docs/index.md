@@ -1,28 +1,23 @@
 # Welcome to icons  services user manual
 This document covers pretty much everything you need to know about how to get started and succeed with icons services.
 # Why icons services?
-The demand for visual content seems is only getting stronger nowadays. More views, more downloads, more profit are associated with visually rich posts, apps and all sort of UX in general. This trend poses a new challenge for developers and UX designers: how to efficiently manage the basic pieces of visual content in their projects? Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing the icons, keeping them up-to-date, and making them easily accessible in the most suitable forms in various contexts?
+The demand for visual content seems is only getting stronger nowadays. More views, more downloads, more profit are associated with visually rich posts, apps and all sort of UX in general. This trend poses a new challenge for developers and UX designers: how to efficiently manage the basic pieces of visual content in their projects? Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
-The [Icons8](https://icons8.com/) provide three main icons services in order to outperform expectations of even the most demanding developers and UX designers. They are the Icons Apps, Img-Omg and API integration. The next section will help you to grasp the main features and differences of the services.
+Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two ways of how icons could be accessed. These two pathways are named as '[standard](...)' and '[service integration](...)'. Each framework is a associated with certain sets of tools. The next section aims to grasp the main features and differences of these tools.
 
-# Which one do I need?
+# Which framework do I need?
 
-One of the most frequently asked questions from our customers is what icon service/app do I actually need for my project? This section provide coarse overview and comparison of the icons apps/services. The further discussion will examine each service features in detail. 
-
-## API Integration
-In a short, API integration gives you an ability to access our icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. End-users of your solutions could generate their own projects, build their own visual content from within your apps tied to our icons API. You can plug [Icons8](https://icons8.com/) into your system in two ways:
-
--   Via  [API calls]()
--   By downloading and embedding a JSON file with all base64 encoded icons and metadata (names, tags, and categories) into your IT-infrastructure
-
-In the mean time API of version 4.0 provides means to query metadata from our service. Basically when you supply a search query to our v4 service you get back a json/xml which contains all the metadata of the most relevant icons associated with that query (see the attachment). Then you may use this information contained in the metadata and the [Img-Omg service]()  to actually retrieve the icons you need.
-
-Please follow the detailed discussion on regard to API integration [here]()
-## Img-Omg Service
-The service is aimed to retrieve png icons of various styles, colours, sizes etc. directly from the CDN to your application of any scale with a single line of code.
+One of the most frequently asked questions from our customers is "<b>what license do I need</b>", meaning which framework am I supposed to use to achieve the goals of my project. This section is purposely dedicated to give a clear answer for that question and help readers to better understand which section of this manual they should study next. 
 
 
-## Icons apps
+## Service Integration Framework / License
+In a short, [service integration](...) gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. With the use of  [service integration](...), end-users of your products could generate their own projects, build their own visual content from within your apps tied to our [service](...). The framework consist of:
+- [Search Engine](...)
+- [Icons Retrieval Service](...)
+
+Please, follow [this link](...) to read more about the framework.
+
+## Service Integration Framework / License
  
  The content of the document is split into categories listed as the collapsable sections bellow:
  <hr>
