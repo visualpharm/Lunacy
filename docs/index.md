@@ -18,8 +18,13 @@ In a short, [service integration](...) gives you an ability to access icons prog
 Please, follow [this link](...) to read more about the framework.
 
 ## Standard Framework / License
- 
- The content of the rest of the document is split into categories listed as the collapsable sections bellow:
+
+
+
+
+# Service Integration Framework / License
+
+# Standard Framework / License
  <hr>
  <details>
   <summary>
@@ -58,9 +63,12 @@ Please, follow [this link](...) to read more about the framework.
 <hr> 
 
 
+
+
+
  <details>
   <summary>
-   <span style="color:blue"><strong>API INTEGRATION</strong></span>
+   <span style="color:blue"><strong>Service Integration Framework</strong></span>
   </summary>
  <ul>
   <li>
