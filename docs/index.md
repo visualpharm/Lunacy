@@ -17,6 +17,7 @@ In a short, API integration gives you an ability to access our icons programmati
 
 Please follow the detailed discussion on regard to API integration [here]()
 ## Img-Omg Service
+## Icons apps
  
  The content of the document is split into categories listed as the collapsable sections bellow:
  <hr>
