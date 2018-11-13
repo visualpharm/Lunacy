@@ -18,7 +18,7 @@ In a short, [service integration](...) gives you an ability to access icons prog
   <li>
   <details>
   <summary>
-   <strong>Search Engine (CLICK to read more ...)</strong>
+   <strong>Search Engine. Click to read more ...</strong>
   </summary>
  Photo API
  </details>
@@ -27,7 +27,7 @@ In a short, [service integration](...) gives you an ability to access icons prog
   <li>
   <details>
   <summary>
-   <strong>Icons Retrieval Service (CLICK to read more ...)</strong>
+   <strong>Icons Retrieval Service. Click to read more ...</strong>
   </summary>
 
 
@@ -119,25 +119,14 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 
  </ul>
 </details> 
-<hr> 
+
+Search engine allows to programmatically search for icons metadata, whereas icons retrieval service utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on each of the items above to read more details.
 
 
-
-
-
-
-
-
-Please, follow [this link](...) to read more about the framework.
 
 ## Standard Framework / License
 
 
-
-
-# Service Integration Framework / License
-
-# Standard Framework / License
  <hr>
  <details>
   <summary>
