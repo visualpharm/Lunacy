@@ -3,16 +3,14 @@ This document covers pretty much everything you need to know about how to get st
 # Why icons services?
 The demand for visual content seems is only getting stronger nowadays. More views, more downloads, more profit are associated with visually rich posts, apps and all sort of UX in general. This trend poses a new challenge for developers and UX designers: how to efficiently manage the basic pieces of visual content in their projects? Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
-Few readers ...
-
-Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two ways of how icons could be accessed. These two pathways are known as '[standard](...)' and '[service integration](...)'. Each framework is associated with certain set of tools. The next section aims to grasp the main features and differences of these tools.
+Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed. These two pathways are known as '[standard](...)' and '[service integration](...)' frameworks. Each framework is associated with certain set of tools. The next section aims to grasp the main features and differences of these tools.
 
 # Which framework do I need?
 
 One of the most frequently asked questions from our customers is "<b>what license do I need</b>", meaning which framework am I supposed to use to achieve the goals of my project. This section is purposely dedicated to give a clear answer for that question and help readers to better understand which section of this manual they should study next. 
 
 
-## Service Integration Framework / License
+## Service Integration Framework
 In a short, [service integration](...) gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. With the use of  [service integration](...), end-users of your products could generate their own projects, build their own visual content from within your apps tied to our [service](...). The framework consist of:
 
 
@@ -114,7 +112,7 @@ Our API license starts at $100/month.
   
   <details>
   <summary>
-   <strong>Icons Retrieval Service</strong>
+   <strong>Icons Retrieval Service (Omg-Img)</strong>
   </summary>
 
 <br>
@@ -201,17 +199,25 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 <br>
  </details>
  
+ 
 <!-- </li>
- </ul>-->
+ </ul>
 </details> 
-
-<br>
+<br>-->
+  <details>
+  <summary>
+   <strong>Licensing model</strong>
+  </summary>
+  
+  <br>
+  
+ </details>
 
 Search engine allows to programmatically search for icons metadata, whereas icons retrieval service utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. <b>Click on the collapsible items above to read more details about each of the services.</b>
 
 
 
-## Standard Framework / License
+## Standard Framework
  
   <details>
   <summary>
@@ -239,7 +245,14 @@ Search engine allows to programmatically search for icons metadata, whereas icon
  Desktop Apps (Windows & Mac)
  </details>
  
-
+  <details>
+  <summary>
+   <strong>Licensing model</strong>
+  </summary>
+  
+  <br>
+  
+ </details>
  
 
  
