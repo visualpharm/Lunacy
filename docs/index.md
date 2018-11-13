@@ -217,7 +217,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  
 <br>
 
-Search engine allows to programmatically search for icons metadata, whereas icons retrieval service utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. <b>Click on the collapsible items above to read more details about each of the services.</b>
+<b>Search Engine</b> allows to programmatically search for icons metadata, whereas <b>Icons Retrieval Service</b> utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. <b>Click on the collapsible items above to read more details about each of the services.</b>
 
 
 
