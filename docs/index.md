@@ -209,7 +209,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 <br>
   <details>
   <summary>
-   <strong>Licensing model</strong>
+   <strong>Licensing Model</strong>
   </summary>
   
   <br>
@@ -254,7 +254,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  
   <details>
   <summary>
-   <strong>Licensing model</strong>
+   <strong>Licensing Model</strong>
   </summary>
   
   <br>
@@ -309,8 +309,7 @@ Below is the list of suggested places where you may set up a link:
  
  <details>
   <summary>
-     
-   <strong>Service Integration Framework. Licensing. Reqwests limits. API Key. Limitations. Use cases. What if. </strong>
+   <strong>Service Integration Framework. Licensing. Reqwests limits. API Key. Limitations. Use cases. What if ... </strong>
  </summary>
  
  <ol>
