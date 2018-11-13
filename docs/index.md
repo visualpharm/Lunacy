@@ -213,7 +213,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   </summary>
   
   <br>
-  
+  more details goes here ...
  </details>
  
 <br>
@@ -229,14 +229,13 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
    <strong>Web App</strong>
   </summary>
    
-   
- ## Searching
+ ### Searching
  ...
-## Editing/Formating
+### Editing/Formating
 ...
-## Effects/Collections
+### Effects/Collections
 ...
-## Downloading 
+### Downloading 
 ...
 
  </details>
@@ -247,6 +246,8 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   <summary>
    <strong>Desktop Apps (Windows & Mac)</strong>
   </summary>
+  
+  <br>
  Desktop Apps (Windows & Mac)
  </details>
  
@@ -258,6 +259,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   </summary>
   
   <br>
+  more details goes here ...
   
  </details>
  <br>
