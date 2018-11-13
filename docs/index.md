@@ -7,7 +7,7 @@ Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in ot
 
 # Which framework do I need?
 
-One of the most frequently asked questions from our customers is "<b>what license do I need</b>", meaning which framework am I supposed to use to achieve the goals of my project. This section is purposely dedicated to give a clear answer for that question and help readers to better understand which section of this manual they should study next. 
+One of the most frequently asked questions from our customers is "<b>what license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. This section is purposely dedicated to give a clear answer for that question and help readers to better understand which section of this manual they should study next. 
 
 
 ## Service Integration Framework
@@ -308,7 +308,8 @@ Below is the list of suggested places where you may set up a link:
  
  <details>
   <summary>
-   <strong>Licensing. Free usage. Subscription. Usage after cancelation. Distribution. </strong>
+     
+   <strong>Service Integration Framework. Licensing. Reqwests limits. API Key. Limitations. Use cases. What if ... </strong>
  </summary>
  
  <ol>
@@ -341,7 +342,7 @@ Kindly note that after you make subscription and it expires you are not able to 
 
 <details>
   <summary>
-   <strong>ICONS API. SOAP/JSON INTEGRATION. REQWESTS LIMITS. PLAN. WHAT IF ... </strong>
+   <strong>Standard Framework. Licensing. Free usage. Editing. Web / Desktop. Usage after cancelation. Distribution. </strong>
  </summary>
  
  <ol>
