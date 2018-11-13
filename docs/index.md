@@ -207,6 +207,9 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 <br>-->
 
 <br>
+
+<b>Search Engine</b> allows to programmatically search for icons metadata, whereas <b>Icons Retrieval Service</b> utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. <b>Click on the collapsible items above to read more details about each of the services.</b> The <b>Licensing Model</b> for the <b>Service Integration Framework</b> can be viewed by clicking on the item below:
+ 
   <details>
   <summary>
    <strong>Licensing Model</strong>
@@ -214,17 +217,14 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   
   <br>
   more details goes here ...
+  
  </details>
- 
-<br>
-
-<b>Search Engine</b> allows to programmatically search for icons metadata, whereas <b>Icons Retrieval Service</b> utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. <b>Click on the collapsible items above to read more details about each of the services and Licensing Model.</b>
-
+ <br>
 
 
 ## Standard Framework
 
-Under the <b>Standard Framework</b> we consider a set of tools that allow our clients to manually search and retreive icons. These tools are:
+Under the <b>Standard Framework</b> we consider a set of tools that allow our clients to manually search and retreive icons through some GUI. These tools are:
  
   <details>
   <summary>
@@ -254,6 +254,8 @@ Under the <b>Standard Framework</b> we consider a set of tools that allow our cl
  </details>
  
  <br>
+
+Both <b>Web and Desktop Apps</b> have a very similar functionality with some distinctions that are <b>described in detailed in each of the collapsable item above</b>. The <b>Licensing Model</b> for the <b>Standard Framework</b> can be viewed by clicking on the item below:
  
   <details>
   <summary>
@@ -265,8 +267,6 @@ Under the <b>Standard Framework</b> we consider a set of tools that allow our cl
   
  </details>
  <br>
-
-Both <b>Web and Desktop Apps</b> have a very similar functionality with some distinctions that are <b>described in detailed in each of the collapsable item above</b>. 
  
   
 
