@@ -27,12 +27,7 @@ In a short, [service integration](...) gives you an ability to access icons prog
 
 
 
- <details>
-  <summary>
-   <span style="color:blue"><strong>OTHER SERVICES</strong></span>
-  </summary>
- <ul>
-  <li>
+
   <details>
   <summary>
    <strong>Icons Retrievl Service</strong>
@@ -133,8 +128,6 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  Photo API
  </details>
   </li>
- </ul>
-</details> 
 <hr> 
 
 
