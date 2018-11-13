@@ -12,27 +12,22 @@ One of the most frequently asked questions from our customers is "<b>what licens
 
 ## Service Integration Framework / License
 In a short, [service integration](...) gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. With the use of  [service integration](...), end-users of your products could generate their own projects, build their own visual content from within your apps tied to our [service](...). The framework consist of:
-- [Search Engine](...)
-
-
-
-
-
-
-
-
-- [Icons Retrieval Service](...)
-
-
-
-
 
 
 <ul>
   <li>
   <details>
   <summary>
-   <strong>Omg-Img service</strong>
+   <strong>Search Engine (CLICK to read more ...)</strong>
+  </summary>
+ Photo API
+ </details>
+  </li>
+  
+  <li>
+  <details>
+  <summary>
+   <strong>Icons Retrieval Service (CLICK to read more ...)</strong>
   </summary>
 
 
@@ -121,14 +116,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  </li>
  
  
-  <li>
-  <details>
-  <summary>
-   <strong>Scribble-AI service</strong>
-  </summary>
- Photo API
- </details>
-  </li>
+
  </ul>
 </details> 
 <hr> 
