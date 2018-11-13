@@ -3,7 +3,7 @@ This document covers pretty much everything you need to know about how to get st
 # Why icons services?
 The demand for visual content seems is only getting stronger nowadays. More views, more downloads, more profit are associated with visually rich posts, apps and all sort of UX in general. This trend poses a new challenge for developers and UX designers: how to efficiently manage the basic pieces of visual content in their projects? Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
-Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two ways of how icons could be accessed. These two pathways are named as '[standard](...)' and '[service integration](...)'. Each framework is a associated with certain sets of tools. The next section aims to grasp the main features and differences of these tools.
+Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two ways of how icons could be accessed. These two pathways are known as '[standard](...)' and '[service integration](...)'. Each framework is a associated with certain sets of tools. The next section aims to grasp the main features and differences of these tools.
 
 # Which framework do I need?
 
@@ -21,6 +21,7 @@ In a short, [service integration](...) gives you an ability to access icons prog
   <summary>
    <strong>Search Engine</strong>
   </summary>
+  
  ## Overview
 The big idea behind the icons API is the ease of manipulation with visual content. Having just a huge bunch of icons files may not necessarily help you to efficiently and competitively produce and support agile development. Wouldn't it be much more better to have a dedicated platform like [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing, updating, and delivering the visual content in most suitable forms to outperform expectations of even the most demanding developers and UX designers? That is actually what the icons/photos services are all about. 
 
@@ -30,6 +31,8 @@ In a nutshell, [icons API](https://api.icons8.com/) represents by itself a web s
  </details>
   <!--</li>
   <li>-->
+  <br>
+  
   <details>
   <summary>
    <strong>Icons Retrieval Service</strong>
@@ -122,6 +125,8 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 <!-- </li>
  </ul>-->
 </details> 
+
+<br>
 
 Search engine allows to programmatically search for icons metadata, whereas icons retrieval service utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. <b>Click on the collapsible items above to read more details about each of the services.</b>
 
