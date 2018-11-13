@@ -28,9 +28,11 @@ In a short, [service integration](...) gives you an ability to access icons prog
 
 
 
+<ul>
+  <li>
   <details>
   <summary>
-   <strong>Icons Retrievl Service</strong>
+   <strong>Omg-Img service</strong>
   </summary>
 
 
@@ -114,7 +116,6 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 - <img src='http://img.icons8.com/office/50px/car.png?office=80'> `http://img.icons8.com/office/50px/car.png?office=80`
 
 
-
 <br>
  </details>
  </li>
@@ -128,6 +129,8 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  Photo API
  </details>
   </li>
+ </ul>
+</details> 
 <hr> 
 
 
