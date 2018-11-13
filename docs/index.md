@@ -204,6 +204,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  </ul>
 </details> 
 <br>-->
+<br>
   <details>
   <summary>
    <strong>Licensing model</strong>
@@ -244,6 +245,8 @@ Search engine allows to programmatically search for icons metadata, whereas icon
   </summary>
  Desktop Apps (Windows & Mac)
  </details>
+ 
+ <br>
  
   <details>
   <summary>
@@ -373,7 +376,7 @@ Kindly note that after you make subscription and it expires you are not able to 
 
 <details>
   <summary>
-   <strong>SEARCH. EDIT. LAYOUT. DOWNLOAD. FONTS. COLLECTIONS. </strong>
+   <strong>Search. Edit. Layout. Download. Fonts. Collections. </strong>
  </summary>
  
  <ol>
