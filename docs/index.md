@@ -223,6 +223,8 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 
 
 ## Standard Framework
+
+Under the <b>Standard Framework</b> we consider a set of tools that allow our clients to manually search and retreive icons. These tools are:
  
   <details>
   <summary>
@@ -264,6 +266,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  </details>
  <br>
 
+Both <b>Web and Desktop Apps</b> have a very similar functionality with some distinctions that are <b>described in detailed in each of the collapsable item above</b>. 
  
   
 
