@@ -12,7 +12,7 @@ One of the most frequently asked questions from our customers is "<b>what licens
 
 
 ## Service Integration Framework
-In a short, [service integration](...) gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. With the use of  [service integration](...), end-users of your products could generate their own projects, build their own visual content from within your apps tied to our [service](...). The framework consist of:
+In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. With the use of service integration, end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
 
 
 <!--<ul>
@@ -339,6 +339,7 @@ Kindly note that after you make subscription and it expires you are not able to 
 </ol> 
  </details>
 
+<br>
 
 <details>
   <summary>
