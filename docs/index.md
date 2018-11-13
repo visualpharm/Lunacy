@@ -1,13 +1,14 @@
 # Welcome to icons  services user manual
 This document covers pretty much everything you need to know about how to get started and succeed with icons services.
 # Why icons services?
-The demand for visual content seems is only getting stronger nowadays. More views, more downloads, more profit are associated with visually rich posts, apps and all sort of UX in general. This trend poses a new challenge for developers and UX designers: how to efficiently manage the basic pieces of visual content in their projects? Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
-Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed. These two pathways are known as '[standard](...)' and '[service integration](...)' frameworks. Each framework is associated with certain set of tools which are discussed below in detail. 
+The demand for visual content seems is only getting stronger nowadays. More views, more downloads, more profit are associated with visually rich posts, apps and all sort of UX in general. This trend poses a new challenge for developers and UX designers: how to efficiently manage the basic pieces of visual content in their projects? Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
 # Which framework do I need?
 
-One of the most frequently asked questions from our customers is "<b>what license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. The rest of this document is purposely dedicated to give you a clear answer for that question and to grasp the essentials of the frameworks. 
+Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed. These two pathways are known as '[standard](...)' and '[service integration](...)' frameworks. Each framework is associated with certain set of tools which are discussed below in detail. 
+
+One of the most frequently asked questions from our customers is "<b>what license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. The rest of this document is purposely dedicated to give you a clear answer for that question and to master the essentials of the frameworks. 
 
 
 ## Service Integration Framework
@@ -309,7 +310,7 @@ Below is the list of suggested places where you may set up a link:
  <details>
   <summary>
      
-   <strong>Service Integration Framework. Licensing. Reqwests limits. API Key. Limitations. Use cases. What if ... </strong>
+   <strong>Service Integration Framework. Licensing. Reqwests limits. API Key. Limitations. Use cases. What if. </strong>
  </summary>
  
  <ol>
