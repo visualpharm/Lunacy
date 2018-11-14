@@ -71,6 +71,7 @@ Notice that you can filter results with style/platform and then group the result
 Notice that Search Engine will not return the categories that have less than 10 icons. 
 
 |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
+|----------|--------|
 
 
 
