@@ -314,7 +314,7 @@ Below is the list of suggested places where you may set up a link:
  
  <details>
   <summary>
-   <strong>Service Integration Framework. Licensing. Reqwests limits. API Key. Limitations. Use cases. What if ... </strong>
+   <strong>Service Integration Framework. Licensing. Requests limits. API Key. Limitations. Use cases. What if ... </strong>
  </summary>
  
  <br>
