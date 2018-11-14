@@ -25,12 +25,10 @@ In a short, service integration gives you an ability to access icons programmati
   
   <br>
  <!--## Overview-->
-The big idea behind the icons API is the ease of manipulation with visual content. Having just a huge bunch of icons files may not necessarily help you to efficiently and competitively produce and support agile development. Wouldn't it be much more better to have a dedicated platform like [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing, updating, and delivering the visual content in most suitable forms to outperform expectations of even the most demanding developers and UX designers? That is actually what the icons/photos services are all about. 
+The big idea behind the Search Engine is the ease of manipulation of icons metadata. The endpoint for searching requests is: [https://search.icons8.com/api/iconsets/v4/search](https://search.icons8.com/api/iconsets/v4/search). In order to perform a serching request to our Search Engine you embed your API key just right into the request just as follows: [https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token="YOUR API KEY](https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token="YOUR API KEY). You may change the order of parameters in you request as you prefer. Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
 
-This is us, the Icons8, who takes the responsibility to maintain the whole [infrastructure](https://api.icons8.com/) of managing and accessing visual content to let our clients to focus on delivering new products to the market with highest pace and lowest cost possible.
 
-In a nutshell, [icons API](https://api.icons8.com/) represents by itself a web service with a list of web methods to manipulate with the visual content on the fly. The web methods could be invoked from various types of applications either web, desktop, or mobile. This is how integration is being achieved. Such architecture gives a unique level of flexibility to our clients to develop very sophisticated applications with outstanding UX and optimised time-to-market.
-
+Notice that Search Engine will not return the categories that have less than 10 icons. 
 
 
 
@@ -39,9 +37,6 @@ In a nutshell, [icons API](https://api.icons8.com/) represents by itself a web s
 
 ## Elements, Attributes, Parameters
 
-## API vs. JSON (pros&cons)
-### What If We Go out of Business etc.
-## Examples
 
 ## Use cases
 These are examples of API usage in production applications:
@@ -53,30 +48,7 @@ These are examples of API usage in production applications:
 -   **Application customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
 
 
- 
 
-## API or JSON?
-
-**We think  [API](https://api.icons8.com/)  is better.**  It took us a couple of years to develop it. In particular, it provides:
-
--   Sphinx full-text  [search](https://icons8.com/icon/131/search)  with morphology
--   A third party spell  [check](https://icons8.com/icon/set/check/all)  API
--   Multiple operations that would take months of development
--   Also, we’ve learned some stuff the hard way, by doing it and removing it. For example, using synonyms APIs proved to be a failure
--   Also, we keep improving the metadata daily
-
-On the other hand,  **utilizing JSON on your side is 100% reliable;**  you can’t beat that.
-
-## What If We Go out of Business?
-
-If we want you to count on our technology, we must earn your trust. Here is what happens  _in an extremely unlikely event of an emergency_, as they say in the pre-flight safety demonstrations.
-
-If we go out of  [business](https://icons8.com/web-app/category/Business), the following will happen:
-
--   **We’ll keep the website**, including our API,  [running](https://en.icons8.com/web-app/915/running)  for years. Although we utilize a number of servers for everything from generating the icons to serving content to Google, the core of the website is an $80 droplet on Digital Ocean. We must be extremely broke to shut it down.
--   **If you’ve used JSON, you are 100% safe.**  If you use our API, keep our JSON export as a backup; if anything happens, you’ll have years to switch to it.
-
-However, the probability of going out of  [business](https://icons8.com/icon/pack/business)  is low. Our company,  [VisualPharm](http://visualpharm.com/), has existed since 2003; the cash flow is good, and we grow organically without any loans.
 
 ## License Expiration
 
@@ -99,13 +71,11 @@ _Exception_: we will not charge for the software that you don’t support anymor
 -   Please make it clear to your users that they can only use the icons for creations with your software. They cannot export the icons and use them in other authoring tools.
 -   Please make it clear to your users that they can purchase additional licenses.
 - 
-## Getting Started
+## Pricing / Getting Started
 
-To get started, please  [contact us](https://icons8.com/contact)  to obtain an API key.
+The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
 
-## Pricing
 
-Our API license starts at $100/month.
  </details>
   <!--</li>
   <li>-->
