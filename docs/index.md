@@ -212,14 +212,14 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  
   <details>
   <summary>
-   <strong>Service Integration Licensing Model</strong>
+   <strong>Service Integration Framework Licensing Model</strong>
   </summary>
   
   <br>
   more details goes here ...
   
  </details>
- <br>
+ 
 
 
 ## Standard Framework
@@ -266,7 +266,7 @@ Both <b>Web and Desktop Apps</b> have a very similar functionality with some dis
   more details goes here ...
   
  </details>
- <br>
+ 
  
   
 
@@ -360,6 +360,7 @@ Notice, the icons that we have are of a vector format and that is why they could
    <strong>Standard Framework. Licensing. Free usage. Editing. Web / Desktop. Usage after cancelation. Distribution. </strong>
  </summary>
  
+ <br>
  <ol>
   <li>
    <details>
