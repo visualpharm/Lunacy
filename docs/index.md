@@ -14,19 +14,6 @@ One of the most frequently asked questions from our customers is "<b>what licens
 ## Service Integration Framework
 In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. With the use of service integration, end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
 
-|Language|Language name|
-|----------|--------|
-|en-US|English|
-|fr-FR|French|
-|de-DE|German|
-|it-IT|Italian|
-|pt-BR|Portuguese|
-|pl-PL|Polish|
-|ru-RU|Russian|
-|es-ES|Spanish|
-|zh-CN|Chinese|
-|ja-JP|Japanese|
-
 <!--<ul>
   <li>-->
     
@@ -77,19 +64,20 @@ The maximum number of icons which you'd like to receive; the default and maximum
 
 ### Offset
 The offset from the first received result; default is 0
-
+<hr>
+ 
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
 
 Notice that Search Engine will not return the categories that have less than 10 icons. 
 
-
-
+- <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/public/mAz4bmww76HilrhUizdqvw_img_10.png'> `test`
 
 
 
  </details>
   <!--</li>
   <li>-->
+  <hr>
   <br>
   
   <details>
