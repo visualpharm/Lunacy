@@ -317,6 +317,7 @@ Below is the list of suggested places where you may set up a link:
    <strong>Service Integration Framework. Licensing. Reqwests limits. API Key. Limitations. Use cases. What if ... </strong>
  </summary>
  
+ <br>
  <ol>
   <li>
    <details>
@@ -331,11 +332,20 @@ Below is the list of suggested places where you may set up a link:
  <li>
  <details>
   <summary>
-   <strong>What is the end point for the Search Engine? Give me an example, please!</strong>
+   <strong>What are the end points for icons Searching/Retrieval? Give me few examples, please!</strong>
  </summary>
   
- The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search You surely need an API key for querying a specific icon in any size, colour, format etc. To query an icon you embed your API key just right into the query request http://img.icons8.com/ios/F0AC34/search.svg?token="your API KEY" You may change the order of parameters in you request. This is a real example: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=ee8486a7b6274658a13f206ab6127115
- Notice that you can filter with style/platform and then group the results with the use of categories. Basically when you supply a search query to our v4 service you get back a json/xml which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
+ The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search for retrieval: http://img.icons8.com In order to serch / retrieve an icon you embed your API key just right into the requests: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY" http://img.icons8.com/ios/F0AC34/search.svg?token= "YOUR API KEY" You may change the order of parameters in you request accodring to the documantation. Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our v4 service you get back a json which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
+ </details>
+  <hr>
+</li>
+ <li>
+ <details>
+  <summary>
+   <strong>Why icon size is not icluded in metadata returned by Search Engine? Why Pixel Perfect?</strong>
+ </summary>
+  
+Notice, the icons that we have are of a vector format and that is why they could be of any size. By this reason we do not include the icon's size in metadata. I.e. you can substitute any size in the request of a retrieval serivce and receive the corresponding png icon in the requested size. For icons retrieval we use [Omg-Img](...) service. To retrieve an icon you embed your API key just right into your request http://img.icons8.com/ios/F0AC34/search.svg?token= "YOUR API KEY" You may change the order of parameters in your request. Also keep in mind that due to the conversion of svg into png the "pixel perfect" come into play. To eliminate the artefacts of format conversion (from vector to raster) there is an appropriate size for each platform which you can then multiply by various factors 1x, 2x, 3x etc. to get the png size you need. 
  </details>
   <hr>
 </li>
@@ -374,6 +384,20 @@ Kindly note that after you make subscription and it expires you are not able to 
  </details>
   <hr>
 </li>
+ <li>
+ <details>
+  <summary>
+   <strong>How can I purchase just a single icon?</strong>
+ </summary>
+  
+Unfortunately we do not have such an option at the moment. The best solution would be to purchase a subscription for a month, then download as many icons as you need and eventually cancel the subscription. You truly may cancel your subscription at any time, no hidden costs, no tricks no stuff like that. After your subscription is canceled you may continue to use your icons in current or future commercial projects. These icons stay yours for good. Though there are few restrictions are applied: https://icons8.com/download/Icons8_License.pdf
+ </details>
+  <hr>
+</li>
+
+
+
+
 </ol> 
 
 
