@@ -255,7 +255,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allow our cl
  
  <br>
 
-Both <b>Web and Desktop Apps</b> have a very similar functionality with some distinctions that are <b>described in detailed in each of the collapsable item above</b>. The <b>Licensing Model</b> for the <b>Standard Framework</b> can be viewed by clicking on the item below:
+Both <b>Web and Desktop Apps</b> have a very similar functionality with some distinctions that are <b>described in detailed in each of the collapsable items above</b>. The <b>Licensing Model</b> for the <b>Standard Framework</b> can be viewed by clicking on the item below:
  
   <details>
   <summary>
