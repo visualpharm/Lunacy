@@ -25,20 +25,52 @@ In a short, service integration gives you an ability to access icons programmati
   
   <br>
  <!--## Overview-->
-The big idea behind the Search Engine is the ease of manipulation of icons metadata. The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search. In order to perform a serching request to our Search Engine you embed your API key just right into the request just as follows: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY". You may change the order of parameters in you request as you prefer. Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
+The big idea behind the Search Engine is the ease of manipulation of icons metadata. The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search. In order to send a serching request to our Search Engine you embed your API key just right into the request as following: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY". You may change the order of parameters in you request as you prefer. Here is a list of parameters that youcan supply into request:
 
+### Platform
+
+Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We’re sorry we have various parameters meaning the same.
+|Platform|Icon style|
+|----------|--------|
+|win8|icons in the Microsoft Windows 8/Metro style|
+|win10 |icons in the Microsoft Windows 10/Threshold|
+|ios7|icons in the Apple iOS 7/8/9/10 style|
+|android|icons in the Google Android 4 Kitkat style|
+|androidL|icons in the Google Android 5 Lollipop (Material) style|
+|color|flat color icons|
+|office|icons in the Microsoft Office style|
+
+### Language
+
+Icon names, categories and tags are localized. Here's the list of supported languages:
+|Language|Language name|
+|----------|--------|
+|en-US|English|
+|fr-FR|French|
+|de-DE|German|
+|it-IT|Italian|
+|pt-BR|Portuguese|
+|pl-PL|Polish|
+|ru-RU|Russian|
+|es-ES|Spanish|
+|zh-CN|Chinese|
+|ja-JP|Japanese|
+
+The primary language is English - if we do not translate something, it will be in English.
+
+### Amount
+The maximum number of icons which you'd like to receive; the default and maximum value is 25
+
+### Offset
+The offset from the first received result; default is 0
+
+Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
 
 Notice that Search Engine will not return the categories that have less than 10 icons. 
 
 
 
-
-
-
-## Elements, Attributes, Parameters
-
-
-## Use cases
+### Use cases
 These are examples of API usage in production applications:
 
 -   **Template customisation.**  <br> This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
@@ -50,30 +82,7 @@ These are examples of API usage in production applications:
 
 
 
-## License Expiration
 
-A license is valid for one year after the purchase. It includes:
-
--   All icons created to the date + one year of new icons
--   Access to our API (according to your plan)
--   Support (according to your plan)
-
-After one year, we will offer you a subscription for another year.
-
-_Exception_: we will not charge for the software that you don’t support anymore. You can keep distributing the software for free, if:
-
--   It has all icons offline and doesn’t use our API
--   You don’t release new versions after the license expiration
-
-## Limitations
-
--   The price includes  _all icons at the moment of the purchase + 1 year of new icons_. The icons that we create after 1 year cost $249 per year.
--   Please make it clear to your users that they can only use the icons for creations with your software. They cannot export the icons and use them in other authoring tools.
--   Please make it clear to your users that they can purchase additional licenses.
-- 
-## Pricing / Getting Started
-
-The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
 
 
  </details>
@@ -186,7 +195,30 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   </summary>
   
   <br>
-  more details goes here ...
+  ### License Expiration
+
+A license is valid for one year after the purchase. It includes:
+
+-   All icons created to the date + one year of new icons
+-   Access to our API (according to your plan)
+-   Support (according to your plan)
+
+After one year, we will offer you a subscription for another year.
+
+_Exception_: we will not charge for the software that you don’t support anymore. You can keep distributing the software for free, if:
+
+-   It has all icons offline and doesn’t use our API
+-   You don’t release new versions after the license expiration
+
+## Limitations
+
+-   The price includes  _all icons at the moment of the purchase + 1 year of new icons_. The icons that we create after 1 year cost $249 per year.
+-   Please make it clear to your users that they can only use the icons for creations with your software. They cannot export the icons and use them in other authoring tools.
+-   Please make it clear to your users that they can purchase additional licenses.
+- 
+## Pricing / Getting Started
+
+The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
   
  </details>
  
