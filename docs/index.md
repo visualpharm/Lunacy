@@ -212,7 +212,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  
   <details>
   <summary>
-   <strong>Licensing Model</strong>
+   <strong>Service Integration Licensing Model</strong>
   </summary>
   
   <br>
@@ -259,7 +259,7 @@ Both <b>Web and Desktop Apps</b> have a very similar functionality with some dis
  
   <details>
   <summary>
-   <strong>Licensing Model</strong>
+   <strong>Standard Framework Licensing Model</strong>
   </summary>
   
   <br>
@@ -321,6 +321,39 @@ Below is the list of suggested places where you may set up a link:
   <li>
    <details>
     <summary>
+      <strong>How can I purchase Service Integration API Key? What is included?</strong>
+    </summary>
+    
+   The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
+   </details>
+ <hr>
+ </li>
+ <li>
+ <details>
+  <summary>
+   <strong>What is the end point for the Search Engine? Give me an example, please!</strong>
+ </summary>
+  
+ The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search You surely need an API key for querying a specific icon in any size, colour, format etc. To query an icon you embed your API key just right into the query request http://img.icons8.com/ios/F0AC34/search.svg?token="your API KEY" You may change the order of parameters in you request. This is a real example: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=ee8486a7b6274658a13f206ab6127115
+ Notice that you can filter with style/platform and then group the results with the use of categories. Basically when you supply a search query to our v4 service you get back a json/xml which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
+ </details>
+  <hr>
+</li>
+</ol> 
+
+ </details>
+
+<br>
+
+<details>
+  <summary>
+   <strong>Standard Framework. Licensing. Free usage. Editing. Web / Desktop. Usage after cancelation. Distribution. </strong>
+ </summary>
+ 
+ <ol>
+  <li>
+   <details>
+    <summary>
       <strong>Can I use Icons8 for free?</strong>
     </summary>
     
@@ -342,78 +375,11 @@ Kindly note that after you make subscription and it expires you are not able to 
   <hr>
 </li>
 </ol> 
- </details>
-
-<br>
-
-<details>
-  <summary>
-   <strong>Standard Framework. Licensing. Free usage. Editing. Web / Desktop. Usage after cancelation. Distribution. </strong>
- </summary>
- 
- <ol>
-  <li>
- 
-   <details>
-    <summary>
-      <strong>Can I ...?</strong>
-    </summary>
- 
-   more discussion goes here ...
-   </details>
- 
- <hr>
- </li>
- <li>
- <details>
-  <summary>
-   <strong>Can I ...?</strong>
- </summary>
-  
- more discussion goes here ...
- </details>
- <hr>
-</li>
-</ol>
 
 
 
 
 
-
-
-
-
-<details>
-  <summary>
-   <strong>Search. Edit. Layout. Download. Fonts. Collections. </strong>
- </summary>
- 
- <ol>
-  <li>
- 
-   <details>
-    <summary>
-      <strong>Can I ...?</strong>
-    </summary>
- 
-  more discussion goes here ...
-   </details>
- 
- <hr>
- </li>
- <li>
- <details>
-  <summary>
-   <strong>Can I ...?</strong>
- </summary>
-  
- more discussion goes here ...
- </details>
- <hr>
-</li>
-</ol>
-</details> 
 
 
 
