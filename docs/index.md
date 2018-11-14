@@ -64,20 +64,20 @@ The maximum number of icons which you'd like to receive; the default and maximum
 
 ### Offset
 The offset from the first received result; default is 0
-<hr>
+
  
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
 
 Notice that Search Engine will not return the categories that have less than 10 icons. 
 
-- <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/public/mAz4bmww76HilrhUizdqvw_img_10.png'> `test`
+|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
 
 
 
  </details>
   <!--</li>
   <li>-->
-  <hr>
+  
   <br>
   
   <details>
@@ -211,15 +211,25 @@ _Exception_: we will not charge for the software that you don’t support anymor
 The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
   
  </details>
- 
-### Use cases
-These are examples of API usage in production applications:
+ <br>
+ <details>
+  <summary>
+   <strong>Use cases</strong>
+  </summary>
+  
+  <br>
+
+  These are examples of API usage in production applications:
 
 -   **Template customisation.**  <br> This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
     
 -   **Graphics and text editors.** <br>  [Gravit](https://gravit.io/)  allows to insert our icons via API into their mockups.
     
 -   **Application customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
+
+ </details>
+ 
+
 
 
 ## Standard Framework
