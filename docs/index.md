@@ -14,6 +14,18 @@ One of the most frequently asked questions from our customers is "<b>what licens
 ## Service Integration Framework
 In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. With the use of service integration, end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
 
+|Language|Language name|
+|----------|--------|
+|en-US|English|
+|fr-FR|French|
+|de-DE|German|
+|it-IT|Italian|
+|pt-BR|Portuguese|
+|pl-PL|Polish|
+|ru-RU|Russian|
+|es-ES|Spanish|
+|zh-CN|Chinese|
+|ja-JP|Japanese|
 
 <!--<ul>
   <li>-->
@@ -30,6 +42,7 @@ The big idea behind the Search Engine is the ease of manipulation of icons metad
 ### Platform
 
 Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We’re sorry we have various parameters meaning the same.
+
 |Platform|Icon style|
 |----------|--------|
 |win8|icons in the Microsoft Windows 8/Metro style|
@@ -43,6 +56,7 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 ### Language
 
 Icon names, categories and tags are localized. Here's the list of supported languages:
+
 |Language|Language name|
 |----------|--------|
 |en-US|English|
@@ -67,18 +81,6 @@ The offset from the first received result; default is 0
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
 
 Notice that Search Engine will not return the categories that have less than 10 icons. 
-
-
-
-### Use cases
-These are examples of API usage in production applications:
-
--   **Template customisation.**  <br> This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
-    
--   **Graphics and text editors.** <br>  [Gravit](https://gravit.io/)  allows to insert our icons via API into their mockups.
-    
--   **Application customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
-
 
 
 
@@ -222,6 +224,14 @@ The starter icons Service Integration is $100/month - it includes up to 100 000 
   
  </details>
  
+### Use cases
+These are examples of API usage in production applications:
+
+-   **Template customisation.**  <br> This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
+    
+-   **Graphics and text editors.** <br>  [Gravit](https://gravit.io/)  allows to insert our icons via API into their mockups.
+    
+-   **Application customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
 
 
 ## Standard Framework
