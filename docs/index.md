@@ -26,9 +26,10 @@ In a short, service integration gives you an ability to access icons programmati
   
   <br>
  <!--## Overview-->
-The big idea behind the Search Engine is the ease of manipulation of icons metadata. The endpoint for searching requests is: 
+The big idea behind the Search Engine is the ease of manipulation of icons metadata. Requests to the search engine are constracted from a set of paramters, concatenated one after another in a raw, prefixed with the endpoint for the latest version of the engine <b>V4</b>: 
 https://api.icons8.com/api/iconsets/v4/search
 <!--https://search.icons8.com/api/iconsets/v4/search.-->
+This is an example of request: 
 In order to send a serching request to our Search Engine you embed your API key just right into the request as following: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY". You may change the order of parameters in you request as you prefer. Here is a list of parameters that you can supply into request:
 
 ### Platform
