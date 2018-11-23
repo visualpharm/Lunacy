@@ -7,7 +7,7 @@ The demand for visual content seems is only getting stronger nowadays. Having ju
 
 # Which license do I need?
 
-Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed and utilized. These two licensing pathways are known as <b>['standard'](#standard-framework) and ['service integration'](#service-integration-framework) frameworks</b>. Each framework is associated with certain set of tools which are discussed below in detail. 
+Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed and utilized. These two licensing pathways are known as <b>['Standard'](#standard-framework) and ['Service Integration'](#service-integration-framework) frameworks</b>. Each framework is associated with certain set of tools which are discussed below in detail. 
 
 <!--
 One of the most frequently asked questions from our customers is "<b>which license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. The rest of this document is purposely dedicated to give you a clear answer for that question and to master the essentials of the frameworks. -->
@@ -44,9 +44,7 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 |androidL|icons in the Google Android 5 Lollipop (Material) style| 
 |color|flat color icons| 
 |office|icons in the Microsoft Office style| 
-
-    
- |ultraviolet|Ultraviolet|				
+|ultraviolet|Ultraviolet|				
 |nolan|Nolan|				
 |p1em|1em|
 |dotty|	Dotty Dots|	
@@ -67,10 +65,10 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 15	m_rounded	Material Rounded	✓		/static/effects/svg/icons/androidL/	✓	Update
 16	m_two_tone	Material Two Tone				✓	Update
 17	m_sharp	Material Sharp	✓		/static/effects/svg/icons/androidL/	✓	Update
-
+|linen|Linen|
 
 -->
-|linen|Linen|
+
 ### Language
 
 Icon names, categories and tags are localized. Here's the list of supported languages:
