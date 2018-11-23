@@ -85,7 +85,7 @@ Notice that Search Engine will not return the categories that have less than 10 
   
   <details>
   <summary>
-   <strong>Icons Retrieval Service (Omg-Img)</strong>
+   <strong>Retrieval Engine</strong>
   </summary>
 
 <br>
@@ -184,7 +184,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  
   <details>
   <summary>
-   <strong>Service Integration Framework Licensing Model</strong>
+   <strong>Licensing</strong>
   </summary>
   
   <br>
@@ -217,7 +217,7 @@ The starter icons Service Integration is $100/month - it includes up to 100 000 
  <br>
  <details>
   <summary>
-   <strong>Use cases</strong>
+   <strong>Use Cases</strong>
   </summary>
   
   <br>
