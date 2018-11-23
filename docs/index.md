@@ -1,7 +1,7 @@
-# Welcome to icons  services user manual
+# Welcome to icons user manual
 This document covers pretty much everything you need to know about how to get started and succeed with icons services.
 
-# Why icons services?
+# Why the Icons8 for icons?
 
 The demand for visual content seems is only getting stronger nowadays. Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
@@ -26,7 +26,10 @@ In a short, service integration gives you an ability to access icons programmati
   
   <br>
  <!--## Overview-->
-The big idea behind the Search Engine is the ease of manipulation of icons metadata. The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search. In order to send a serching request to our Search Engine you embed your API key just right into the request as following: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY". You may change the order of parameters in you request as you prefer. Here is a list of parameters that youcan supply into request:
+The big idea behind the Search Engine is the ease of manipulation of icons metadata. The endpoint for searching requests is: 
+https://api.icons8.com/api/iconsets/v4/search
+<!--https://search.icons8.com/api/iconsets/v4/search.-->
+In order to send a serching request to our Search Engine you embed your API key just right into the request as following: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY". You may change the order of parameters in you request as you prefer. Here is a list of parameters that you can supply into request:
 
 ### Platform
 
@@ -34,14 +37,40 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 
 |Platform|Icon style|
 |----------|--------|
-|win8|icons in the Microsoft Windows 8/Metro style|
+|win8|icons in the Microsoft Windows 8/Metro style| 
 |win10 |icons in the Microsoft Windows 10/Threshold|
-|ios7|icons in the Apple iOS 7/8/9/10 style|
-|android|icons in the Google Android 4 Kitkat style|
-|androidL|icons in the Google Android 5 Lollipop (Material) style|
-|color|flat color icons|
-|office|icons in the Microsoft Office style|
+|ios7|icons in the Apple iOS 7/8/9/10 style|  
+|android|icons in the Google Android 4 Kitkat style| 
+|androidL|icons in the Google Android 5 Lollipop (Material) style| 
+|color|flat color icons| 
+|office|icons in the Microsoft Office style| 
 
+    
+ |ultraviolet|Ultraviolet|				
+|nolan|Nolan|				
+|p1em|1em|
+|dotty|	Dotty Dots|	
+|dusk|Dusk|				
+<!--
+75	Dusk_Wired	Wired	✓			✓	Update
+140	cotton	Cotton				✓	Update
+12	ios11	iOS Tab Bar Icons (Glyphs)	✓			✓	Update
+301	clouds	Clouds				✓	Update
+302	bubbles	Bubbles				✓	Update
+303	plasticine	Plasticine				✓	Update
+304	carbon_copy	Carbon Copy	✓			✓	Update
+250	doodle	Doodle				✓	Update
+251	fineline	Fune Line					Update
+252	isometric	Isometric					Update
+253	flat_round	Flat Round				✓	Update
+14	m_outlined	Material Outlined	✓		/static/effects/svg/icons/androidL/	✓	Update
+15	m_rounded	Material Rounded	✓		/static/effects/svg/icons/androidL/	✓	Update
+16	m_two_tone	Material Two Tone				✓	Update
+17	m_sharp	Material Sharp	✓		/static/effects/svg/icons/androidL/	✓	Update
+
+
+-->
+|linen|Linen|
 ### Language
 
 Icon names, categories and tags are localized. Here's the list of supported languages:
@@ -62,10 +91,10 @@ Icon names, categories and tags are localized. Here's the list of supported lang
 The primary language is English - if we do not translate something, it will be in English.
 
 ### Amount
-The maximum number of icons which you'd like to receive; the default and maximum value is 25
+The maximum number of icons which you'd like to receive. Default value is 25
 
 ### Offset
-The offset from the first received result; default is 0
+The offset from the first received result. Default value is 0
 
  
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
