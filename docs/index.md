@@ -5,11 +5,12 @@ This document covers pretty much everything you need to know about how to get st
 
 The demand for visual content seems is only getting stronger nowadays. Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
-# Which license/framework do I need?
+# Which license do I need?
 
-Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed and utilized. These two pathways are known as <b>['standard'](#standard-framework) and ['service integration'](#service-integration-framework) frameworks</b>. Each framework is associated with certain set of tools which are discussed below in detail. 
+Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed and utilized. These two licensing pathways are known as <b>['standard'](#standard-framework) and ['service integration'](#service-integration-framework) frameworks</b>. Each framework is associated with certain set of tools which are discussed below in detail. 
 
-One of the most frequently asked questions from our customers is "<b>which license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. The rest of this document is purposely dedicated to give you a clear answer for that question and to master the essentials of the frameworks. 
+<!--
+One of the most frequently asked questions from our customers is "<b>which license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. The rest of this document is purposely dedicated to give you a clear answer for that question and to master the essentials of the frameworks. -->
 
 
 ## Service Integration Framework
