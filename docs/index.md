@@ -1,7 +1,7 @@
 # Welcome to icons user manual
 This document covers pretty much everything you need to know about how to get started and succeed with icons services.
 
-# Why the Icons8?
+# Why Icons8?
 
 The demand for visual content seems is only getting stronger nowadays. Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
@@ -32,7 +32,7 @@ In a short, service integration gives you an ability to access icons programmati
   <li>
    <details>
     <summary>
-      <strong> How to to search for icons metadata? </strong>
+      <strong> What is searching request ?</strong>
     </summary>
  Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
      
@@ -44,7 +44,7 @@ In a short, service integration gives you an ability to access icons programmati
       <strong> Searching Parameters </strong>
     </summary>
      
-     ### Platform Parameter
+ ### Platform Parameter
 
 Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
 
@@ -107,25 +107,22 @@ The maximum number of icons which you'd like to receive. Default value is 25
 ### Offset Parameter
 The offset from the first received result. Default value is 0
 
-    </details>
+   </details>
    </li>
    <li>
-    <details>
+   <details>
      <summary>
        <strong> sample JSON returned by the service </strong>
      </summary>
       
  |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
 |----------|--------|
-     </details>
-    </li>
+    </details>
+   </li>
  
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories.
 
 Please pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
-
-
-
 
 
  </details>
@@ -140,7 +137,6 @@ Please pay attention that the <b>Search Engine</b> will not return the categorie
     
   </summary>
 
-<br> 
   <b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
 
 <ul>
