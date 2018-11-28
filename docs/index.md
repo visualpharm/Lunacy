@@ -98,7 +98,7 @@ The offset from the first received result. Default value is 0
  
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
 
-Notice that Search Engine will not return the categories that have less than 10 icons. 
+Notice that Search Engine will not return the categories that have less than 10 icons.
 
 |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
 |----------|--------|
@@ -118,7 +118,20 @@ Notice that Search Engine will not return the categories that have less than 10 
 
 <br>
 **1. Why [omg-img](http://img.icons8.com/) service?**
+While the <b>Search Engine</b> allows to programmatically search for icons metadata, whereas <b>Icons Retrieval Service</b> utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc.
 The service empowers developers and interface designers to get new UI products to the market faster at a lower cost. It drastically increases the workflow efficiency and let your team to stay focused on business logic of your app not on the low level processing tasks such as adjusting icons sizes, colors, formats etc. You even don’t have to export an icon and store it on a server. Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
+
+**2. Free VS Paid.**
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that API license provide extra features which are:
+- functionality to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+The possibility to request a large number of items in any size, color or format
+The possibility to search for icons using our search engine 2.
+
+3. How to request items in the extended format
+E.G. http://img.icons8.com/ios/F0AC34/search.svg?token=******* 6
+
+
 
 **2. Icon’s search available straight from the address bar of your browser.**
 For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
@@ -218,24 +231,6 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   <br>
   ### License Expiration
 
-A license is valid for one year after the purchase. It includes:
-
--   All icons created to the date + one year of new icons
--   Access to our API (according to your plan)
--   Support (according to your plan)
-
-After one year, we will offer you a subscription for another year.
-
-_Exception_: we will not charge for the software that you don’t support anymore. You can keep distributing the software for free, if:
-
--   It has all icons offline and doesn’t use our API
--   You don’t release new versions after the license expiration
-
-## Limitations
-
--   The price includes  _all icons at the moment of the purchase + 1 year of new icons_. The icons that we create after 1 year cost $249 per year.
--   Please make it clear to your users that they can only use the icons for creations with your software. They cannot export the icons and use them in other authoring tools.
--   Please make it clear to your users that they can purchase additional licenses.
 - 
 ## Pricing / Getting Started
 
