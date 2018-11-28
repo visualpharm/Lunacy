@@ -114,7 +114,7 @@ Below is a sample JSON returned by the service:
   </summary>
 
 <br>
-**1. Why [omg-img](http://img.icons8.com/) service?**
+**1. Why [omg-img](http://img.icons8.com/) service?** <br>
 <b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
 
  Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
