@@ -103,23 +103,7 @@ Below is a sample JSON returned by the service:
 
  </details>
     
-    
-  <details>
-  <summary>
-   <strong>Search Engine</strong>
-  </summary>
-  
-  <br>
- <!--## Overview-->
-Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
-
-### Platform Parameter
-
-Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the 			
- 
-
-
- </details>
+<hr>
   
   <br>
   
