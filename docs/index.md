@@ -28,16 +28,11 @@ In a short, service integration gives you an ability to access icons programmati
   
  <!--## Overview-->
  
- <ul>
-  <li>
-   <details>
-    <summary>
-      <strong> What is searching request ?</strong>
-    </summary>
- Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+ 
+   
+Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
      
-   </details> 
-  </li>
+  <ul>
   <li>
    <details>
     <summary>
@@ -119,17 +114,11 @@ The offset from the first received result. Default value is 0
 |----------|--------|
     </details>
    </li>
- 
+ <br>
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories.
-
+<br>
 Please pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
-
-
  </details>
-    
- 
-  
-  <br>
   
   <details>
   <summary>
@@ -137,7 +126,7 @@ Please pay attention that the <b>Search Engine</b> will not return the categorie
     
   </summary>
 
-  <b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
+<b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
 
 <ul>
   <li>
@@ -194,8 +183,8 @@ On our website, there is a list of icons styles on the left pane of the icons pa
 [Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
  </details>
  
-   </li>
- </ul> 
+ </li>
+</ul> 
   
 
 **4. Recolouring monochrome icons made easy**
@@ -253,9 +242,8 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 - <img src='http://img.icons8.com/office/50px/car.png?office=40'> `http://img.icons8.com/office/50px/car.png?office=40`
 - <img src='http://img.icons8.com/office/50px/car.png?office=80'> `http://img.icons8.com/office/50px/car.png?office=80`
 
-
-<br>
- </details>
+ 
+</details>
  
  
 <!-- </li>
