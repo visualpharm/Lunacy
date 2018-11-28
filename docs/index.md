@@ -12,14 +12,7 @@ Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in ot
 <!--
 One of the most frequently asked questions from our customers is "<b>which license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. The rest of this document is purposely dedicated to give you a clear answer for that question and to master the essentials of the frameworks. -->
 
-  <details>
-  <summary>
-   <strong>TEST</strong>
-    
-  </summary>
   
-  TEST
-  </details>
 
 ## Service Integration Framework
 In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
@@ -123,35 +116,38 @@ Below is a sample JSON returned by the service:
   </summary>
 
 <br> 
-
- <ol>
-  <li>
-   <details>
-    <summary>
-      <strong>Why [omg-img](http://img.icons8.com/) service? </strong>
-    </summary>
-    
   <b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
 
  Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
    
-   </details>
- <hr>
- </li>
- <li>
- <details>
-  <summary>
-   <strong> Free VS Paid </strong>
- </summary>
-  
-
-**2..**
+ <ul>
+  <li>
+   <details>
+    <summary>
+      <strong> Free VS Paid </strong>
+    </summary>
+    
 Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that API license provide extra features which are:
 - functionality to generate PNG icons larger than 550 px
 - access to vector-format icons (SVG, EPS, PDF)
 The possibility to request a large number of items in any size, color or format
 The possibility to search for icons using our search engine 2.
+   </details> 
+ </li>
+ <li>
+ <details>
+  <summary>
+   Icon’s search available straight from the address bar of your browser
+ </summary>
+   
+For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
 
+ - https://img.icons8.com/home 
+ - https://img.icons8.com/house
+- https://img.icons8.com/bungalow
+- https://img.icons8.com/targaryen-house
+
+There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
  </details>
   <hr>
 </li>
@@ -170,25 +166,8 @@ Unfortunately we do not have such
 
 
 
-</ol> 
-
+</ul> 
  
-
-
-3. How to request items in the extended format
-E.G. http://img.icons8.com/ios/F0AC34/search.svg?token=******* 6
-
-
-
-**2. Icon’s search available straight from the address bar of your browser.**
-For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
-
- - https://img.icons8.com/home 
- - https://img.icons8.com/house
-- https://img.icons8.com/bungalow
-- https://img.icons8.com/targaryen-house
-
-There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
 
 **3. How do I apply styles?**
 On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
