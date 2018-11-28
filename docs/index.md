@@ -14,7 +14,7 @@ One of the most frequently asked questions from our customers is "<b>which licen
 
 
 ## Service Integration Framework
-In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. With the use of service integration, end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
+In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
 
 <!--<ul>
   <li>-->
@@ -26,11 +26,11 @@ In a short, service integration gives you an ability to access icons programmati
   
   <br>
  <!--## Overview-->
-Requests to the search engine are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the latest version of the engine <b>V4</b>. Here is an example of request to the service: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
 
 ### Platform Parameter
 
-Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We’re sorry we have various parameters meaning the same.
+Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
 
 |Platform|Icon style|
 |----------|--------|
@@ -91,7 +91,6 @@ The maximum number of icons which you'd like to receive. Default value is 25
 ### Offset Parameter
 The offset from the first received result. Default value is 0
 
- 
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories.
 
 Please note that the <b>Search Engine<b> will not return the categories that have less than 10 icons.
@@ -116,8 +115,9 @@ Below is a sample JSON returned by the service:
 
 <br>
 **1. Why [omg-img](http://img.icons8.com/) service?**
-While the <b>Search Engine</b> allows to programmatically search for icons metadata, whereas <b>Icons Retrieval Service</b> utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc.
-The service empowers developers and interface designers to get new UI products to the market faster at a lower cost. It drastically increases the workflow efficiency and let your team to stay focused on business logic of your app not on the low level processing tasks such as adjusting icons sizes, colors, formats etc. You even don’t have to export an icon and store it on a server. Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
+<b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
+
+ Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
 
 **2. Free VS Paid.**
 Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that API license provide extra features which are:
