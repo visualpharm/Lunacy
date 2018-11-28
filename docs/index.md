@@ -118,9 +118,16 @@ Below is a sample JSON returned by the service:
 <br> 
   <b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
 
+<ul>
+  <li>
+   <details>
+    <summary>
+      <strong> How to retrieve an icon? </strong>
+    </summary>
  Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
-   
- <ul>
+     
+   </details> 
+  </li>
   <li>
    <details>
     <summary>
@@ -135,10 +142,10 @@ The possibility to search for icons using our search engine 2.
    </details> 
  </li>
  <li>
- <details>
-  <summary>
-   <strong> Icon’s search available straight from the address bar of your browser</strong> 
- </summary>
+  <details>
+    <summary>
+     <strong> Icon’s search available straight from the address bar of your browser</strong> 
+    </summary>
    
 For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
 
@@ -148,9 +155,8 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
 - https://img.icons8.com/targaryen-house
 
 There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
- </details>
-   
-</li>
+  </details>  
+ </li>
  <li>
  <details>
   <summary>
