@@ -19,7 +19,7 @@ One of the most frequently asked questions from our customers is "<b>which licen
   </summary>
   
   TEST
-  </detail>
+  </details>
 
 ## Service Integration Framework
 In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
@@ -101,7 +101,7 @@ The offset from the first received result. Default value is 0
 
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories.
 
-Please note that the <b>Search Engine<b> will not return the categories that have less than 10 icons.
+Please note that the <b>Search Engine</b> will not return the categories that have less than 10 icons.
 
 Below is a sample JSON returned by the service:
 
