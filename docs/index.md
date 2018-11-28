@@ -27,9 +27,24 @@ In a short, service integration gives you an ability to access icons programmati
   
   
  <!--## Overview-->
-Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
-
-### Platform Parameter
+ 
+ <ul>
+  <li>
+   <details>
+    <summary>
+      <strong> How to to search for icons metadata? </strong>
+    </summary>
+ Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+     
+   </details> 
+  </li>
+  <li>
+   <details>
+    <summary>
+      <strong> Searching Parameters </strong>
+    </summary>
+     
+     ### Platform Parameter
 
 Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
 
@@ -92,14 +107,24 @@ The maximum number of icons which you'd like to receive. Default value is 25
 ### Offset Parameter
 The offset from the first received result. Default value is 0
 
+    </details>
+   </li>
+   <li>
+    <details>
+     <summary>
+       <strong> sample JSON returned by the service </strong>
+     </summary>
+      
+ |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
+|----------|--------|
+     </details>
+    </li>
+ 
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories.
 
-Please note that the <b>Search Engine</b> will not return the categories that have less than 10 icons.
+Please pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
 
-Below is a sample JSON returned by the service:
 
-|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
-|----------|--------|
 
 
 
@@ -140,28 +165,27 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
 The possibility to request a large number of items in any size, color or format
 The possibility to search for icons using our search engine 2.
    </details> 
- </li>
- <li>
-  <details>
-    <summary>
-     <strong> Icon’s search available straight from the address bar of your browser</strong> 
-    </summary>
+  </li>
+  <li>
+   <details>
+     <summary>
+       <strong> Icon’s search available straight from the address bar of your browser</strong> 
+     </summary>
    
 For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
-
  - https://img.icons8.com/home 
  - https://img.icons8.com/house
 - https://img.icons8.com/bungalow
 - https://img.icons8.com/targaryen-house
-
 There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
-  </details>  
- </li>
- <li>
- <details>
-  <summary>
-   <strong>How do I apply styles?</strong>
- </summary>
+   </details>  
+   
+  </li>
+  <li>
+   <details>
+    <summary>
+      <strong>How do I apply styles?</strong>
+    </summary>
   
 On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
 
@@ -172,19 +196,11 @@ On our website, there is a list of icons styles on the left pane of the icons pa
 |Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
 
 [Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
-
-
  </details>
-  
-</li>
-
-
-
-
-</ul> 
  
-
-**3. **
+   </li>
+ </ul> 
+  
 
 **4. Recolouring monochrome icons made easy**
 To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
