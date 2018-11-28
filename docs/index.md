@@ -116,6 +116,48 @@ Below is a sample JSON returned by the service:
 
 <br>
 
+ <ol>
+  <li>
+   <details>
+    <summary>
+      <strong>Can I use Icons8 for free?</strong>
+    </summary>
+    
+   Yes, you can use our icons for free  
+   
+   </details>
+ <hr>
+ </li>
+ <li>
+ <details>
+  <summary>
+   <strong>Can I use the icons after my subscription is expired?</strong>
+ </summary>
+  
+Yes, the icons that you've used while your subscrip 
+
+ </details>
+  <hr>
+</li>
+ <li>
+ <details>
+  <summary>
+   <strong>How can I purchase just a single icon?</strong>
+ </summary>
+  
+Unfortunately we do not have such  
+
+ </details>
+  <hr>
+</li>
+
+
+
+
+</ol> 
+
+
+
  <b>Why [omg-img](http://img.icons8.com/) service? </b>
  <br>
 <b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
