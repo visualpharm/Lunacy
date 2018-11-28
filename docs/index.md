@@ -14,7 +14,7 @@ One of the most frequently asked questions from our customers is "<b>which licen
 
 
 ## Service Integration Framework
-In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. This opens huge opportunities to your clients. With the use of service integration, end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
+In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. With the use of service integration, end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
 
 <!--<ul>
   <li>-->
@@ -26,13 +26,9 @@ In a short, service integration gives you an ability to access icons programmati
   
   <br>
  <!--## Overview-->
-The big idea behind the Search Engine is the ease of manipulation of icons metadata. Requests to the search engine are constracted from a set of paramters, concatenated one after another in a raw, prefixed with the endpoint for the latest version of the engine <b>V4</b>: 
-https://api.icons8.com/api/iconsets/v4/search
-<!--https://search.icons8.com/api/iconsets/v4/search.-->
-This is an example of request: 
-In order to send a serching request to our Search Engine you embed your API key just right into the request as following: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY". You may change the order of parameters in you request as you prefer. Here is a list of parameters that you can supply into request:
+Requests to the search engine are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the latest version of the engine <b>V4</b>. Here is an example of request to the service: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
 
-### Platform
+### Platform Parameter
 
 Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We’re sorry we have various parameters meaning the same.
 
@@ -70,7 +66,7 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 
 -->
 
-### Language
+### Language Parameter
 
 Icon names, categories and tags are localized. Here's the list of supported languages:
 
@@ -89,16 +85,18 @@ Icon names, categories and tags are localized. Here's the list of supported lang
 
 The primary language is English - if we do not translate something, it will be in English.
 
-### Amount
+### Amount Parameter
 The maximum number of icons which you'd like to receive. Default value is 25
 
-### Offset
+### Offset Parameter
 The offset from the first received result. Default value is 0
 
  
-Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
+Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories.
 
-Notice that Search Engine will not return the categories that have less than 10 icons.
+Please note that the <b>Search Engine<b> will not return the categories that have less than 10 icons.
+
+Below is a sample JSON returned by the service:
 
 |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
 |----------|--------|
