@@ -18,6 +18,91 @@ In a short, service integration gives you an ability to access icons programmati
 
 <!--<ul>
   <li>-->
+   <details>
+  <summary>
+   <strong>Search Engine</strong>
+  </summary>
+  
+  <br>
+ <!--## Overview-->
+Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+
+### Platform Parameter
+
+Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
+
+|Platform|Icon style|
+|----------|--------|
+|win8|icons in the Microsoft Windows 8/Metro style| 
+|win10 |icons in the Microsoft Windows 10/Threshold|
+|ios7|icons in the Apple iOS 7/8/9/10 style|  
+|android|icons in the Google Android 4 Kitkat style| 
+|androidL|icons in the Google Android 5 Lollipop (Material) style| 
+|color|flat color icons| 
+|office|icons in the Microsoft Office style| 
+|ultraviolet|Ultraviolet|				
+|nolan|Nolan|				
+|p1em|1em|
+|dotty|	Dotty Dots|	
+|dusk|Dusk|				
+<!--
+75	Dusk_Wired	Wired	✓			✓	Update
+140	cotton	Cotton				✓	Update
+12	ios11	iOS Tab Bar Icons (Glyphs)	✓			✓	Update
+301	clouds	Clouds				✓	Update
+302	bubbles	Bubbles				✓	Update
+303	plasticine	Plasticine				✓	Update
+304	carbon_copy	Carbon Copy	✓			✓	Update
+250	doodle	Doodle				✓	Update
+251	fineline	Fune Line					Update
+252	isometric	Isometric					Update
+253	flat_round	Flat Round				✓	Update
+14	m_outlined	Material Outlined	✓		/static/effects/svg/icons/androidL/	✓	Update
+15	m_rounded	Material Rounded	✓		/static/effects/svg/icons/androidL/	✓	Update
+16	m_two_tone	Material Two Tone				✓	Update
+17	m_sharp	Material Sharp	✓		/static/effects/svg/icons/androidL/	✓	Update
+|linen|Linen|
+
+-->
+
+### Language Parameter
+
+Icon names, categories and tags are localized. Here's the list of supported languages:
+
+|Language|Language name|
+|----------|--------|
+|en-US|English|
+|fr-FR|French|
+|de-DE|German|
+|it-IT|Italian|
+|pt-BR|Portuguese|
+|pl-PL|Polish|
+|ru-RU|Russian|
+|es-ES|Spanish|
+|zh-CN|Chinese|
+|ja-JP|Japanese|
+
+The primary language is English - if we do not translate something, it will be in English.
+
+### Amount Parameter
+The maximum number of icons which you'd like to receive. Default value is 25
+
+### Offset Parameter
+The offset from the first received result. Default value is 0
+
+Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories.
+
+Please note that the <b>Search Engine<b> will not return the categories that have less than 10 icons.
+
+Below is a sample JSON returned by the service:
+
+|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
+|----------|--------|
+
+
+
+ </details>
+    
     
   <details>
   <summary>
