@@ -184,10 +184,13 @@ On our website, there is a list of icons styles on the left pane of the icons pa
  </details>
  
  </li>
-</ul> 
-  
-
-**4. Recolouring monochrome icons made easy**
+  <li>
+   <details>
+    <summary>
+      <strong>The Other features</strong>
+    </summary>
+     
+     **4. Recolouring monochrome icons made easy**
 To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
 - <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
 - <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
@@ -243,6 +246,9 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 - <img src='http://img.icons8.com/office/50px/car.png?office=80'> `http://img.icons8.com/office/50px/car.png?office=80`
 
  
+   </details>
+  </li>
+</ul> 
 </details>
  
  
@@ -251,7 +257,6 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 </details> 
 <br>-->
 
-<br>
 
 <b>Search Engine</b> allows to programmatically search for icons metadata, whereas <b>Icons Retrieval Service</b> utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. <b>Click on the collapsible items above to read more details about each of the services.</b> The <b>Licensing Model</b> for the <b>Service Integration Framework</b> can be viewed by clicking on the item below:
  
