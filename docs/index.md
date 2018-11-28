@@ -115,15 +115,18 @@ Below is a sample JSON returned by the service:
   </summary>
 
 <br>
+test
 
  <ol>
   <li>
    <details>
     <summary>
-      <strong>Can I use Icons8 for free?</strong>
+      <strong>Why [omg-img](http://img.icons8.com/) service? </strong>
     </summary>
     
-   Yes, you can use our icons for free  
+  <b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
+
+ Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
    
    </details>
  <hr>
@@ -131,10 +134,16 @@ Below is a sample JSON returned by the service:
  <li>
  <details>
   <summary>
-   <strong>Can I use the icons after my subscription is expired?</strong>
+   <strong> Free VS Paid </strong>
  </summary>
   
-Yes, the icons that you've used while your subscrip 
+
+**2..**
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that API license provide extra features which are:
+- functionality to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+The possibility to request a large number of items in any size, color or format
+The possibility to search for icons using our search engine 2.
 
  </details>
   <hr>
@@ -156,20 +165,8 @@ Unfortunately we do not have such
 
 </ol> 
 
+ 
 
-
- <b>Why [omg-img](http://img.icons8.com/) service? </b>
- <br>
-<b>Icons Retrieval Service</b> could be used as a stand along absolutely <b>FREE</b> service. Paid access gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
-
- Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
-
-**2. Free VS Paid.**
-Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that API license provide extra features which are:
-- functionality to generate PNG icons larger than 550 px
-- access to vector-format icons (SVG, EPS, PDF)
-The possibility to request a large number of items in any size, color or format
-The possibility to search for icons using our search engine 2.
 
 3. How to request items in the extended format
 E.G. http://img.icons8.com/ios/F0AC34/search.svg?token=******* 6
