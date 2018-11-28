@@ -1,7 +1,7 @@
 # Welcome to icons user manual
 This document covers pretty much everything you need to know about how to get started and succeed with icons services.
 
-# Why the Icons8 for icons?
+# Why the Icons8?
 
 The demand for visual content seems is only getting stronger nowadays. Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much more better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
 
@@ -105,7 +105,7 @@ Below is a sample JSON returned by the service:
 
  </details>
     
-<hr>
+ 
   
   <br>
   
@@ -137,7 +137,7 @@ The possibility to search for icons using our search engine 2.
  <li>
  <details>
   <summary>
-   Icon’s search available straight from the address bar of your browser
+   <strong> Icon’s search available straight from the address bar of your browser</strong> 
  </summary>
    
 For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
@@ -149,27 +149,14 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
 
 There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
  </details>
-  <hr>
+   
 </li>
  <li>
  <details>
   <summary>
-   <strong>How can I purchase just a single icon?</strong>
+   <strong>How do I apply styles?</strong>
  </summary>
   
-Unfortunately we do not have such  
-
- </details>
-  <hr>
-</li>
-
-
-
-
-</ul> 
- 
-
-**3. How do I apply styles?**
 On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
 
 |monochrome|coloured|
@@ -179,6 +166,19 @@ On our website, there is a list of icons styles on the left pane of the icons pa
 |Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
 
 [Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
+
+
+ </details>
+  
+</li>
+
+
+
+
+</ul> 
+ 
+
+**3. **
 
 **4. Recolouring monochrome icons made easy**
 To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
