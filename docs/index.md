@@ -12,6 +12,14 @@ Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in ot
 <!--
 One of the most frequently asked questions from our customers is "<b>which license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. The rest of this document is purposely dedicated to give you a clear answer for that question and to master the essentials of the frameworks. -->
 
+  <details>
+  <summary>
+   <strong>TEST</strong>
+    
+  </summary>
+  
+  TEST
+  </detail>
 
 ## Service Integration Framework
 In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
@@ -19,11 +27,12 @@ In a short, service integration gives you an ability to access icons programmati
 <!--<ul>
   <li>-->
    <details>
+  
   <summary>
    <strong>Search Engine</strong>
   </summary>
   
-  <br>
+  
  <!--## Overview-->
 Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
 
@@ -113,8 +122,7 @@ Below is a sample JSON returned by the service:
     
   </summary>
 
-<br>
-test
+<br> 
 
  <ol>
   <li>
