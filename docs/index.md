@@ -30,7 +30,7 @@ In a short, service integration gives you an ability to access icons programmati
  
  
    
-Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and prefixed with the endpoint for the service. Here is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+Requests to the <b>Search Engine</b> are constracted with the use of your API KEY, set of paramters, concatenated one after another (order could be changed on you own) in a raw and service endpoint URL. Here is an example of how a sample request to our <b>Search Engine</b> may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
      
   <ul>
   <li>
@@ -115,9 +115,7 @@ The offset from the first received result. Default value is 0
     </details>
    </li>
  <br>
-Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories.
-<br>
-Please pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
+Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories. Pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
  </details>
   
   <details>
