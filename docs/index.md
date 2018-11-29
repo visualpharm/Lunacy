@@ -15,7 +15,7 @@ One of the most frequently asked questions from our customers is "<b>which licen
   
 
 ## Service Integration Framework
-In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of:
+In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of search engine that allows to programmatically search for icons metadata and icons retrieval service which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the tool:
 
 <!--<ul>
   <li>-->
@@ -182,7 +182,7 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
 
  
 
-Search engine allows to programmatically search for icons metadata, whereas icons retrieval service utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. 
+
  
   <details>
   <summary>
