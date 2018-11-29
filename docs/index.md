@@ -118,6 +118,8 @@ The offset from the first received result. Default value is 0
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories. Pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
  </details>
   
+  <br>
+  
   <details>
   <summary>
    <strong>Retrieval Engine</strong>
@@ -149,6 +151,19 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
      
    </details> 
   </li>
+  <li>
+   <details>
+    <summary>
+      <strong> Free VS Paid ? </strong>
+    </summary>
+     
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that SI license provides extra features which are:
+- functionality to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+- access to search engine.
+     
+   </details> 
+  </li>
  
 </ul> 
 </details>
@@ -159,6 +174,7 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
 </details> 
 <br>-->
 
+<br>
 
 <b>Search Engine</b> allows to programmatically search for icons metadata, whereas <b>icons retrieval service</b> utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. 
  
