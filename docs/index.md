@@ -152,15 +152,10 @@ The possibility to search for icons using our search engine 2.
   <li>
    <details>
     <summary>
-      <strong>  Icon’s search available straight from the address bar of your browser </strong>
+      <strong>  TEST </strong>
     </summary>
     
-For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
- - https://img.icons8.com/home 
- - https://img.icons8.com/house
-- https://img.icons8.com/bungalow
-- https://img.icons8.com/targaryen-house
-There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
+Test text goes here
    </details> 
   </li>
   <li>
