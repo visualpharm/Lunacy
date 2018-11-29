@@ -128,7 +128,7 @@ Notice that you can filter results with style/platform and then group the result
    <strong>Retrieval Engine</strong>
   </summary>
 
-<b>Icons retrieval service</b> could be used as a stand along absolutely <b>FREE</b> service. <b>Paid access</b> gives you <b>unbeatable</b> functionality to craft cutting edge apps.  
+<b>Icons retrieval service</b> could be used as a stand along absolutely <b>free</b> service. <b>Paid</b> service gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
 
 <ul>
    <hr>
