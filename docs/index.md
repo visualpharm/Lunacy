@@ -139,6 +139,15 @@ Notice that you can filter results with style/platform and then group the result
   <li>
    <details>
     <summary>
+      <strong> How to retrieve an icon? </strong>
+    </summary>
+ Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
+     
+   </details> 
+  </li>
+  <li>
+   <details>
+    <summary>
       <strong> Free VS Paid </strong>
     </summary>
     
