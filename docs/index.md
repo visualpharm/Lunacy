@@ -162,9 +162,9 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
 - https://img.icons8.com/targaryen-house
 There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
    </details>  
-   
-  </li>
-  <li>
+
+ </li>
+ <li>
    <details>
     <summary>
       <strong>How do I apply styles?</strong>
@@ -179,10 +179,10 @@ On our website, there is a list of icons styles on the left pane of the icons pa
 |Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
 
 [Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
- </details>
+  </details>
  
  </li>
-  <li>
+ <li>
    <details>
     <summary>
       <strong>The Other features</strong>
