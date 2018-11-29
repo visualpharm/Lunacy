@@ -255,7 +255,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allow our cl
  
   <details>
   <summary>
-   <strong>Standard Framework Licensing Model</strong>
+   <strong>Licensing</strong>
   </summary>
   
   <br>
