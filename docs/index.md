@@ -138,6 +138,19 @@ Notice that you can filter results with style/platform and then group the result
      
    </details> 
   </li>
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> TTT </strong>
+    </summary>
+     
+TTT
+     
+   </details> 
+   
+  </li>
+  <hr>
   <li>
    <details>
     <summary>
@@ -151,18 +164,8 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
      
    </details> 
   </li>
-  <li>
-   <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
-     
-TTT
-     
-   </details> 
+  <hr>
    
-  </li>
- 
 </ul> 
 
 </details>
