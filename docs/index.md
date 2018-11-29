@@ -154,18 +154,17 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
   <li>
    <details>
     <summary>
-      <strong> Free VS Paid ? </strong>
+      <strong> TTT </strong>
     </summary>
      
-Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that SI license provides extra features which are:
-- functionality to generate PNG icons larger than 550 px
-- access to vector-format icons (SVG, EPS, PDF)
-- access to search engine.
+TTT
      
    </details> 
+   
   </li>
  
 </ul> 
+
 </details>
  
  
