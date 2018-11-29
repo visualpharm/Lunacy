@@ -121,7 +121,7 @@ The offset from the first received result. Default value is 0
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories. Pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
  </details>
   
-  <br>
+  
   
   <details>
   <summary>
@@ -198,7 +198,7 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
 The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
   
  </details>
- <br>
+  
  <details>
   <summary>
    <strong>Use Cases</strong>
@@ -221,7 +221,7 @@ The starter icons Service Integration is $100/month - it includes up to 100 000 
 
 ## Standard Framework
 
-Under the <b>Standard Framework</b> we consider a set of tools that allow our clients to manually search and retreive icons through some GUI. These tools are:
+Under the <b>Standard Framework</b> we consider a set of tools that allow our clients to manually search and retreive icons through a GUI. These tools are web and desktop apps. Both tools have a very similar functionality with some distinctions which are described in detailed in each of the collapsable items below:
  
   <details>
   <summary>
@@ -239,20 +239,19 @@ Under the <b>Standard Framework</b> we consider a set of tools that allow our cl
 
  </details>
    
-<br>
 
   <details>
   <summary>
    <strong>Desktop Apps (Windows & Mac)</strong>
   </summary>
   
-  <br>
+
  Desktop Apps (Windows & Mac)
  </details>
  
- <br>
 
-Both <b>Web and Desktop Apps</b> have a very similar functionality with some distinctions that are <b>described in detailed in each of the collapsable items above</b>. The <b>Licensing Model</b> for the <b>Standard Framework</b> can be viewed by clicking on the item below:
+
+
  
   <details>
   <summary>
@@ -350,7 +349,7 @@ Notice, the icons that we have are of a vector format and that is why they could
 
  </details>
 
-<br>
+
 
 <details>
   <summary>
