@@ -15,7 +15,7 @@ One of the most frequently asked questions from our customers is "<b>which licen
   
 
 ## Service Integration Framework
-In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of search engine that allows to programmatically search for icons metadata and icons retrieval service which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the tool:
+In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of <b>search engine</b> that allows to programmatically search for icons metadata and icons <b>retrieval service</b> which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:
 
 <!--<ul>
   <li>-->
@@ -221,7 +221,7 @@ The starter icons Service Integration is $100/month - it includes up to 100 000 
 
 ## Standard Framework
 
-Under the <b>Standard Framework</b> we consider a set of tools that allow our clients to manually search and retreive icons through a GUI. These tools are web and desktop apps. Both tools have a very similar functionality with some distinctions which are described in detailed in each of the collapsable items below:
+Under the <b>Standard Framework</b> we consider a set of tools that allow our clients to manually search and retreive icons through a GUI. These tools are web and desktop apps. Both tools have a very similar functionality with some distinctions which are described in detail below:
  
   <details>
   <summary>
