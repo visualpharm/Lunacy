@@ -132,6 +132,7 @@ Notice that you can filter results with style/platform and then group the result
     <summary>
       <strong> How to retrieve an icon? </strong>
     </summary>
+     
  Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
      
    </details> 
@@ -139,9 +140,13 @@ Notice that you can filter results with style/platform and then group the result
   <li>
    <details>
     <summary>
-      <strong> How to retrieve an icon? </strong>
+      <strong> Free VS Paid ? </strong>
     </summary>
- Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
+     
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that SI license provides extra features which are:
+- functionality to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+- possibility to search for icons with the use our search engine.
      
    </details> 
   </li>
