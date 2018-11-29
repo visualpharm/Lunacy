@@ -146,7 +146,59 @@ Notice that you can filter results with style/platform and then group the result
 Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that SI license provides extra features which are:
 - functionality to generate PNG icons larger than 550 px
 - access to vector-format icons (SVG, EPS, PDF)
-- possibility to search for icons with the use our search engine.
+- access to search engine.
+     
+   </details> 
+  </li>
+  <li>
+   <details>
+    <summary>
+      <strong> Free VS Paid ? </strong>
+    </summary>
+     
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that SI license provides extra features which are:
+- functionality to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+- access to search engine.
+     
+   </details> 
+  </li>
+  <li>
+   <details>
+    <summary>
+      <strong> Free VS Paid ? </strong>
+    </summary>
+     
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that SI license provides extra features which are:
+- functionality to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+- access to search engine.
+     
+   </details> 
+  </li>
+  <li>
+   <details>
+    <summary>
+      <strong> Free VS Paid ? </strong>
+    </summary>
+     
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that SI license provides extra features which are:
+- functionality to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+- access to search engine.
+     
+   </details> 
+  </li>
+  <li>
+   <details>
+    <summary>
+      <strong> Free VS Paid ? </strong>
+    </summary>
+     
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that SI license provides extra features which are:
+- functionality to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+- access to search engine.
      
    </details> 
   </li>
