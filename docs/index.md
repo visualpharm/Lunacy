@@ -165,9 +165,12 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
      
    </details> 
   </li>
-  <hr>
+  <hr> 
+  
   <li>
+  
    <details>
+     
    <summary>
      <strong> Icon’s search available straight from the address bar of your browser </strong>
    </summary>
@@ -180,11 +183,10 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
 - https://img.icons8.com/targaryen-house
 
 There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
-
+     
    </details> 
-   
   </li>
-    <hr>
+  <hr>
   <li>
    <details>
     <summary>
