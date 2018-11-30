@@ -253,10 +253,10 @@ For example:
 <li>
  <details>
   <summary>
-   <strong> TTT </strong>
+   <strong> What is the maximum size of an icon that your service can provide? </strong>
  </summary>
   
-TTT
+The restriction applied to free png icons is 550px. Please read more in [API license](https://icons8.com/paid-license-99/#/).
 
  </details>
 </li>
@@ -264,13 +264,65 @@ TTT
 <li>
  <details>
   <summary>
-   <strong> TTT </strong>
+   <strong> Which license do I need to start using [omg-img](http://img.icons8.com/)? </strong>
  </summary>
   
-TTT
+To start using [omg-img](http://img.icons8.com) service for free, just [set a link](https://icons8.com/license) or buy [paid licence](https://icons8.com/paid-license-99/#/).
 
  </details>
 </li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> What should I do if I can not find an icon that I need? </strong>
+ </summary>
+  
+You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually  need. It’s completely free. We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. You even may ask your friends, relatives and any community members to vote for your requested icon in order put your request on the very top of the queue. 
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Can an icon used in my app change over time? </strong>
+ </summary>
+  
+In short, it’s very unlikely but possible. The most updated version of an icon is accessible by a given icon’s link.
+E.G. currently for the following link **`https://img.icons8.com/water-molecule`** we keep showing an icon with illustration of a water drop or an abstract molecule. However if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O, then most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
+
+In case if you are planning to use an icon longterm, the best solution would be to use the canonical full path to the icon (.png), which can be formed [here](https://icons8.com/).
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Can I use an icon with .png extension? </strong>
+ </summary>
+  
+Yes you can use icons with .png extension in [omg-img](http://img.icons8.com/) service, however you would need to know the exact name of a .png icon. The .png names could differ from the names provided by the service. In order to find the desired .png icon name and create an appropriate query for it, you may use searching engine UI available on our website [here](https://icons8.com/icon/new-icons/all).
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong>How to use responsive size for [Office](https://icons8.com/office-icons/) style? </strong>
+ </summary>
+  
+It’s quite simple. Just add a parameter `office` to your request. For example:
+ - <img src='http://img.icons8.com/office/50px/car.png?office=16'> `http://img.icons8.com/office/50px/car.png?office=16`
+- <img src='http://img.icons8.com/office/50px/car.png?office=30'> `http://img.icons8.com/office/50px/car.png?office=30`
+- <img src='http://img.icons8.com/office/50px/car.png?office=40'> `http://img.icons8.com/office/50px/car.png?office=40`
+- <img src='http://img.icons8.com/office/50px/car.png?office=80'> `http://img.icons8.com/office/50px/car.png?office=80`
+
+ </details>
+</li>
+<hr>
 </ol> 
 
  </details>
