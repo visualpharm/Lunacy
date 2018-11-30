@@ -30,7 +30,14 @@ In a short, service integration gives you an ability to access icons programmati
  
  
    
-Requests to the search engine are constracted with the use of your personal seervice integration <b>token</b>, set of <b>paramters</b>, concatenated one after another (order could be changed on you own) in a raw and service <b>endpoint URL</b>. Here is an example of how a <b>sample request</b> to our search engine may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+Requests to the search engine are constructed with the use of a set of parameters concatenate one after another in a row with the order that can be changed on your own. These paramateres are:
+  - your personal API key or <b>token</b>
+  - service <b> endpoint URL</b>
+  - platform
+  - language
+  - offset
+  - amount
+Here is how a sample request may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
      
   <ul>
    <hr>
