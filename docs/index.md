@@ -138,9 +138,9 @@ Notice that you can filter results with style/platform and then group the result
   
    <details>
   
-    <summary>
+   <summary>
       <strong> How to retrieve an icon? </strong>
-    </summary>
+   </summary>
      
  Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
      
@@ -184,101 +184,7 @@ There is always an option to browse for more icons from our web site search engi
    </details> 
    
   </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> How do I apply styles? </strong>
-    </summary>
-      
-On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
 
-|monochrome|coloured|
-|----------|--------|
-|iOS: http://img.icons8.com/ios/car|Color: http://img.icons8.com/color/car|
-|Windows: http://img.icons8.com/windows/car|Office: http://img.icons8.com/office/car|
-|Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
-
-[Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
-
-     
-   </details> 
-   
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
-     
-TTT
-     
-   </details> 
-   
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
-     
-TTT
-     
-   </details> 
-   
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
-     
-TTT
-     
-   </details> 
-   
-  </li>
-
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
-     
-TTT
-     
-   </details> 
-   
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
-     
-TTT
-     
-   </details> 
-   
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
-     
-TTT
-     
-   </details> 
-   
-  </li>
-  <hr>
   
   
   
@@ -286,14 +192,7 @@ TTT
 </ul> 
 
 </details>
- 
- 
-<!-- </li>
- </ul>
-</details> 
-<br>-->
-
- 
+  
 
 
  
