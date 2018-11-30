@@ -124,18 +124,21 @@ Notice that you can filter results with style/platform and then group the result
   
   <details>
   <summary>
-   <strong> Retrieval Service</strong>
+   <strong> Retrieval Engine </strong>
  </summary>
+  
+  <b>Icons retrieval service</b> could be used as a stand along absolutely <b>free</b> service. <b>Paid</b> service gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
  
  <br>
  <ol>
   <li>
    <details>
     <summary>
-      <strong>How can I purchase Service Integration API Key? What is included?</strong>
+      <strong> How to retrieve an icon? </strong>
     </summary>
     
-   The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
+ Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
+ 
    </details>
  <hr>
  </li>
