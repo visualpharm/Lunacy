@@ -184,6 +184,148 @@ There is always an option to browse for more icons from our web site search engi
    </details> 
    
   </li>
+    <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> How do I apply styles? </strong>
+    </summary>
+     
+On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
+
+|monochrome|coloured|
+|----------|--------|
+|iOS: http://img.icons8.com/ios/car|Color: http://img.icons8.com/color/car|
+|Windows: http://img.icons8.com/windows/car|Office: http://img.icons8.com/office/car|
+|Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
+
+[Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
+
+     
+   </details> 
+   
+  </li>
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> Recolouring monochrome icons made easy </strong>
+    </summary>
+     
+To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
+- <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
+- <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
+- <img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
+
+**5. How can I resize an icon?**
+To modify an icon’s size the same logic is applied as before. It’s just enough to insert an icon’s size within its link:
+- 'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
+- 'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
+- 'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
+- 'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
+
+For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`, depending on what you prefer the most.
+
+     
+   </details> 
+   
+  </li>
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> How do I apply styles? </strong>
+    </summary>
+      
+On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
+
+|monochrome|coloured|
+|----------|--------|
+|iOS: http://img.icons8.com/ios/car|Color: http://img.icons8.com/color/car|
+|Windows: http://img.icons8.com/windows/car|Office: http://img.icons8.com/office/car|
+|Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
+
+[Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
+
+     
+   </details> 
+   
+  </li>
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> TTT </strong>
+    </summary>
+     
+TTT
+     
+   </details> 
+   
+  </li>
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> TTT </strong>
+    </summary>
+     
+TTT
+     
+   </details> 
+   
+  </li>
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> TTT </strong>
+    </summary>
+     
+TTT
+     
+   </details> 
+   
+  </li>
+
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> TTT </strong>
+    </summary>
+     
+TTT
+     
+   </details> 
+   
+  </li>
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> TTT </strong>
+    </summary>
+     
+TTT
+     
+   </details> 
+   
+  </li>
+  <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> TTT </strong>
+    </summary>
+     
+TTT
+     
+   </details> 
+   
+  </li>
+  <hr>
+
 
   
   
