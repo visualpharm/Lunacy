@@ -122,60 +122,47 @@ Notice that you can filter results with style/platform and then group the result
  </details>
   
   
-  
- <details>
- <summary>
-  <strong>Retrieval Engine</strong>
+  <details>
+  <summary>
+   <strong> Retrieval Service</strong>
  </summary>
-
-<b>Icons retrieval service</b> could be used as a stand along absolutely <b>free</b> service. <b>Paid</b> service gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
-
-<ul>
-  
-  <hr>
-  <li>
-   <details>
-    <summary>
-       <strong> How to retrieve an icon? </strong>
-    </summary>
-     
- Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
-     
-   </details> 
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> Free VS Paid ? </strong>
-    </summary>
-     
-Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
-- access to generate PNG icons larger than 550 px
-- access to vector-format icons (SVG, EPS, PDF)
-- access to search engine.
-     
-   </details> 
-  </li> 
-  <hr>
-  <li>
-   <details>
-    <summary>
-       <strong> How dfdfdfto retrieve an icon? </strong>
-    </summary>
-     
- cfgdfgdf
-     
-   </details> 
-  </li>
-  
-
  
+ <br>
+ <ol>
+  <li>
+   <details>
+    <summary>
+      <strong>How can I purchase Service Integration API Key? What is included?</strong>
+    </summary>
+    
+   The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
+   </details>
+ <hr>
+ </li>
+ <li>
+ <details>
+  <summary>
+   <strong>What are the end points for icons Searching/Retrieval? Give me few examples, please!</strong>
+ </summary>
   
-   
-</ul> 
+ The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search for retrieval: http://img.icons8.com In order to serch / retrieve an icon you embed your API key just right into the requests: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY" http://img.icons8.com/ios/F0AC34/search.svg?token= "YOUR API KEY" You may change the order of parameters in you request accodring to the documantation. Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our v4 service you get back a json which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
+ </details>
+  <hr>
+</li>
+ <li>
+ <details>
+  <summary>
+   <strong>Why icon size is not icluded in metadata returned by Search Engine? Why Pixel Perfect?</strong>
+ </summary>
+  
+Notice, the icons that we have are of a vector format and that is why they could be of any size. By this reason we do not include the icon's size in metadata. I.e. you can substitute any size in the request of a retrieval serivce and receive the corresponding png icon in the requested size. For icons retrieval we use [Omg-Img](...) service. To retrieve an icon you embed your API key just right into your request http://img.icons8.com/ios/F0AC34/search.svg?token= "YOUR API KEY" You may change the order of parameters in your request. Also keep in mind that due to the conversion of svg into png the "pixel perfect" come into play. To eliminate the artefacts of format conversion (from vector to raster) there is an appropriate size for each platform which you can then multiply by various factors 1x, 2x, 3x etc. to get the png size you need. 
+ </details>
+  <hr>
+</li>
+</ol> 
 
-</details>
+ </details>
+ 
   
 
 
