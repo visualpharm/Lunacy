@@ -127,7 +127,7 @@ Notice that you can filter results with style/platform and then group the result
    <strong> Retrieval Engine </strong>
  </summary>
   
-  <b>Icons retrieval service</b> could be used as a stand along absolutely <b>free</b> service. <b>Paid</b> service gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
+Icons retrieval service could be used as a stand along absolutely <b>free</b> service. <b>Paid</b> service gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
  
  <br>
  <ol>
@@ -145,20 +145,33 @@ Notice that you can filter results with style/platform and then group the result
  <li>
  <details>
   <summary>
-   <strong>What are the end points for icons Searching/Retrieval? Give me few examples, please!</strong>
+   <strong>Free VS Paid ? </strong>
  </summary>
   
- The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search for retrieval: http://img.icons8.com In order to serch / retrieve an icon you embed your API key just right into the requests: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY" http://img.icons8.com/ios/F0AC34/search.svg?token= "YOUR API KEY" You may change the order of parameters in you request accodring to the documantation. Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our v4 service you get back a json which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
+- access to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+- access to search engine.
+
  </details>
   <hr>
 </li>
+  <hr>
  <li>
  <details>
   <summary>
-   <strong>Why icon size is not icluded in metadata returned by Search Engine? Why Pixel Perfect?</strong>
+   <strong> Icon’s search available straight from the address bar of your browser </strong>
  </summary>
   
-Notice, the icons that we have are of a vector format and that is why they could be of any size. By this reason we do not include the icon's size in metadata. I.e. you can substitute any size in the request of a retrieval serivce and receive the corresponding png icon in the requested size. For icons retrieval we use [Omg-Img](...) service. To retrieve an icon you embed your API key just right into your request http://img.icons8.com/ios/F0AC34/search.svg?token= "YOUR API KEY" You may change the order of parameters in your request. Also keep in mind that due to the conversion of svg into png the "pixel perfect" come into play. To eliminate the artefacts of format conversion (from vector to raster) there is an appropriate size for each platform which you can then multiply by various factors 1x, 2x, 3x etc. to get the png size you need. 
+For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
+
+ - https://img.icons8.com/home 
+ - https://img.icons8.com/house
+- https://img.icons8.com/bungalow
+- https://img.icons8.com/targaryen-house
+
+There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
+
  </details>
   <hr>
 </li>
