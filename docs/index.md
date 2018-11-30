@@ -131,6 +131,7 @@ Icons retrieval service could be used as a stand along absolutely <b>free</b> se
  
  <br>
  <ol>
+  <hr>
   <li>
    <details>
     <summary>
