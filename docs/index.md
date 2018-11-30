@@ -37,6 +37,7 @@ Requests to the search engine are constructed with the use of a set of parameter
   - language
   - offset
   - amount
+  
 Here is how a sample request may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
      
   <ul>
