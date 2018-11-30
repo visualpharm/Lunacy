@@ -283,17 +283,6 @@ The restriction applied to free png icons is 550px. Please read more in [API lic
 <li>
  <details>
   <summary>
-   <strong> Which license do I need to start using [omg-img](http://img.icons8.com/)? </strong>
- </summary>
-  
-To start using [omg-img](http://img.icons8.com) service for free, just [set a link](https://icons8.com/license) or buy [paid licence](https://icons8.com/paid-license-99/#/).
-
- </details>
-</li>
-<hr>
-<li>
- <details>
-  <summary>
    <strong> What should I do if I can not find an icon that I need? </strong>
  </summary>
   
@@ -330,7 +319,7 @@ Yes you can use icons with .png extension in [omg-img](http://img.icons8.com/) s
 <li>
  <details>
   <summary>
-   <strong>How to use responsive size for [Office](https://icons8.com/office-icons/) style? </strong>
+   <strong>How to use responsive size for style? </strong>
  </summary>
   
 It’s quite simple. Just add a parameter `office` to your request. For example:
@@ -356,11 +345,9 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   </summary>
   
   <br>
-  ### License Expiration
-
-- 
-## Pricing / Getting Started
-
+NEED MORE CLARIFICATION on how to use one without the other one
+  
+To start using [omg-img](http://img.icons8.com) service for free, just [set a link](https://icons8.com/license) or buy [paid licence](https://icons8.com/paid-license-99/#/).
 The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
   
  </details>
