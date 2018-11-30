@@ -207,6 +207,70 @@ To change the color of an icon with [omg-img](http://img.icons8.com/) service yo
 
  </details>
 </li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How can I resize an icon? </strong>
+ </summary>
+   
+  To modify an icon’s size the same logic is applied as before. It’s just enough to insert an icon’s size within its link:
+- 'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
+- 'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
+- 'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
+- 'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
+
+For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`, depending on what you prefer the most.
+
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How can all sorts of artefacts be minimised when using pixel perfect? </strong>
+ </summary>
+  
+Each icon style is drawn for a specific pixel grid. Look at these few examples of various pixel grids: 
+* iOS: `50x50`
+* Metro: `26x26`
+* Windows: `32x32`
+* Material: `24x24`
+* Color: `48x48`
+* Office: `16x16`, `30x30`, `40x40`, `80x80`
+
+In order to avoid all sorts of artefacts (blurring edges, washed out colours etc.) associated with changing an icon’s size, we strongly recommend you to choose multiples of original icon's size. For example for iOS style the multiples would be: `50x50`, `100x100`, `150x150` etc.
+You can set an icon’s size either by specifying the size in pixels `100x100` / `100px` or with the use of factors: `2x` or `x2` (the number can vary).
+For example:
+- 'https://img.icons8.com/color/1x/brazilian-carnival.png' <img src='https://img.icons8.com/color/1x/brazilian-carnival.png'/>
+- 'https://img.icons8.com/color/2x/brazilian-carnival.png' <img src='https://img.icons8.com/color/2x/brazilian-carnival.png' />
+
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
+
+ </details>
+</li>
 </ol> 
 
  </details>
