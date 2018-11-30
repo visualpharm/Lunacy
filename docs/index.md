@@ -30,9 +30,9 @@ In a short, service integration gives you an ability to access icons programmati
  
  
    
-Requests to the search engine are constructed with the use of a set of parameters concatenate one after another in a row with the order that can be changed on your own. These paramateres are:
+Requests to the search engine are constructed with the use of a set of parameters concatenated one after another in a row in the order that can be changed on your own. These paramateres are:
   - your personal API key or <b>token</b>
-  - service <b> endpoint URL</b>
+  - Search engine <b> endpoint URL </b>
   - platform
   - language
   - offset
@@ -46,7 +46,16 @@ Here is how a sample request may look like: https://api.icons8.com/api/iconsets/
     <summary>
       <strong> Searching requests parameters </strong>
     </summary>
-     
+ 
+ ### API key or <b>token</b>
+ 
+ Personal API key or <b>token</b> is a short code in text format that basically allows you to send requests to our service. After we receive a payment from a client we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access)
+ 
+  
+ ### Search engine endpoint URL
+ 
+ The endpoint is the URL through which our search engine can be accessed: https://api.icons8.com/api/iconsets/v4/search
+ 
  ### Platform Parameter
 
 Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
