@@ -165,48 +165,6 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
      
    </details> 
   </li>
-  <hr> 
-  
-  <li>
-  
-   <details>
-     
-   <summary>
-     <strong> Icon’s search available straight from the address bar of your browser </strong>
-   </summary>
-     
-For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
-
- - https://img.icons8.com/home 
- - https://img.icons8.com/house
-- https://img.icons8.com/bungalow
-- https://img.icons8.com/targaryen-house
-
-There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
-     
-   </details> 
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> How do I apply styles? </strong>
-    </summary>
-     
-On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
-
-|monochrome|coloured|
-|----------|--------|
-|iOS: http://img.icons8.com/ios/car|Color: http://img.icons8.com/color/car|
-|Windows: http://img.icons8.com/windows/car|Office: http://img.icons8.com/office/car|
-|Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
-
-[Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
-
-     
-   </details> 
-   
-  </li>
   <hr>
   <li>
    <details>
@@ -220,18 +178,6 @@ TTT
    
   </li>
   <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
-     
-TTT
-     
-   </details> 
-   
-  </li>
-
 
  
   
