@@ -37,7 +37,7 @@ Requests to the search engine are constracted with the use of your personal seer
   <li>
    <details>
     <summary>
-      <strong> Searching Parameters </strong>
+      <strong> Searching requests parameters </strong>
     </summary>
      
  ### Platform Parameter
@@ -109,7 +109,7 @@ The offset from the first received result. Default value is 0
    <li>
    <details>
      <summary>
-       <strong> sample JSON returned by the service </strong>
+       <strong> Sample response </strong>
      </summary>
       
  |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
