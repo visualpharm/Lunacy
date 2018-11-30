@@ -31,13 +31,15 @@ In a short, service integration gives you an ability to access icons programmati
  
    
 Requests to the search engine are constructed with the use of a set of parameters concatenated one after another in a row in the order that can be changed on your own. These paramateres are:
-  - your personal API key or <b>token</b>
-  - Search engine <b> endpoint URL </b>
+<b>
+  - API key i.e. token
+  - endpoint
   - platform
   - language
   - offset
   - amount
-  
+  </b>
+
 Here is how a sample request may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
      
   <ul>
@@ -48,16 +50,15 @@ Here is how a sample request may look like: https://api.icons8.com/api/iconsets/
       <strong> Searching requests parameters </strong>
     </summary>
  
- ### API key or <b>token</b>
+ ### API key i.e. token
  
  Personal API key or <b>token</b> is a short code in text format that basically allows you to send requests to our service. After we receive a payment from a client we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access)
- 
   
- ### Search engine endpoint URL
+ ### Endpoint
  
- The endpoint is the URL through which our search engine can be accessed: https://api.icons8.com/api/iconsets/v4/search
+ The endpoint is the URL where our service can be accessed by your application. The v4 search engine endpoint is: https://api.icons8.com/api/iconsets/v4/search
  
- ### Platform Parameter
+ ### Platform
 
 Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
 
@@ -95,7 +96,7 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 
 -->
 
-### Language Parameter
+### Language
 
 Icon names, categories and tags are localized. Here's the list of supported languages:
 
@@ -114,10 +115,10 @@ Icon names, categories and tags are localized. Here's the list of supported lang
 
 The primary language is English - if we do not translate something, it will be in English.
 
-### Amount Parameter
+### Amount
 The maximum number of icons which you'd like to receive. Default value is 25
 
-### Offset Parameter
+### Offset
 The offset from the first received result. Default value is 0
 
    </details>
