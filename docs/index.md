@@ -164,21 +164,24 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
 - access to search engine.
      
    </details> 
-  </li>
+  </li> 
   <hr>
+  
   <li>
+  
    <details>
-    <summary>
-      <strong> TTT </strong>
-    </summary>
      
-TTT
+   <summary>
+     <strong> Free VS Paid ? </strong>
+   </summary>
+     
+Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
+- access to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF)
+- access to search engine.
      
    </details> 
-   
   </li>
-  <hr>
-
  
   
    
