@@ -154,9 +154,9 @@ Notice that you can filter results with style/platform and then group the result
   
    <details>
      
-    <summary>
-      <strong> Free VS Paid ? </strong>
-    </summary>
+   <summary>
+     <strong> Free VS Paid ? </strong>
+   </summary>
      
 Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
 - access to generate PNG icons larger than 550 px
@@ -168,9 +168,9 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
   <hr>
   <li>
    <details>
-    <summary>
-      <strong> Icon’s search available straight from the address bar of your browser </strong>
-    </summary>
+   <summary>
+     <strong> Icon’s search available straight from the address bar of your browser </strong>
+   </summary>
      
 For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
 
