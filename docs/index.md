@@ -123,40 +123,32 @@ Notice that you can filter results with style/platform and then group the result
   
   
   
-  <details>
-  <summary>
-   <strong>Retrieval Engine</strong>
-  </summary>
+ <details>
+ <summary>
+  <strong>Retrieval Engine</strong>
+ </summary>
 
 <b>Icons retrieval service</b> could be used as a stand along absolutely <b>free</b> service. <b>Paid</b> service gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
 
 <ul>
   
-   <hr>
-   
+  <hr>
   <li>
-  
    <details>
-  
-   <summary>
-      <strong> How to retrieve an icon? </strong>
-   </summary>
+    <summary>
+       <strong> How to retrieve an icon? </strong>
+    </summary>
      
  Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
      
    </details> 
-   
   </li>
-  
   <hr>
-  
   <li>
-  
    <details>
-     
-   <summary>
-     <strong> Free VS Paid ? </strong>
-   </summary>
+    <summary>
+      <strong> Free VS Paid ? </strong>
+    </summary>
      
 Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
 - access to generate PNG icons larger than 550 px
@@ -166,22 +158,18 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
    </details> 
   </li> 
   <hr>
-  
   <li>
-  
    <details>
+    <summary>
+       <strong> How dfdfdfto retrieve an icon? </strong>
+    </summary>
      
-   <summary>
-     <strong> Free VS Paid ? </strong>
-   </summary>
-     
-Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
-- access to generate PNG icons larger than 550 px
-- access to vector-format icons (SVG, EPS, PDF)
-- access to search engine.
+ cfgdfgdf
      
    </details> 
   </li>
+  
+
  
   
    
