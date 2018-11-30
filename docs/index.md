@@ -154,7 +154,6 @@ Most of the [omg-img](http://img.icons8.com/) features are available to our clie
 - access to search engine.
 
  </details>
-  <hr>
 </li>
   <hr>
  <li>
@@ -173,7 +172,40 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
 There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
 
  </details>
-  <hr>
+</li>
+<hr>
+ <li>
+ <details>
+  <summary>
+   <strong>  How do I apply styles? </strong>
+ </summary>
+
+On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
+
+|monochrome|coloured|
+|----------|--------|
+|iOS: http://img.icons8.com/ios/car|Color: http://img.icons8.com/color/car|
+|Windows: http://img.icons8.com/windows/car|Office: http://img.icons8.com/office/car|
+|Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
+
+[Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
+
+
+ </details>
+</li>
+<hr>
+ <li>
+ <details>
+  <summary>
+   <strong> Recolouring monochrome icons made easy </strong>
+ </summary>
+  
+To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
+- <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
+- <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
+- <img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
+
+ </details>
 </li>
 </ol> 
 
