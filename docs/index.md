@@ -131,9 +131,13 @@ Notice that you can filter results with style/platform and then group the result
 <b>Icons retrieval service</b> could be used as a stand along absolutely <b>free</b> service. <b>Paid</b> service gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
 
 <ul>
+  
    <hr>
+   
   <li>
+  
    <details>
+  
     <summary>
       <strong> How to retrieve an icon? </strong>
     </summary>
@@ -141,10 +145,15 @@ Notice that you can filter results with style/platform and then group the result
  Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
      
    </details> 
+   
   </li>
+  
   <hr>
+  
   <li>
+  
    <details>
+     
     <summary>
       <strong> Free VS Paid ? </strong>
     </summary>
@@ -191,52 +200,6 @@ On our website, there is a list of icons styles on the left pane of the icons pa
 |Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
 
 [Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
-
-     
-   </details> 
-   
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> How do I apply styles? </strong>
-    </summary>
-     
-On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
-
-|monochrome|coloured|
-|----------|--------|
-|iOS: http://img.icons8.com/ios/car|Color: http://img.icons8.com/color/car|
-|Windows: http://img.icons8.com/windows/car|Office: http://img.icons8.com/office/car|
-|Material: http://img.icons8.com/material/car|Dusk: http://img.icons8.com/dusk/car|
-
-[Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
-
-     
-   </details> 
-   
-  </li>
-  <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> Recolouring monochrome icons made easy </strong>
-    </summary>
-     
-To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
-- <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
-- <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
-- <img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
-
-**5. How can I resize an icon?**
-To modify an icon’s size the same logic is applied as before. It’s just enough to insert an icon’s size within its link:
-- 'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
-- 'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
-- 'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
-- 'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
-
-For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`, depending on what you prefer the most.
 
      
    </details> 
