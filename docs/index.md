@@ -175,6 +175,7 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
  - `<img src=’https://img.icons8.com/search.svg’/>`
  - `<img src=’https://img.icons8.com/search.png’/>`
  
+ <br>
   Also please note that:
  - png icons are available in limited size (less than 550px)
  - only popular SVG icons are available for free
@@ -200,7 +201,7 @@ From the response meta info we have "House" for the name parameter, "ultroviolet
    </details>
  <hr>
  </li>
- <li> 
+
   
   
  <li>
