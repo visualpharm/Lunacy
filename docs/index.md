@@ -179,7 +179,6 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
  - only popular SVG icons are available for free
  
    </details>
- <hr>
  </li>
  <li>
     <hr>
@@ -198,10 +197,7 @@ From the response meta info we have "House" for the name parameter, "ultroviolet
    </details>
  <hr>
  </li>
- <li>
-  <hr>
-  
-  Png in limited size and popular SVG icons are free.
+ <li> 
   
   
  <li>
