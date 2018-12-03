@@ -170,11 +170,11 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
       <strong> How to retrieve an icon for FREE? </strong>
     </summary>
     
- It takes just a line of code, service endpoint concatinated with icons name:
+ It takes just a line of code, service endpoint concatinated with an icon's name, to insert an icon in svg or png format directly from the CDN to your application of any scale:
  - `<img src=’https://img.icons8.com/search.svg’/>`
  - `<img src=’https://img.icons8.com/search.png’/>`
  
- to insert an icon in svg or png format directly from the CDN to your application of any scale. Alson please note that:
+  Alson please note that:
  - png icons are available in limited size (less than 550px)
  - only popular SVG icons are available for free
  
@@ -189,9 +189,11 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
       <strong> How to retrieve an icon on PAID BASIS? </strong>
     </summary>
      
-     The canonical format for retrieving icons is as follows: http://img.icons8.com/[platform]/[size]/[commonName].[format] where commonName and platform - are mandatory, whereas size - is optional.
+The canonical format for retrieving icons in PAID license format is as follows: http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=e5b4w4e6a788431f805c1fkh1e16d  where commonName, platform, token - are mandatory, whereas size - is optional. Lets illustate the procedure on the following example. Assume we call v4 search engine with 'House' searching phrase and receive a JSON respnse as follows: 
     
- Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale. The canonical format for retrieving icons is as follows: http://img.icons8.com/[platform]/[size]/[commonName].[format] where commonName and platform - are mandatory, whereas size - is optional.
+<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE.png'>
+
+From the response meta info we have "House" for the name parameter, "ultroviolet" for platform, and "Link-company-child" for commonName. Thats all we need to get the "House" icon in the svg format. Here is the complete request string: 'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
  
    </details>
  <hr>
