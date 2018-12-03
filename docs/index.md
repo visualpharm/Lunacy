@@ -137,44 +137,70 @@ The offset from the first received result. Default value is 0
     <hr>
  
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories. Pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
+
  </details>
   
   
   <details>
   <summary>
-   <strong> Retrieval Engine </strong>
+   <strong> Retrieval Engine (OMG-IMG) </strong>
  </summary>
   
-Icons retrieval service could be used as a stand along absolutely <b>free</b> service. <b>Paid</b> service gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
- 
+[Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>free</b> for both to search and to retrieve icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
  
  <ol>
   <hr>
-  <li>
-   <details>
-    <summary>
-      <strong> How to retrieve an icon? </strong>
-    </summary>
-    
- Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale.
- 
-   </details>
- <hr>
- </li>
  <li>
  <details>
   <summary>
    <strong>Free VS Paid ? </strong>
  </summary>
   
-Most of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
+Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
 - access to generate PNG icons larger than 550 px
 - access to vector-format icons (SVG, EPS, PDF)
-- access to search engine.
-
+- access to more ['advanced search engine'](#service-integration-framework)  
+ 
  </details>
 </li>
   <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> How to retrieve an icon for FREE? </strong>
+    </summary>
+    
+ It takes just a line of code:
+ - `<img src=’https://img.icons8.com/search.svg’/>`
+ - `<img src=’https://img.icons8.com/search.png’/>`
+ to insert an icon in svg or png format directly from the CDN to your application of any scale. Alson please note that:
+ - png icons are available in limited size (less than 550px)
+ - only popular SVG icons are available for free
+ 
+   </details>
+ <hr>
+ </li>
+ <li>
+    <hr>
+  <li>
+   <details>
+    <summary>
+      <strong> How to retrieve an icon on PAID BASIS? </strong>
+    </summary>
+     
+     The canonical format for retrieving icons is as follows: http://img.icons8.com/[platform]/[size]/[commonName].[format] where commonName and platform - are mandatory, whereas size - is optional.
+    
+ Everything becomes much more easier with [omg-img](http://img.icons8.com/) service. For example, it takes just a line of code `<img src=’https://img.icons8.com/search’/>` to insert a png icon [Magnifier](https://icons8.com/icon/set/magnifier/all) directly from the CDN to your application of any scale. The canonical format for retrieving icons is as follows: http://img.icons8.com/[platform]/[size]/[commonName].[format] where commonName and platform - are mandatory, whereas size - is optional.
+ 
+   </details>
+ <hr>
+ </li>
+ <li>
+  <hr>
+  
+  Png in limited size and popular SVG icons are free.
+  
+  
  <li>
  <details>
   <summary>
