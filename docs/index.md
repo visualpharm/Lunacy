@@ -143,7 +143,7 @@ Notice that you can filter results with style/platform and then group the result
   
   <details>
   <summary>
-   <strong> Retrieval Engine (OMG-IMG) </strong>
+   <strong> Retrieval Engine (Omg-Img) </strong>
  </summary>
   
 [Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>free</b> for both to search and to retrieve icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
@@ -156,9 +156,9 @@ Notice that you can filter results with style/platform and then group the result
    <strong>Free VS Paid ? </strong>
  </summary>
   
-Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that service integration license provides extra features which are:
+Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that <b>paid license</b> provides extra features which are:
 - access to generate PNG icons larger than 550 px
-- access to vector-format icons (SVG, EPS, PDF)
+- access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>FREE</b>.
 - access to more ['advanced search engine'](#service-integration-framework)  
  
  </details>
@@ -170,9 +170,10 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
       <strong> How to retrieve an icon for FREE? </strong>
     </summary>
     
- It takes just a line of code:
+ It takes just a line of code, service endpoint concatinated with icons name:
  - `<img src=’https://img.icons8.com/search.svg’/>`
  - `<img src=’https://img.icons8.com/search.png’/>`
+ 
  to insert an icon in svg or png format directly from the CDN to your application of any scale. Alson please note that:
  - png icons are available in limited size (less than 550px)
  - only popular SVG icons are available for free
