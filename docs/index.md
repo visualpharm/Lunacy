@@ -16,7 +16,7 @@ One of the most frequently asked questions from our customers is "<b>which licen
 
 ## Standard Framework
 
-Under the <b>Standard Framework</b> we consider a set of tools that allow our clients to manually search and retreive icons through a GUI. These tools are web and desktop apps. Both tools have a very similar functionality with some distinctions which are described in detail below:
+Under the <b>Standard Framework</b> we consider a set of tools that allows our clients to manually search and retreive icons through a GUI. These tools are web and desktop apps. Both tools have a very similar functionality with some distinctions which are described in detail below:
  
   <details>
   <summary>
