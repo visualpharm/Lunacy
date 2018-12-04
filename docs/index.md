@@ -267,7 +267,7 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
  <li>
    <details>
     <summary>
-      <strong> How to retrieve an icon on PAID BASIS? </strong>
+      <strong> How to retrieve an icon on PAID basis? </strong>
     </summary>
      
      
