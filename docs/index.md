@@ -454,10 +454,6 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 
  </details>
  
-  
-
-
- 
   <details>
   <summary>
    <strong>Licensing</strong>
@@ -476,6 +472,7 @@ There is actually no free option to use our search engine, only the retrieval [o
   Few limitations of free of charge option are:
  - png icons are available in limited (<b>less than 550px</b>) size but suitable for a great deal of needs 
  - only <b>popular SVG</b> icons are available for <b>free</b>
+ - searching is only by means of [omg-img](http://img.icons8.com)
  </details>
   
  <details>
@@ -537,8 +534,6 @@ Notice, the icons that we have are of a vector format and that is why they could
 </ol> 
 
  </details>
-
-
 
 <details>
   <summary>
