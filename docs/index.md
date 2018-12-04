@@ -243,7 +243,7 @@ Notice that you can filter results with style/platform and then group the result
  <li>
  <details>
   <summary>
-   <strong>Free VS Paid ? </strong>
+   <strong>Free VS Paid </strong>
  </summary>
   
 Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that <b>paid license</b> provides extra features which are:
@@ -485,13 +485,13 @@ There is actually no free option to use our search engine, only the retrieval [o
   
   <br>
 
-  These are examples of API usage in production applications:
+  These are examples of Service Integration usage in production applications by our clients:
 
--   **Template customisation.**  <br> This is how  [Canva](https://www.canva.com/) uses our API to customise layouts.
+-   **Template customisation:**  <br> [Canva](https://www.canva.com/)
     
--   **Graphics and text editors.** <br>  [Gravit](https://gravit.io/)  allows to insert our icons via API into their mockups.
+-   **Graphics and text editors:** <br>  [Gravit](https://gravit.io/) 
     
--   **Application customisation.** <br>  [TimeTune](http://timetune.center/)  uses our API to customise activities.
+-   **Application customisation:** <br>  [TimeTune](http://timetune.center/) 
 
  </details>
  
