@@ -464,10 +464,13 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   </summary>
   
   <br>
+  
  ### PAID option
+ 
 The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more to the plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on this page: https://icons8.recurly.com/subscribe/api_access. After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines. 
   
 ### FREE OF CHARGE option
+
 There is no free option to use our search engine. Though there is a great opportunity to use searching and retrieaval capabilities of [omg-img](http://img.icons8.com) service <b>absolutely for free</b>.
    <br>
   Few limitations are:
