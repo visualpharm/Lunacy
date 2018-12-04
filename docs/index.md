@@ -24,50 +24,25 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   </summary>
    
  ### Searching
- ...
-### Editing/Formating
-...
-### Effects/Collections
-...
-### Downloading 
-...
-
+ ### Editing/Formating
+ ### Effects/Collections
+ ### Downloading 
+ ### Etc.
  </details>
    
-
   <details>
   <summary>
    <strong>Desktop Apps (Windows & Mac)</strong>
   </summary>
-  
 
  Desktop Apps (Windows & Mac)
  </details>
- 
-
-
-
  
   <details>
   <summary>
    <strong>Licensing</strong>
   </summary>
   
-  <br>
-  more details goes here ...
-  
- </details>
- 
- 
-  
-
-<!--
- <details>
-  <summary>
-   <span style="color:blue"><strong>LICENSING MODEL</strong></span>
-  </summary>
- This section aims to explain in detail various aspects of licensing and pricing for icons/photos services. While the strict [license agreement](https://icons8.com/download/Icons8_License.pdf) mainly focuses on the legitimacy of various types of usage, this chapter helps our clients to quickly grasp the main pricing features and wisely select the best possible usage option.
-
 There are two possibilities for our clients to use [Icons8](https://icons8.com/) services: on a free basis and on a payable basis. Please note that we do provide lots fruitful things to use for free. Actually, among all the icons/photos services there are only two services that potentially could be payable: [regular icon license](https://icons8.com/paid-license-99/#/) and [API integrations license](https://icons8.com/paid-license-99/#/). All other services provided absolutely for free without any hidden costs. Of cause, there could be some requests from our clients for custom art/photo processing work, but in general [these](https://icons8.com/paid-license-99/#/) are the only two services that in principle could be payable.  For information regarding the free of charge usage please read the ['Free of charge licensing'](#free-of-charge-licensing) section below. Payable option of cause have the most ambitious capabilities. All the shades of licensing associated with paid licenses are described in ['Paid licensing'](#paid-licensing) section. 
 ## Free of charge licensing
 All of the [Icons8](https://icons8.com/) icons/photos services and icons apps can be used for free except the API integration service. You are welcome to use them for free for personal or commercial use however it will require from you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
@@ -95,6 +70,20 @@ Below is the list of suggested places where you may set up a link:
  - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
 
 ##  Paid licensing
+  
+ </details>
+ 
+ 
+  
+
+<!--
+ <details>
+  <summary>
+   <span style="color:blue"><strong>LICENSING MODEL</strong></span>
+  </summary>
+ This section aims to explain in detail various aspects of licensing and pricing for icons/photos services. While the strict [license agreement](https://icons8.com/download/Icons8_License.pdf) mainly focuses on the legitimacy of various types of usage, this chapter helps our clients to quickly grasp the main pricing features and wisely select the best possible usage option.
+
+
 
  </details>
  
@@ -458,7 +447,9 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   <summary>
    <strong>Licensing</strong>
   </summary>
-  
+ 
+ Paid and free of charge options are available to our clients.
+ 
  ### PAID option
  
 Paid option means you have to buy an access token, a short string code that you embed into your requests to both searching and retrieval engines. Exactly the same token is used to access both engines.
@@ -479,8 +470,6 @@ There is actually no free option to use our search engine, only the retrieval [o
   <summary>
    <strong>Use Cases</strong>
   </summary>
-  
-  <br>
 
   These are examples of Service Integration usage in production applications by our clients:
 
