@@ -465,7 +465,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   
  ### PAID option
  
-Paid option means you have to buy an access token, a short string code that you embed into your request to both searching and retrieval engines. You use exactly the same token for both engines.
+Paid option means you have to buy an access token, a short string code that you embed into your request to both searching and retrieval engines. Exactly the same token is used to access both engines.
  
 The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every additional 100 000 requests add $100 more to the plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on this page: https://icons8.recurly.com/subscribe/api_access. After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines. 
   
