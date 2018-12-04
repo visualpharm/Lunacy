@@ -225,7 +225,7 @@ Notice that you can filter results with style/platform and then group the result
    <strong> Retrieval Engine (Omg-Img) </strong>
  </summary>
   
-[Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>free</b> for both to search and to retrieve icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
+[Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>for free</b> for both for searching and for retrieving icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
  
  <ol>
   <hr>
