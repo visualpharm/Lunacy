@@ -211,27 +211,30 @@ The primary language is English - if we do not translate something, it will be i
    </li>
     <hr>
    <li>
-   <br>Amount is the maximum number of icons which you'd like to receive. Default value is 25</br>
-   
-   </li>
-    <hr>
-   <li>
-   <br>Offset is the offset from the first received result. Default value is 0</br>
-   
-   </li>
-    <hr>
-   <li>
    <details>
      <summary>
-       <strong>   </strong>
+       <strong> Amount  </strong>
      </summary>
       
- 
+   This field is the maximum number of icons which you'd like to receive. Default value is 25.
    
    </details>
    
    </li>
-    <hr>
+   <hr>
+   <li>
+   <details>
+     <summary>
+       <strong>  Offset  </strong>
+     </summary>
+      
+ This field is the offset from the first received result. Default value is 0.
+   
+   </details>
+   
+   </li>
+ 
+   <hr>
    <li>
    <details>
      <summary>
@@ -517,20 +520,41 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  
  Paid and free of charge options are available to our clients.
  
- ### PAID option
- 
+ <ul>
+  <hr>
+   <li>
+   <details>
+     <summary>
+       <strong> PAID option  </strong>
+     </summary>
+      
 Paid option means you have to buy an access token, a short string code that you embed into your requests to both searching and retrieval engines. Exactly the same token is used to access both engines.
  
 The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every additional 100 000 requests add $100 more to the monthly plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on this page: https://icons8.recurly.com/subscribe/api_access. After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines. 
-  
-### FREE of charge option
-
-There is actually no free option to use our search engine, only the retrieval [omg-img](http://img.icons8.com) engine. However [omg-img](http://img.icons8.com) provides a great deal of opportunities to use <b>both searching and retrieaval absolutely for free</b>.
+   
+   </details>
+   
+   </li>
+    <hr>
+   <li>
+   <details>
+     <summary>
+       <strong> FREE of charge option </strong>
+     </summary>
+      
+ There is actually no free option to use our search engine, only the retrieval [omg-img](http://img.icons8.com) engine. However [omg-img](http://img.icons8.com) provides a great deal of opportunities to use <b>both searching and retrieaval absolutely for free</b>.
    <br>
   Few limitations of free of charge option are:
  - png icons are available in limited (<b>less than 550px</b>) size but suitable for a great deal of needs 
  - only <b>popular SVG</b> icons are available for <b>free</b>
  - searching is only by means of [omg-img](http://img.icons8.com)
+   
+   </details>
+   
+   </li>
+   <hr>
+ </ul>
+ 
  </details>
   
  <details>
