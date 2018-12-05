@@ -90,8 +90,6 @@ Below is the list of suggested places where you may set up a link:
  
  <hr>
  -->
-
-
   
 
 ## Service Integration Framework
@@ -114,22 +112,38 @@ Requests to the search engine are constructed with the use of a set of parameter
 
 
   <ul>
-   <hr>
-  <li>
+    <hr>
+   <li>
    <details>
-    <summary>
-      <strong> Searching requests parameters </strong>
-    </summary>
+     <summary>
+       <strong> API key and token are the same thing  </strong>
+     </summary>
  
- ### API key and token are the same thing
  
  Personal API key or <b>token</b> is a short code in text format that basically grants you permissions to send requests to both searching and retrieval engines. After we receive a payment from a client we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access)
-  
- ### Endpoint
+   
+   </details>
+   
+   </li>
+    <hr>
+    <li>
+   <details>
+     <summary>
+       <strong> Endpoint </strong>
+     </summary>
  
  The endpoint is the URL where our service can be accessed by a client application. The v4 search engine endpoint is: https://api.icons8.com/api/iconsets/v4/search
+   
+   </details>
+   
+   </li>
+    <hr>
+   <li>
+   <details>
+     <summary>
+       <strong> Platform  </strong>
+     </summary>
  
- ### Platform
 
 Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
 
@@ -163,10 +177,17 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 |m_two_tone|Material Design Two Tone|
 |m_sharp|Material Design Sharp|
 |linen|Linen|
+   
+   </details>
+   
+   </li>
+    <hr>
+   <li>
+   <details>
+     <summary>
+       <strong> Language  </strong>
+     </summary>
 
-
-
-### Language
 
 Icon names, categories and tags are localized. Here's the list of supported languages:
 
@@ -184,14 +205,31 @@ Icon names, categories and tags are localized. Here's the list of supported lang
 |ja-JP|Japanese|
 
 The primary language is English - if we do not translate something, it will be in English.
-
-### Amount
-The maximum number of icons which you'd like to receive. Default value is 25
-
-### Offset
-The offset from the first received result. Default value is 0
-
+   
    </details>
+   
+   </li>
+    <hr>
+   <li>
+   <br>Amount is the maximum number of icons which you'd like to receive. Default value is 25</br>
+   
+   </li>
+    <hr>
+   <li>
+   <br>Offset is the offset from the first received result. Default value is 0</br>
+   
+   </li>
+    <hr>
+   <li>
+   <details>
+     <summary>
+       <strong>   </strong>
+     </summary>
+      
+ 
+   
+   </details>
+   
    </li>
     <hr>
    <li>
@@ -200,8 +238,7 @@ The offset from the first received result. Default value is 0
        <strong> Sample request </strong>
      </summary>
       
- |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
-|----------|--------|
+Here is how a sample request may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
    
    </details>
    
@@ -226,7 +263,7 @@ The offset from the first received result. Default value is 0
 
     
     
-Here is how a sample request may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+
  
 Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories. Pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
 
