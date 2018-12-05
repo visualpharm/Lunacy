@@ -129,9 +129,9 @@ Here is how a sample request may look like: https://api.icons8.com/api/iconsets/
       <strong> Searching requests parameters </strong>
     </summary>
  
- ### API key i.e. token
+ ### API key and token are the same thing
  
- Personal API key or <b>token</b> is a short code in text format that basically allows you to send requests to our service. After we receive a payment from a client we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access)
+ Personal API key or <b>token</b> is a short code in text format that basically grants you permissions to send requests to both searching and retrieval engines. After we receive a payment from a client we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access)
   
  ### Endpoint
  
@@ -211,7 +211,8 @@ The offset from the first received result. Default value is 0
       
  |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
 |----------|--------|
-    </details>
+   
+   </details>
    </li>
     <hr>
  
@@ -225,7 +226,7 @@ Notice that you can filter results with style/platform and then group the result
    <strong> Retrieval Engine (Omg-Img) </strong>
  </summary>
   
-[Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>for free</b> for both for searching and for retrieving icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps.  
+[Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>for free</b> for both for searching and for retrieving icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps. Exactly the same paid token is used to access both searching and retrieval engines.
  
  <ol>
   <hr>
@@ -236,6 +237,7 @@ Notice that you can filter results with style/platform and then group the result
  </summary>
   
 Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that <b>paid license</b> provides extra features which are:
+
 - access to generate PNG icons larger than 550 px
 - access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>FREE</b>.
 - access to more ['advanced search engine'](#service-integration-framework)  
