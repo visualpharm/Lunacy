@@ -116,11 +116,11 @@ Requests to the search engine are constructed with the use of a set of parameter
    <li>
    <details>
      <summary>
-       <strong> API key and token are the same thing  </strong>
+       <strong> API key / Token </strong>
      </summary>
  
  
- Personal API key or <b>token</b> is a short code in text format that basically grants you permissions to send requests to both searching and retrieval engines. After we receive a payment from a client we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access)
+ Personal <b>API key</b> or <b>token</b> is a short code in text format that basically grants you permissions to send requests to both searching and retrieval engines. After we receive a payment from a client we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access)
    
    </details>
    
@@ -241,7 +241,7 @@ The primary language is English - if we do not translate something, it will be i
        <strong> Sample request </strong>
      </summary>
       
-Here is how a sample request may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
    
    </details>
    
