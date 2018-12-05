@@ -150,31 +150,30 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 |android|icons in the Google Android 4 Kitkat style| 
 |androidL|icons in the Google Android 5 Lollipop (Material) style| 
 |color|flat color icons| 
-|office|icons in the Microsoft Office style| 
-|ultraviolet|Ultraviolet|				
-|nolan|Nolan|				
-|p1em|1em|
-|dotty|	Dotty Dots|	
-|dusk|Dusk|				
-<!--
-75	Dusk_Wired	Wired	✓			✓	Update
-140	cotton	Cotton				✓	Update
-12	ios11	iOS Tab Bar Icons (Glyphs)	✓			✓	Update
-301	clouds	Clouds				✓	Update
-302	bubbles	Bubbles				✓	Update
-303	plasticine	Plasticine				✓	Update
-304	carbon_copy	Carbon Copy	✓			✓	Update
-250	doodle	Doodle				✓	Update
-251	fineline	Fune Line					Update
-252	isometric	Isometric					Update
-253	flat_round	Flat Round				✓	Update
-14	m_outlined	Material Outlined	✓		/static/effects/svg/icons/androidL/	✓	Update
-15	m_rounded	Material Rounded	✓		/static/effects/svg/icons/androidL/	✓	Update
-16	m_two_tone	Material Two Tone				✓	Update
-17	m_sharp	Material Sharp	✓		/static/effects/svg/icons/androidL/	✓	Update
+|office|Icons for Microsoft Office| 
+|ultraviolet|Blue UI|				
+|nolan|Gradient Line|				
+|p1em|Simple Small|
+|dotty|Dotted|	
+|dusk|Cute Color|				
+|Dusk_Wired|Cute Outline|	 
+|cotton|Pastel|			 
+|ios11|iOS Glyph|  
+|clouds|Clouds|
+|bubbles|Circle Bubbles|
+|plasticine|	Color Hand Drawn|
+|carbon_copy|Hand Drawn|
+|doodle|Doodle|
+|fineline|Fune Line|
+|isometric|Isometric|
+|flat_round|Round Infographic|
+|m_outlined|Material Design Outlined|
+|m_rounded|Material Design Rounded|
+|m_two_tone|Material Design Two Tone|
+|m_sharp|Material Design Sharp|
 |linen|Linen|
 
--->
+
 
 ### Language
 
