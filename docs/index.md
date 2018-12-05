@@ -176,7 +176,6 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 |m_rounded|Material Design Rounded|
 |m_two_tone|Material Design Two Tone|
 |m_sharp|Material Design Sharp|
-|linen|Linen|
    
    </details>
    
