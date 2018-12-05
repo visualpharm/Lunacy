@@ -197,6 +197,19 @@ The offset from the first received result. Default value is 0
    <li>
    <details>
      <summary>
+       <strong> Sample request </strong>
+     </summary>
+      
+ |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
+|----------|--------|
+   
+   </details>
+   
+   </li>
+    <hr>
+   <li>
+   <details>
+     <summary>
        <strong> Sample response </strong>
      </summary>
       
@@ -206,11 +219,11 @@ The offset from the first received result. Default value is 0
    </details>
    
    </li>
-   
+   <hr>
    </ul>
    
 
-    <hr>
+
     
     
 Here is how a sample request may look like: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
