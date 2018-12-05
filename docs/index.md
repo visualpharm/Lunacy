@@ -28,6 +28,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  ### Effects/Collections
  ### Downloading 
  ### Etc.
+ 
  </details>
    
   <details>
@@ -135,7 +136,7 @@ Here is how a sample request may look like: https://api.icons8.com/api/iconsets/
   
  ### Endpoint
  
- The endpoint is the URL where our service can be accessed by your application. The v4 search engine endpoint is: https://api.icons8.com/api/iconsets/v4/search
+ The endpoint is the URL where our service can be accessed by a client application. The v4 search engine endpoint is: https://api.icons8.com/api/iconsets/v4/search
  
  ### Platform
 
