@@ -380,7 +380,7 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
  </summary>
   
 
-There is always an option to browse for more icons from our web app  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps. Just type a search query in the "SEARCH ICON" contrlol and press https://img.icons8.com/search.png to get a list of the most relevant icons. Then select the icon you'd like to use and hit on the "HTML" button to see the full puth to this icon that you actually may use in your own app. 
+There is always an option to browse for more icons from our web app  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps. Just type a search query in the "SEARCH ICON" contrlol and press 'https://img.icons8.com/ios/search.png' to get a list of the most relevant icons. Then select the icon you'd like to use and hit on the "HTML" button to see the full puth to this icon that you actually may use in your own app. 
 
  </details>
 </li>
