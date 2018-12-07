@@ -293,9 +293,10 @@ Notice that you can filter results with style/platform and then group the result
   
 [Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>for free</b> for both for searching and for retrieving icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps. Exactly the same paid token is used to access both searching and retrieval engines.
  
- <ul>
+ <ol>
   <hr>
  <li>
+  
  <details>
   <summary>
    <strong>Free VS Paid </strong>
@@ -351,10 +352,8 @@ From the response meta info we have "House" for the name parameter, "ultroviolet
 -->
  
    </details>
- <hr>
  </li>
-
-  
+ <hr>
   
  <li>
  <details>
@@ -368,8 +367,20 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
  - https://img.icons8.com/house
 - https://img.icons8.com/bungalow
 - https://img.icons8.com/targaryen-house
+ 
 
-There is always an option to browse for more icons from our web site search engine UI  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps.
+ </details>
+</li>
+<hr>
+  
+ <li>
+ <details>
+  <summary>
+   <strong> Icon’s search with the use of our web app </strong>
+ </summary>
+  
+
+There is always an option to browse for more icons from our web app  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps. Just type a search query in the "SEARCH ICON" contrlol and press https://img.icons8.com/search.png to get a list of the most relevant icons. Then select the icon you'd like to use and hit on the "HTML" button to see the full puth to this icon that you actually may use in your own app. 
 
  </details>
 </li>
@@ -510,9 +521,10 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 - <img src='http://img.icons8.com/office/50px/car.png?office=80'> `http://img.icons8.com/office/50px/car.png?office=80`
 
  </details>
+ 
 </li>
 <hr>
-</ul> 
+</ol> 
 
  </details>
  
