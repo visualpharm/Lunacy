@@ -344,7 +344,11 @@ The canonical format for retrieving icons in PAID license format is as follows: 
 <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE.png'>
 
 
-From the response meta info we have "House" for the name parameter, "ultroviolet" for platform, and "Link-company-child" for commonName. Thats all we need to get the "House" icon in the svg format. Here is the complete request string: 'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
+From the response meta info we have "House" for the name parameter, "ultroviolet" for platform, and "Link-company-child" for commonName. Thats all we need to get the "House" icon in the svg format. Here is the complete request string: 
+'http://img.icons8.com/ultraviolet/link-company-child.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
+<!--
+'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
+-->
  
    </details>
  <hr>
