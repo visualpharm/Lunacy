@@ -345,11 +345,14 @@ The canonical format for retrieving icons in PAID license format is as follows: 
 <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE.png'>
 
 
-For the "house" search query we have response meta info with value "ultroviolet" for platform, and "Link-company-child" for commonName. Thats all we need to get the icon in the svg/eps/pdf/png format. Here is the complete request string: 
+For the "house" search query we have response meta info with value "ultroviolet" for platform parameter, and "Link-company-child" for commonName parameter. Thats all we need to get the icon in the svg/eps/pdf/png formats. Here are the complete request strings: 
+
 - 'http://img.icons8.com/ultraviolet/link-company-child.svg?token=YOURTOKEN' 
 - 'http://img.icons8.com/ultraviolet/link-company-child.eps?token=YOURTOKEN' 
 - 'http://img.icons8.com/ultraviolet/link-company-child.png?token=YOURTOKEN' 
 - 'http://img.icons8.com/ultraviolet/link-company-child.pdf?token=YOURTOKEN' 
+
+Note that the 'name' parameter is not used at all in the constraction of url for retrieving the icon.
 <!--
 'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
 -->
