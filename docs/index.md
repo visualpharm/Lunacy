@@ -339,14 +339,17 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
     </summary>
      
      
-The canonical format for retrieving icons in PAID license format is as follows: http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=e5b4w4e6a788431f805c1fkh1e16d  where commonName, platform, token - are mandatory, whereas size - is optional. Lets illustate the procedure on the following example. Assume we call v4 search engine with 'House' searching phrase and receive a JSON respnse as follows: 
+The canonical format for retrieving icons in PAID license format is as follows: http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=e5b4w4e6a788431f805c1fkh1e16d  where commonName, platform, token - are mandatory, whereas size - is optional. Lets illustate the procedure on the following example. Assume we call v4 search engine with 'house' searching phrase and receive a JSON respnse as follows: 
     
     
 <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE.png'>
 
 
-From the response meta info we have "House" for the name parameter, "ultroviolet" for platform, and "Link-company-child" for commonName. Thats all we need to get the "House" icon in the svg format. Here is the complete request string: 
-'http://img.icons8.com/ultraviolet/link-company-child.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
+For the "house" search query we have response meta info with value "ultroviolet" for platform, and "Link-company-child" for commonName. Thats all we need to get the icon in the svg/eps/pdf/png format. Here is the complete request string: 
+- 'http://img.icons8.com/ultraviolet/link-company-child.svg?token=YOURTOKEN' 
+- 'http://img.icons8.com/ultraviolet/link-company-child.eps?token=YOURTOKEN' 
+- 'http://img.icons8.com/ultraviolet/link-company-child.png?token=YOURTOKEN' 
+- 'http://img.icons8.com/ultraviolet/link-company-child.pdf?token=YOURTOKEN' 
 <!--
 'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
 -->
