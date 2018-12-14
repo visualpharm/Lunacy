@@ -50,7 +50,6 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/freesvg.png'>
- 
  </p>
  
  To start edit an icon, download it or add it to your collection just click on the icon. Editor tools will show up as it demonstrated below: 
@@ -59,8 +58,25 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_edit.png'>
  </p>
  
+ Icons editing tools and other tools for manipulation with icons are described on the following sections of this manual.
+ 
    </details>
    
+   </li>
+    <hr>
+   <li>
+    <details>
+     <summary>
+       <strong> Downloading  </strong>
+     </summary>
+  
+   To download click on the download button and the download window will popup as it demostrated below:
+   
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/icon_download.png'>
+ </p>
+   
+   </details>
    </li>
     <hr>
     <li>
@@ -69,7 +85,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Editing/Formating  </strong>
      </summary>
   
-  X
+  
    
    </details>
    </li>
@@ -95,17 +111,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    </details>
    </li>
        <hr>
-    <li>
-    <details>
-     <summary>
-       <strong> Downloading  </strong>
-     </summary>
-  
-  X
-   
-   </details>
-   </li>
-    <hr>
+
     <li>
     <details>
      <summary>
