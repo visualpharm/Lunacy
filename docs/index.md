@@ -52,7 +52,13 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/freesvg.png'>
  
  </p>
-  
+ 
+ To start edit an icon, download it or add it to your collection just click on the icon. Editor tools will show up as it demonstrated below: 
+ 
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_edit.png'>
+ </p>
+ 
    </details>
    
    </li>
