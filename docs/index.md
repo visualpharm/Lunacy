@@ -22,11 +22,96 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   <summary>
    <strong>Web App</strong>
   </summary>
+ 
+ (Icons web app)[https://icons8.com/icons] is availale on a any modern web browser and can be accessed by the following url: https://icons8.com/icons.
    
- ### Searching
- ### Editing/Formating
- ### Effects/Collections
- ### Downloading 
+  <ul>
+    <hr>
+   <li>
+   <details>
+     <summary>
+       <strong> Searching  </strong>
+     </summary>
+  
+   
+   </details>
+   
+   </li>
+    <hr>
+    <li>
+    <details>
+     <summary>
+       <strong> Editing/Formating  </strong>
+     </summary>
+  
+   
+   </details>
+   </li>
+     <hr>
+    <li>
+    <details>
+     <summary>
+       <strong> Filters  </strong>
+     </summary>
+  
+   
+   </details>
+   </li>
+    <hr>
+    <li>
+    <details>
+     <summary>
+       <strong> Effects / Collections  </strong>
+     </summary>
+  
+   
+   </details>
+   </li>
+       <hr>
+    <li>
+    <details>
+     <summary>
+       <strong> Downloading  </strong>
+     </summary>
+  
+   
+   </details>
+   </li>
+    <hr>
+    <li>
+    <details>
+     <summary>
+       <strong> HTML  </strong>
+     </summary>
+  
+   
+   </details>
+   </li>
+   <hr>
+    <li>
+    <details>
+     <summary>
+       <strong> Collections  </strong>
+     </summary>
+  
+   
+   </details>
+   </li>
+   <hr>
+    <li>
+    <details>
+     <summary>
+       <strong> Support  </strong>
+     </summary>
+  
+   
+   </details>
+   </li>
+   </ul>
+ 
+ ### 
+ ### 
+ ### 
  ### Etc.
  
  </details>
