@@ -38,6 +38,12 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  
    
    You have a possibility to view plain icons as well as icons with titles just by toggling an approprite button on the top right of the screen.
+   
+   <p align="center">
+   |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/title.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/notitle.png'>|
+   |----------|--------|
+ 
+ </p>
    </details>
    
    </li>
