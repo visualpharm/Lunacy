@@ -44,6 +44,15 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stylespane.png'>
  
  </p>
+ 
+ 
+  Free icons can only be downloaded in PNG format up to 100x100px. The Popular Icons and Logos are free in all formats, including SVG. The sets of icons available for free in SVG are highlighted (as it is shown below) just for the convinience of the clients who is using our service on a free of charge basis.
+  
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/freesvg.png'>
+ 
+ </p>
+  
    </details>
    
    </li>
