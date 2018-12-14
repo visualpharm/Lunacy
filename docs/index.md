@@ -37,11 +37,11 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Search_2.png'>
  
    
-   You have a possibility to view plain icons as well as icons with titles just by toggling an approprite button on the top right of the screen.
+   You have a possibility to view plain icons as well as icons with titles just by toggling an approprite switch button on the top right of the above screen.
    
+  There is a pane with four groups of filters available on the right of the main app screen. These groups are: style, bundles, categories and trends. You may open these collapsible menus to quickly access categorized sets of icons:
    <p align="center">
-   |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/title.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/notitle.png'>|
-   |----------|--------|
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stylespane.png'>
  
  </p>
    </details>
