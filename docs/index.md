@@ -33,8 +33,9 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Searching  </strong>
      </summary>
   Just type in a search query in the search bar as demonstrated below and hit enter to retrieve the most relevant set of icons. You may select various styles, from the drop down menu to request icons from various style categories.
-  |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Search_2.png'>|
-|----------|
+    
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Search_2.png'>
+ 
    
    You have a possibility to view plain icons as well as icons with titles just by toggling an approprite button on the top right of the screen.
    </details>
