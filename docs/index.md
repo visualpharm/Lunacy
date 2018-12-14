@@ -23,7 +23,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <strong>Web App</strong>
   </summary>
  
- (Icons web app)[https://icons8.com/icons] is availale on a any modern web browser and can be accessed by the following url: https://icons8.com/icons.
+ [Icons web app](https://icons8.com/icons) is availale on a any modern web browser and can be accessed via the following URL: https://icons8.com/icons.
    
   <ul>
     <hr>
@@ -33,6 +33,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Searching  </strong>
      </summary>
   
+  X
    
    </details>
    
@@ -44,6 +45,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Editing/Formating  </strong>
      </summary>
   
+  X
    
    </details>
    </li>
@@ -64,6 +66,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Effects / Collections  </strong>
      </summary>
   
+  X
    
    </details>
    </li>
@@ -74,6 +77,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Downloading  </strong>
      </summary>
   
+  X
    
    </details>
    </li>
@@ -84,6 +88,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> HTML  </strong>
      </summary>
   
+  X
    
    </details>
    </li>
@@ -94,6 +99,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Collections  </strong>
      </summary>
   
+  X
    
    </details>
    </li>
@@ -104,15 +110,14 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Support  </strong>
      </summary>
   
+  X
    
    </details>
    </li>
+    <hr>
    </ul>
  
- ### 
- ### 
- ### 
- ### Etc.
+ 
  
  </details>
    
