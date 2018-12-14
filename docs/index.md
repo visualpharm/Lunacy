@@ -597,7 +597,7 @@ The starter icons service integration plan is $100/month - it includes up to 100
  
  <details>
   <summary>
-   <strong>Service Integration Framework. Licensing. Requests limits. API Key. Limitations. Use cases. What if ... </strong>
+   <strong>Service Integration Framework. Licensing. Requests limits. API tokens. Limitations. Use cases. </strong>
  </summary>
  
  <br>
@@ -608,7 +608,9 @@ The starter icons service integration plan is $100/month - it includes up to 100
       <strong>How can I purchase Service Integration API Key? What is included?</strong>
     </summary>
     
-   The starter icons Service Integration is $100/month - it includes up to 100 000 requests (actual, non cached icons downloads) per month. Every 100 000 requests add $100 more. After we receive a payment from you we'll issue an API key. You may proceed with the payment on this page: https://icons8.recurly.com/subscribe/api_access
+The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every additional 100 000 requests add $100 more to the monthly plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on this page: https://icons8.recurly.com/subscribe/api_access. After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines.
+   
+   
    </details>
  <hr>
  </li>
@@ -618,7 +620,12 @@ The starter icons service integration plan is $100/month - it includes up to 100
    <strong>What are the end points for icons Searching/Retrieval? Give me few examples, please!</strong>
  </summary>
   
- The endpoint for searching requests is: https://search.icons8.com/api/iconsets/v4/search for retrieval: http://img.icons8.com In order to serch / retrieve an icon you embed your API key just right into the requests: https://search.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token= "YOUR API KEY" http://img.icons8.com/ios/F0AC34/search.svg?token= "YOUR API KEY" You may change the order of parameters in you request accodring to the documantation. Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our v4 service you get back a json which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to categories.
+  The endpoint is the URL where our service can be accessed by a client application. 
+  
+  - The v4 search engine endpoint is: https://api.icons8.com/api/iconsets/v4/search. Here is an example request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=YOURTOKEN.
+  
+  - The endpoint for retrievale is: http://img.icons8.com. Here is an example request: http://img.icons8.com/ultraviolet/link-company-child.svg?token=YOURTOKEN
+  
  </details>
   <hr>
 </li>
@@ -628,7 +635,8 @@ The starter icons service integration plan is $100/month - it includes up to 100
    <strong>Why icon size is not icluded in metadata returned by Search Engine? Why Pixel Perfect?</strong>
  </summary>
   
-Notice, the icons that we have are of a vector format and that is why they could be of any size. By this reason we do not include the icon's size in metadata. I.e. you can substitute any size in the request of a retrieval serivce and receive the corresponding png icon in the requested size. For icons retrieval we use [Omg-Img](...) service. To retrieve an icon you embed your API key just right into your request http://img.icons8.com/ios/F0AC34/search.svg?token= "YOUR API KEY" You may change the order of parameters in your request. Also keep in mind that due to the conversion of svg into png the "pixel perfect" come into play. To eliminate the artefacts of format conversion (from vector to raster) there is an appropriate size for each platform which you can then multiply by various factors 1x, 2x, 3x etc. to get the png size you need. 
+Notice, the icons that we have are of a vector format and that is why they could be of any size. By this reason we do not include the icon's size in metadata of response from search engine. You simply can substitute any value for size parameter in request of a retrieval serivce and receive the corresponding png icon of the size that you requested. For icons retrieval we use [omg-img](http://img.icons8.com/) service. To retrieve an icon you embed your API TOKEN just right into your request http://img.icons8.com/ios/F0AC34/search.svg?token="YOURTOKEN". You may change the order of parameters in your request. Also keep in mind that due to the conversion of svg into png the "pixel perfect" come into play. To eliminate the artefacts of format conversion (from vector to raster) there is an appropriate size for each platform which you can then multiply by various factors 1x, 2x, 3x etc. to get the png size you need. 
+
  </details>
   <hr>
 </li>
