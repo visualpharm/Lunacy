@@ -23,7 +23,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <strong>Web App</strong>
   </summary>
  
- [Icons web app](https://icons8.com/icons) is availale on a any modern web browser and can be accessed via the following URL: https://icons8.com/icons.
+ [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the following URL: https://icons8.com/icons.
    
   <ul>
     <hr>
@@ -32,9 +32,11 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
      <summary>
        <strong> Searching  </strong>
      </summary>
-  
-  X
+  Just type in a search query in the search bar as demonstrated below and hit enter to retrieve the most relevant set of icons. You may select various styles, from the drop down menu to request icons from various style categories.
+  |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Search_2.png'>|
+|----------|
    
+   You have a possibility to view plain icons as well as icons with titles just by toggling an approprite button on the top right of the screen.
    </details>
    
    </li>
