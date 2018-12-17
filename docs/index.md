@@ -99,7 +99,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   
   Overlay tool provides you with functionality to add an averlay from a list and specify its color:
    <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/overlay_edit'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/overlay_edit.png'>
  </p>
  
    </details>
