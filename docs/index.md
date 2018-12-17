@@ -97,9 +97,10 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/recolor_edit.png'>
  </p>
   
-  recolor_edit
- 
- The first tool in the
+  Overlay tool provides you with functionality to add an averlay from a list and specify its color:
+   <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/overlay_edit'>
+ </p>
  
    </details>
    </li>
