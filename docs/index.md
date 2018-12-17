@@ -75,10 +75,9 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main.png'>
  </p>
  
- A group of styles options related to the selected icon provide you with ability to quickly change the style of the icon you've just selected:
+A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the desired style:
  
-   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_styles.png'>
+   <p align="center"> 
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_styles_applied.png'>
  </p>
    
