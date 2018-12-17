@@ -72,16 +72,17 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    Editing and formatting tools show up whenevere an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
 
   <p align="center">
-   <img width="65%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1.png'>
+   <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1.png'>
  </p>
  
  A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
  
  <p align="center">
-   <img width="65%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1_style.png'>
+   <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1_style.png'>
  </p>
   
   The editing tools are located on the most left pane of the editor and include the following tools:
+  
   - Recolor
   - Overlay
   - Text
@@ -92,7 +93,8 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   - Circle
   - Square
   
-  The recolor tool aims to change the most prominent features of an icon. You may use various types of color selection tools to craft the desired look:
+  <br>
+ The recolor tool aims to change the most prominent features of an icon. You may use various types of color selection tools to craft the desired look:
   
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/recolor_edit.png'>
@@ -149,13 +151,6 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit_fill_overlay.png'>
  </p>
 
-
-
-
-
- 
- 
- 
  
    </details>
    </li>
@@ -166,25 +161,15 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Downloading </strong>
      </summary>
   
+  X
   
-   
    </details>
    </li>
    <hr>
    <li>
     <details>
      <summary>
-       <strong> Filters  </strong>
-     </summary>
-  
-   
-   </details>
-   </li>
-   <hr>
-   <li>
-    <details>
-     <summary>
-       <strong> Effects / Collections  </strong>
+       <strong> Collections </strong>
      </summary>
   
   X
@@ -196,7 +181,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <li>
     <details>
      <summary>
-       <strong> HTML  </strong>
+       <strong> HTML </strong>
      </summary>
   
   X
@@ -204,28 +189,6 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    </details>
    </li>
    <hr>
-    <li>
-    <details>
-     <summary>
-       <strong> Collections  </strong>
-     </summary>
-  
-  X
-   
-   </details>
-   </li>
-   <hr>
-    <li>
-    <details>
-     <summary>
-       <strong> Support  </strong>
-     </summary>
-  
-  X
-   
-   </details>
-   </li>
-    <hr>
    </ul>
  
  
