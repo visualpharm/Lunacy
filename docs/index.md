@@ -93,18 +93,21 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   - Square
   
   The recolor tool aims to change the most prominent features of an icon. You may use various types of color selection tools to craft the desired look:
+  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/recolor_edit.png'>
  </p>
   
   Overlay tool provides you with functionality to add an averlay from a list and specify its color:
+  
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/overlay_edit.png'>
  </p>
  
  Text editing is another awsome tool that let you text over your icon and change its size, style and color:
+ 
  <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit.png'>
+   <img width="50%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit.png'>
  </p>
  
    </details>
