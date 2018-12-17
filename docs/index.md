@@ -107,8 +107,10 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  Text editing is another awsome tool that let you text over your icon and change its size, style and color:
  
  <p align="center">
-   <img width="50%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit.png'>
+   <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit.png'>
  </p>
+ 
+ 
  
    </details>
    </li>
