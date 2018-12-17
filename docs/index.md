@@ -72,13 +72,13 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    Editing and formatting tools show up whenevere an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
 
   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1.png'>
  </p>
  
  A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
  
  <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_styles_applied.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1_style.png'>
  </p>
   
   The editing tools are located on the most left pane of the editor and include the following tools:
