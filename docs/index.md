@@ -95,13 +95,13 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   The recolor tool aims to change the most prominent features of an icon. You may use various types of color selection tools to craft the desired look:
   
  <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/recolor_edit.png'>
+   <img  width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/recolor_edit.png'>
  </p>
   
   Overlay tool provides you with functionality to add an averlay from a list and specify its color:
   
    <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/overlay_edit.png'>
+   <img  width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/overlay_edit.png'>
  </p>
  
  Text editing is another awesome tool that let you text over your icon and change its size, style and color:
@@ -129,17 +129,24 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/background_effect_edit.png'>
  </p>
  
- Circle effect has various parameters which make this feature to be a very flexible tool. You may specify stroke, icon and circle sizes. Also by setting up the <b>fill togle</b>  to <b>ON</b> state you make the circle to be filled with specific color that you may choose.
+ Circle effect has various parameters which make this feature to be a very flexible tool. You may specify stroke, icon and circle sizes. 
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_circle.png'>
  </p>
+ Also by setting up the <b>fill togle</b> to <b>ON</b> state you make the circle to be filled up with specific color that you may choose.
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
  </p>
  
- 
+
+ Square effect has similar feature set to the circular effect. In addition square effect has an extra parameter called <b>corner radius</b> that specifies the rounding of the square corners.
  <p align="center">
-   <img width="100%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit.png'>
+ </p>
+ 
+ Same as with circle, the square effect has functionality to fill its interior:
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_edit_fill.png'>
  </p>
 
 
