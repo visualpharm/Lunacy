@@ -89,8 +89,8 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    
    </details>
    </li>
-     <hr>
-    <li>
+   <hr>
+   <li>
     <details>
      <summary>
        <strong> Filters  </strong>
@@ -99,8 +99,8 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    
    </details>
    </li>
-    <hr>
-    <li>
+   <hr>
+   <li>
     <details>
      <summary>
        <strong> Effects / Collections  </strong>
@@ -110,9 +110,9 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    
    </details>
    </li>
-       <hr>
+   <hr>
 
-    <li>
+   <li>
     <details>
      <summary>
        <strong> HTML  </strong>
