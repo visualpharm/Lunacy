@@ -23,7 +23,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <strong>Web App</strong>
   </summary>
  
- [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the following URL: https://icons8.com/icons.
+ [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the URL: https://icons8.com/icons. The subscetions below grasp the main features of the web app:
    
   <ul>
     <hr>
@@ -45,8 +45,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   In addition to the search bar, there is a pane with four groups of filters available on the right of the main app screen. These groups are: styles, bundles, categories and trends. You may open these collapsible menus to quickly access categorized sets of icons:
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stylespane.png'>
- 
- </p>
+   </p>
  
  
   Free icons can only be downloaded in PNG format up to 100x100px. The Popular Icons and Logos are free in all formats, including SVG. The sets of icons available for free in SVG are highlighted (as it is shown below) just for the convinience of the clients who is using our service on a free of charge basis.
