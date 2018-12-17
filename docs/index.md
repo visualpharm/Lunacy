@@ -75,12 +75,27 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main.png'>
  </p>
  
-A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the desired style:
+ A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
  
-   <p align="center"> 
+ <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_styles_applied.png'>
  </p>
-   
+  
+  The editing tools are located on the most left pane of the editor and include the following tools:
+  - Recolor
+  - Overlay
+  - Text
+  - No efects
+  - Stroke
+  - Padding
+  - Background
+  - Circle
+  - Square
+  
+  recolor_edit
+ 
+ The first tool in the
+ 
    </details>
    </li>
     <hr>
