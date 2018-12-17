@@ -108,25 +108,25 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  
  
  <p align="center">
-   <img width="100%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit_1.png'>
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit_1.png'>
  </p>
  
   <p align="center">
-   <img width="100%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stroke_effect_edit.png'>
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stroke_effect_edit.png'>
  </p>
  
  <p align="center">
-   <img width="100%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/padding_effect_edit.png'>
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/padding_effect_edit.png'>
  </p>
  
    <p align="center">
-   <img width="100%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/background_effect_edit.png'>
+   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/background_effect_edit.png'>
  </p>
   <p align="center">
-   <img width="100%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_circle.png'>
+   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_circle.png'>
  </p>
   <p align="center">
-   <img width="100%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
  </p>
 
  
