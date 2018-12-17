@@ -36,17 +36,14 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
     
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Search_2.png'>
  
-   
-   You have an option to view plain icons only (above screenshot) as well as icons with titles (below screenshot) just by toggling an approprite switch button on the top right of the main screen of the app.
+   You have an option to view plain icons only (above screenshot) as well as icons with titles (below screenshot) just by toggling an approprite switch button on the top right of the main screen of the app (shown on both the above and below screenshots).
   
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_results_with_labels.png'>
-   
-   
-  In addition to the search bar, there is a pane with four groups of filters available on the right of the main app screen. These groups are: styles, bundles, categories and trends. You may open these collapsible menus to quickly access categorized sets of icons:
+  
+  The most left pane of the web app contains four groups of filters. These groups are: styles, bundles, categories and trends. You may open these collapsible menus to quickly access categorized sets of icons:
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stylespane.png'>
    </p>
- 
  
   Free icons can only be downloaded in PNG format up to 100x100px. The Popular Icons and Logos are free in all formats, including SVG. The sets of icons available for free in SVG are highlighted (as it is shown below) just for the convinience of the clients who is using our service on a free of charge basis.
   
