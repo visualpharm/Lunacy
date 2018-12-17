@@ -92,6 +92,11 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   - Circle
   - Square
   
+  The recolor tool aims to change the most prominent features of an icon. You may use various types of color selection tools to craft the desired look:
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/recolor_edit.png'>
+ </p>
+  
   recolor_edit
  
  The first tool in the
