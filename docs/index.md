@@ -45,19 +45,19 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stylespane.png'>
    </p>
  
-  Free icons can only be downloaded in PNG format up to 100x100px. The Popular Icons and Logos are free in all formats, including SVG. The sets of icons available for free in SVG are highlighted (as it is shown below) just for the convinience of the clients who is using our service on a free of charge basis.
+ Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/freesvg.png'>
  </p>
  
- To start edit an icon, download it or add it to your collection just click on the icon. Editor tools will show up as it demonstrated below: 
+ Editor tool come up whenevere an icon is clicked: 
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_edit.png'>
  </p>
  
- Icons editing tools and other tools for manipulation with icons are described on the following sections of this manual.
+ Icons editing tools and other tools for manipulation with icons are described in the following subsections.
  
    </details>
    
