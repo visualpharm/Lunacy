@@ -111,26 +111,34 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit_1.png'>
  </p>
  
-  <p align="center">
+ Recolor, overlay and text are the effects applied to the icon with the use of toggle button. You may combine the effects by setting the appropriate buttons. The rest of the effects (stroke, padding, background, circle, square) are applied with the use of the radio button. You may apply one of the effect at a time or select the <b>"No Effects"</b> state when neither of the effects mentioned are applied.
+ 
+ The stroke effect enhances the prominent features of the icon with the specified size/weight. You may change the color of the stroke either.
+ <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stroke_effect_edit.png'>
  </p>
  
+ Padding effect is used to generate space around an icon inside of outer borders:
  <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/padding_effect_edit.png'>
  </p>
  
-   <p align="center">
+ Background effect adds a background to the icon with the functionality to specify custom color.
+ 
+ <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/background_effect_edit.png'>
  </p>
-  <p align="center">
+ 
+ Circle effect has various parameters which make this feature to be a very flexible tool. You may specify stroke, icon and circle sizes. Also by setting up the <b>fill togle</b>  to <b>ON</b> state you make the circle to be filled with specific color that you may choose.
+ <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_circle.png'>
  </p>
-  <p align="center">
+ <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
  </p>
-
  
-   <p align="center">
+ 
+ <p align="center">
    <img width="100%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit.png'>
  </p>
 
