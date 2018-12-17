@@ -32,12 +32,12 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
      <summary>
        <strong> Searching  </strong>
      </summary>
-  Just type in a search query in the search bar as demonstrated below and hit enter to retrieve the most relevant set of icons. You may select various styles, from the drop down menu to request icons from various style categories.
+  Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key. The most relevant icons set shows up. While entering search queries, you may select various styles, from the drop down menu located on the right from the search bar.
     
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Search_2.png'>
  
    
-   You have a possibility to view plain icons as well as icons with titles just by toggling an approprite switch button on the top right of the above screen.
+   You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the above main screen of the app.
    
   There is a pane with four groups of filters available on the right of the main app screen. These groups are: style, bundles, categories and trends. You may open these collapsible menus to quickly access categorized sets of icons:
    <p align="center">
@@ -70,7 +70,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Downloading  </strong>
      </summary>
   
-   To download click on the download button and the download window will popup as it demostrated below:
+   To download click on the download button and the download window will popup as it is demostrated below:
    
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/icon_download.png'>
