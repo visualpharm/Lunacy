@@ -66,13 +66,20 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <li>
     <details>
      <summary>
-       <strong> Downloading  </strong>
+       <strong> Editing/Formating </strong>
      </summary>
   
-   To download click on the download button and the download window will popup as it is demostrated below:
-   
+   Editing and formatting tools show up whenevere an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
+
   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/icon_download.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main.png'>
+ </p>
+ 
+ A group of styles options related to the selected icon provide you with ability to quickly change the style of the icon you've just selected:
+ 
+   <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_styles.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_styles_applied.png'>
  </p>
    
    </details>
@@ -81,7 +88,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
     <li>
     <details>
      <summary>
-       <strong> Editing/Formating  </strong>
+       <strong> Downloading </strong>
      </summary>
   
   
