@@ -177,6 +177,8 @@ There is an option to download selected icon in multiple sizes at once as a zip 
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit.png'>
  </p>
  
+ 
+ 
   
    </details>
    </li>
