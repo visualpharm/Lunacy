@@ -174,7 +174,7 @@ The icon download pane displays a pixel perfect size for the selected icon. You 
 There is an option to download selected icon in multiple sizes at once as a zip file. To achieve this you have to select the desired sizes with <b>ctrl</b> or <b>cmd</b> key pressed and click on the <b>download</b> button.
   
   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_1.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_1.jpg'>
  </p>
  
  
