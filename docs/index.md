@@ -69,7 +69,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Editing/Formating </strong>
      </summary>
   
-   Editing and formatting tools show up whenevere an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
+   Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
 
   <p align="center">
    <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1.png'>
@@ -161,7 +161,15 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Downloading </strong>
      </summary>
   
-  X
+   Icon downloading feature is available from the main icon editor pane which in turn come up whenever an icon is clicked. When the download button is clicked the following screen shows up:
+   
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_edit.png'>
+ </p>
+ 
+ Paying customers are elegible to download icons in png, svg, eps and pdf file formats.
+ 
+ Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
   
    </details>
    </li>
