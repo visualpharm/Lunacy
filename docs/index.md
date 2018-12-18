@@ -55,7 +55,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  Alternatively to searching icons with the use of search bar, you may click on various categories of the icons on the left pane of the app and at the same time quickly change their styles through a drop down menu available on the top of the right pane.
  
   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/change_icons_style.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/change_icons_style.jpg'>
  </p>
  
  
