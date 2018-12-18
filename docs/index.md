@@ -197,9 +197,14 @@ There is an option to download selected icon in multiple sizes at once as a zip 
      <summary>
        <strong> Collections </strong>
      </summary>
+     
+   Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. You may add icons into a collection just by dragging and dropping an icon or just by pressing on a special label in the upper right corner of the outer space surrounding each icon on mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
   
-  X
-   
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/add_icons_to_collection.jpg'>
+ </p>
+ 
+  
    </details>
    </li>
    <hr>
@@ -214,6 +219,38 @@ There is an option to download selected icon in multiple sizes at once as a zip 
    
    </details>
    </li>
+   <hr>
+   <li>
+    <details>
+     <summary>
+       <strong> Tehnical Support </strong>
+     </summary>
+  
+  X
+   
+   </details>
+   </li>
+   <hr>
+   <li>
+    <details>
+     <summary>
+       <strong> Login / Logout </strong>
+     </summary>
+  
+  X
+   
+   </details>
+   </li>
+      <li>
+    <details>
+     <summary>
+       <strong> Multilanguage supprt </strong>
+     </summary>
+  
+  X
+   
+   </details>
+   </li> 
    <hr>
    </ul>
  
