@@ -171,7 +171,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  
 The icon download pane displays a pixel perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x etc. to get <b>sSHARPY</b> .png icons in various sizes. You may choose one of the predefined sizes or specify your custom size.
 
-There is an option to download selected icon in multiple sizes at once as a zip file.  
+There is an option to download selected icon in multiple sizes at once as a zip file. To achieve that you have to select the desired sizes with <b>ctrl</b> on Windows or <b>cmd</b> on Mac pressed and click on <b>download</b> button.
   
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit.png'>
