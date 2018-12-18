@@ -51,7 +51,16 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/freesvg.png'>
  </p>
  
- Editor tool come up whenevere an icon is clicked: 
+ 
+ Alternatively to searching icons with the use of search bar, you may click on various categories of the icons on the left pane of the app and at the same time quickly change their styles through a drop down menu available on the top of the right pane.
+ 
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/change_icons_style.png'>
+ </p>
+ 
+ 
+ 
+ Editor tool come up whenever an icon is clicked: 
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_edit.png'>
