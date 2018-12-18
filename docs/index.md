@@ -184,10 +184,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
   
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_1.jpg'>
- </p>
- 
- 
- 
+ </p> 
   
    </details>
    </li>
@@ -204,6 +201,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/add_icons_to_collection.png'>
  </p>
  
+ You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. It is that simple to populate your collection with new icons. In addidtion to drag and drop feature you may add new icons to collection by pressing <b>add sign</b> within your collection. This will launch file manager which will guide you through the procedure of selecting an svg file from your local file system and adding it to the collection.
   
    </details>
    </li>
@@ -260,7 +258,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
    
   <details>
   <summary>
-   <strong>Desktop Apps (Windows & Mac)</strong>
+   <strong> Desktop Apps (Windows & Mac) </strong>
   </summary>
 
  Desktop Apps (Windows & Mac)
