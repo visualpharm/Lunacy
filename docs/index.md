@@ -169,7 +169,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  
  Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Free customers are allowed to download icons in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG for both paying and free customers.
  
-The icon download pane displays a pixel perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x etc. to get <b>sSHARPY</b> .png icons in various sizes. You may choose one of the predefined sizes or specify your custom size.
+The icon download pane displays a pixel perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x etc. to get <b>sharpy</b> .png icons in various sizes. You may choose one of the predefined sizes or specify your custom size.
 
 There is an option to download selected icon in multiple sizes at once as a zip file. To achieve that you have to select the desired sizes with <b>ctrl</b> on Windows or <b>cmd</b> on Mac pressed and click on <b>download</b> button.
   
