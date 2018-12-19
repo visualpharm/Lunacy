@@ -40,19 +40,15 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   <br>
   <br>
   
-  The most left pane of the web app contains four groups of filters. These groups are: styles, bundles, categories and trends. You may open these collapsible menus to quickly access categorized sets of icons:
+  Alternatively searching could be accomplished by browsing through categorized sets of icons listed on the left pane of the app and at the same time by applying various styles as it is shown below. Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
+ 
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stylespane.png'>
    </p>
  
-  <br>
- Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
- <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/freesvg.png'>
- </p>
  
   <br>
- Alternatively to searching icons with the use of search bar, you may click on various categories of the icons on the left pane of the app and at the same time quickly change their styles through a drop down menu available on the top of the right pane.
+  While browsing icons within the categorized sets you may quickly try out various styled by selecting a style from the drop down menu: 
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/change_icons_style.jpg'>
  </p>
