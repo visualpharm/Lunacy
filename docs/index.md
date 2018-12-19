@@ -34,15 +34,9 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
      </summary>
     
    <br>
-  Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key. The most relevant icons set shows up. While entering search queries, you may select various styles, from the drop down menu located on the right from the search bar.
-  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Search_2.png'>
- 
-  <br>
-  <br>
-   You have an option to view plain icons only (above screenshot) as well as icons with titles (below screenshot) just by toggling an approprite switch button on the top right of the main screen of the app (shown on both the above and below screenshots).
-   
-  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_results_with_labels.png'>
- 
+  Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query.png'>
+  
   <br>
   <br>
   
