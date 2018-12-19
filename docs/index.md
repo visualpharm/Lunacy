@@ -195,7 +195,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
        <strong> Collections </strong>
      </summary>
      
-   Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. Icons can be added into a collection just by dragging and dropping it or just by pressing on a special label in the upper right corner of the outer space surrounding each icon when mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
+Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. Icons can be added into a collection just by dragging and dropping it or just by pressing on a special label in the upper right corner of the outer space surrounding each icon when mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/add_icons_to_collection.png'>
@@ -212,6 +212,13 @@ In addidtion to drag and drop feature you may add new icons to collection by pre
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager.png'>
  </p>
+ 
+ To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_item_from_collection.png'>
+ </p>
+ 
  
   
    </details>
