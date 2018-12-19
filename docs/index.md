@@ -43,12 +43,12 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   Alternatively searching could be accomplished by browsing through categorized sets of icons listed on the left pane of the app and at the same time by applying various styles as it is shown below. Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
  
    <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stylespane.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
    </p>
  
  
   <br>
-  While browsing icons within the categorized sets you may quickly try out various styled by selecting a style from the drop down menu: 
+  While browsing icons within the categorized sets you may quickly try out various styles by selecting a style from the drop down menu: 
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/change_icons_style.jpg'>
  </p>
