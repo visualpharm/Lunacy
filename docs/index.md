@@ -44,6 +44,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_results_with_labels.png'>
  
   <br>
+  <br>
   
   The most left pane of the web app contains four groups of filters. These groups are: styles, bundles, categories and trends. You may open these collapsible menus to quickly access categorized sets of icons:
    <p align="center">
