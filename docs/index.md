@@ -32,36 +32,35 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
      <summary>
        <strong> Searching  </strong>
      </summary>
+   <br>
   Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key. The most relevant icons set shows up. While entering search queries, you may select various styles, from the drop down menu located on the right from the search bar.
-    
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Search_2.png'>
  
+  <br>
    You have an option to view plain icons only (above screenshot) as well as icons with titles (below screenshot) just by toggling an approprite switch button on the top right of the main screen of the app (shown on both the above and below screenshots).
-  
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_results_with_labels.png'>
-  
+ 
+  <br>
   The most left pane of the web app contains four groups of filters. These groups are: styles, bundles, categories and trends. You may open these collapsible menus to quickly access categorized sets of icons:
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stylespane.png'>
    </p>
  
+  <br>
  Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
-  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/freesvg.png'>
  </p>
  
- 
+  <br>
  Alternatively to searching icons with the use of search bar, you may click on various categories of the icons on the left pane of the app and at the same time quickly change their styles through a drop down menu available on the top of the right pane.
- 
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/change_icons_style.jpg'>
  </p>
  
  
- 
+  <br>
  Editor tool come up whenever an icon is clicked: 
- 
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_edit.png'>
  </p>
@@ -78,18 +77,19 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
        <strong> Editing/Formating </strong>
      </summary>
   
+   <br>
    Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
-
   <p align="center">
    <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1.png'>
  </p>
  
+  <br>
  A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
- 
  <p align="center">
    <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1_style.png'>
  </p>
   
+  <br>
   The editing tools are located on the most left pane of the editor and include the following tools:
   
   - Recolor
@@ -104,57 +104,60 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   
   <br>
  The recolor tool aims to change the most prominent features of an icon. You may use various types of color selection tools to craft the desired look:
-  
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/recolor_edit.png'>
  </p>
   
+  <br>
   Overlay tool provides you with functionality to add an averlay from a list and specify its color:
-  
    <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/overlay_edit.png'>
  </p>
  
+  <br>
  Text editing is another awesome tool that let you text over your icon and change its size, style and color:
- 
- 
  <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit_1.png'>
  </p>
- 
  Recolor, overlay and text are the effects applied to the icon with the use of toggle button. You may combine the effects by setting the appropriate buttons. The rest of the effects (stroke, padding, background, circle, square) are applied with the use of the radio button. You may apply one of the effect at a time or select the <b>"No Effects"</b> state when neither of the effects mentioned are applied.
  
+ <br>
  The stroke effect enhances the prominent features of the icon with the specified size/weight. You may change the color of the stroke either.
  <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stroke_effect_edit.png'>
  </p>
  
+ <br>
  Padding effect is used to generate space around an icon inside of outer borders:
  <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/padding_effect_edit.png'>
  </p>
  
+ <br>
  Background effect adds a background to the icon with the functionality to specify custom color.
- 
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/background_effect_edit.png'>
  </p>
  
+ <br>
  Circle effect has various parameters which make this feature to be a very flexible tool. You may specify stroke, icon and circle sizes. 
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_circle.png'>
  </p>
+ 
+ <br>
  Also by setting up the <b>fill togle</b> to <b>ON</b> state you make the circle to be filled up with specific color that you may choose.
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
  </p>
  
-
+<br>
  Square effect has similar feature set to the circular effect. In addition square effect has an extra parameter called <b>corner radius</b> that specifies the rounding of the square corners.
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit.png'>
  </p>
  
+ <br>
  Same as with circle, the square effect has functionality to fill its interior:
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit_fill_overlay.png'>
@@ -169,13 +172,15 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
      <summary>
        <strong> Downloading </strong>
      </summary>
-  
+     
+   <br>
    Icon downloading feature is available from the main icon editor pane which in turn come up whenever an icon is clicked. When the download button is clicked the following screen shows up:
    
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_2.png'>
  </p>
  
+ <br>
  Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Free customers are allowed to download icons in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are available in all formats, including SVG for both paying and free customers.
  
 The icon download pane displays a pixel perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x etc. to get <b>sharpy</b> .png icons in various sizes. You may choose one of the predefined sizes or specify your custom size.
@@ -185,6 +190,21 @@ There is an option to download selected icon in multiple sizes at once as a zip 
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_1.jpg'>
  </p> 
+ 
+ <br>
+   In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
+ 
+- PNG - download collection as a set of <b>png</b> icons
+- FONT - generate <b>font</b> from the collection and download it
+- SVG - download <b>svg sprite</b> or zip with <b>individual svg's</b>
+- EPS - download collection icons in <b>eps</b> format
+- PDF - download collection icons in <b>pdf</b> format
+ 
+ <p align="center">
+   <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_collection.png'>
+ </p>
+
+<br>
   
    </details>
    </li>
@@ -195,6 +215,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
        <strong> Collections </strong>
      </summary>
      
+  <br>
 Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. Icons can be added into a collection just by dragging and dropping it or just by pressing on a special label in the upper right corner of the outer space surrounding each icon when mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
   
  <p align="center">
@@ -237,18 +258,8 @@ Another way to delete the entire collection or change its title is to click on t
  
   <br>
   
-  In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
- 
-- PNG - download collection as a set of <b>png<b> icons
-- FONT - generate <b>font<b> from the collection and download it
-- SVG - download <b>svg sprite</b> or zip with <b>individual svg's</b>
-- EPS - download collection icons in <b>eps</b> format
-- PDF - download collection icons in <b>pdf</b> format
- 
- <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_collection.png'>
- </p>
- 
+
+  
  
    </details>
    </li>
