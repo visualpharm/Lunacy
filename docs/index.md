@@ -50,7 +50,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   <br>
   While browsing icons within the categorized sets you may quickly try out various styles by selecting a style from the drop down menu: 
   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/change_icons_style.jpg'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/quick_change_of_styles.png'>
  </p>
  
  
