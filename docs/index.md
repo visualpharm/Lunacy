@@ -65,9 +65,9 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  
  
   <br>
- Editor tool come up whenever an icon is clicked: 
+ Editor tool comes up whenever an icon is clicked: 
   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_edit.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_tool_comes_up.png'>
  </p>
  
  Icons editing tools and other tools for manipulation with icons are described in the following subsections.
