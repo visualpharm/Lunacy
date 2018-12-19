@@ -201,36 +201,54 @@ Collections is the best way to orgonize the icons you like into certain groups f
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/add_icons_to_collection.png'>
  </p>
  
+ <br>
 You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
  </p>
  
- 
+  <br>
 In addidtion to drag and drop feature you may add new icons to collection by pressing <b>add sign</b> within your collection. This will launch file manager which will guide you through the procedure of selecting an svg file from your local file system and adding it to the collection: 
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager_2.png'>
  </p>
  
+  <br>
  To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_item_from_collection.png'>
  </p>
  
+  <br>
 You may delete the entire collection just by hovering the mouse courser over the collection in the list of collections and ckciking on the trash can icon:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_entire_collection_with_trash_can.png'>
  </p>
 
- 
+  <br>
 Another way to delete the entire collection or change its title is to click on the more options icon while you are within a given collection. A menu with two options will show up: <b>edit title</b> of the collection and <b>delete</b> the entire collection:
 
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_title_or_delete_entire_collection.png'>
  </p>
+ 
+  <br>
+  
+  In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
+ 
+- PNG - download collection as a set of <b>png<b> icons
+- FONT - generate <b>font<b> from the collection and download it
+- SVG - download <b>svg sprite</b> or zip with <b>individual svg's</b>
+- EPS - download collection icons in <b>eps</b> format
+- PDF - download collection icons in <b>pdf</b> format
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_collection.png'>
+ </p>
+ 
  
    </details>
    </li>
