@@ -35,7 +35,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
     
    <br>
   Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
-  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query.png'>
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
   
   <br>
   <br>
