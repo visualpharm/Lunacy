@@ -316,6 +316,7 @@ It takes just a line of code to insert an icon in svg or png format directly fro
      </summary>
   
    <br>
+   
 We suport the following languages:
 
 - Chinese
@@ -329,8 +330,9 @@ We suport the following languages:
 - Spanish
  
 Click on the flag icon and choose the language you prefer:
+
   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization_1.png'>
  </p>
   
    
