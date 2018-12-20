@@ -328,6 +328,7 @@ We suport the following languages:
 - Russian
 - Spanish
  
+Click on the flag icon and choose the language you prefer:
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization.png'>
  </p>
@@ -355,7 +356,7 @@ We suport the following languages:
   
   <br>
   
-  In case you have any question, issue or concern you are the most welcome to contact our freindly support team. We are completely customer service oriented! What means we are helping people! It is that simple!
+  In case you have any question, issue or concern you are the most welcome to contact our freindly support team. We are completely customer service oriented! What means we are helping people! It is that simple! Just try us out!
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
