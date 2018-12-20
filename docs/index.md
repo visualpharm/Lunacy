@@ -49,6 +49,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  
   <br>
   While browsing icons within the categorized sets you may quickly try out various styles by selecting a style from the drop down menu: 
+  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/quick_change_of_styles.png'>
  </p>
@@ -56,6 +57,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  
   <br>
  Editor tool comes up whenever an icon is clicked: 
+ 
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_tool_comes_up.png'>
  </p>
@@ -74,12 +76,14 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   
    <br>
    Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
+   
   <p align="center">
    <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1.png'>
  </p>
  
   <br>
  A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
+ 
  <p align="center">
    <img width="80%" src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1_style.png'>
  </p>
@@ -99,18 +103,21 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
   
   <br>
  The recolor tool aims to change the most prominent features of an icon. You may use various types of color selection tools to craft the desired look:
+ 
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/recolor_edit.png'>
  </p>
   
   <br>
   Overlay tool provides you with functionality to add an averlay from a list and specify its color:
+  
    <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/overlay_edit.png'>
  </p>
  
   <br>
  Text editing is another awesome tool that let you text over your icon and change its size, style and color:
+ 
  <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit_1.png'>
  </p>
@@ -118,42 +125,49 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
  
  <br>
  The stroke effect enhances the prominent features of the icon with the specified size/weight. You may change the color of the stroke either.
+ 
  <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/stroke_effect_edit.png'>
  </p>
  
  <br>
  Padding effect is used to generate space around an icon inside of outer borders:
+ 
  <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/padding_effect_edit.png'>
  </p>
  
  <br>
  Background effect adds a background to the icon with the functionality to specify custom color.
+ 
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/background_effect_edit.png'>
  </p>
  
  <br>
  Circle effect has various parameters which make this feature to be a very flexible tool. You may specify stroke, icon and circle sizes. 
+ 
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_circle.png'>
  </p>
  
  <br>
  Also by setting up the <b>fill togle</b> to <b>ON</b> state you make the circle to be filled up with specific color that you may choose.
+ 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
  </p>
  
 <br>
  Square effect has similar feature set to the circular effect. In addition square effect has an extra parameter called <b>corner radius</b> that specifies the rounding of the square corners.
+ 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit.png'>
  </p>
  
  <br>
  Same as with circle, the square effect has functionality to fill its interior:
+ 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/square_effect_edit_fill_overlay.png'>
  </p>
@@ -177,6 +191,7 @@ Collections is the best way to orgonize the icons you like into certain groups f
  
  <br>
 You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. 
+
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
  </p>
@@ -300,7 +315,7 @@ It takes just a line of code to insert an icon in svg or png format directly fro
  <br>
  Html svg <b>background</b> option:
  
-  <p align="center">
+ <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background_2.png'>
  </p>
   
