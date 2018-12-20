@@ -267,16 +267,16 @@ There is an option to download selected icon in multiple sizes at once as a zip 
      </summary>
   As an alternative to icons download we offer quite a few options to get the icons right into you app of any scale via <b>html</b>. Just press the <b>HTML</b> button from the editor screen and a screen with HTML options will come up:
      
-     <br>
+  <br>
      
-  It takes just a line of code to insert an icon in svg or png format directly from the CDN to your application of any scale:
+  It takes just a line of code to insert an icon in svg or png format directly from the <b>CDN</b> to your application of any scale:
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn.png'>
  </p>
  
  <br>
  
- Another option is to get your images encoded to base64:
+ Another option is to get your images encoded to <b>base64</b>:
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/htm_base64.png'>
  </p>
@@ -286,12 +286,12 @@ There is an option to download selected icon in multiple sizes at once as a zip 
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_inline.png'>
  </p>
  
- Img html tag option:
+ Html svg <b>img tag</b> option:
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_img_tag.png'>
  </p>
  
- Html bacground option:
+ Html svg <b>background</b> option:
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background.png'>
  </p>
