@@ -16,7 +16,7 @@ One of the most frequently asked questions from our customers is "<b>which licen
 
 ## Standard Framework
 
-Under the <b>Standard Framework</b> we consider a set of tools that allows our clients to manually search and retreive icons through a GUI. These tools are web and desktop apps. The apps have a very similar functionality with some distinctions which are described in detail below:
+Under the <b>Standard Framework</b> we consider a set of tools that allows our clients to manually search and retreive icons through a GUI. This manual covers the icons web app in detail:<!--These tools are web and desktop apps. The apps have a very similar functionality with some distinctions which are described in detail below:-->
  
   <details>
   <summary>
@@ -380,7 +380,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
   
   <br>
   
-  In case you have any question, issue or concern you are the most welcome to contact our freindly support team. We are completely customer service oriented! What means we are helping people! It is that simple! Just try us out!
+  In case you have any question, issue or concern you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
