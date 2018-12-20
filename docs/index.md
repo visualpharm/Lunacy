@@ -378,15 +378,15 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
  
  
  </details>
-   
+   <!--
   <details>
   <summary>
    <strong> Desktop Apps (Windows & Mac) </strong>
   </summary>
 
- Desktop Apps (Windows & Mac)
- </details>
- 
+    Desktop Apps (Windows & Mac)
+    </details>
+  -->
   <details>
   <summary>
    <strong>Licensing</strong>
