@@ -69,7 +69,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <li>
     <details>
      <summary>
-       <strong> Editing/Formating </strong>
+       <strong> Editing / Formating </strong>
      </summary>
   
    <br>
