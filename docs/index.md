@@ -350,7 +350,7 @@ Click on the flag icon and choose the language you prefer:
 Once you've got an Icons8 account, you’ll be able to login into any of our product including our web app.
   
  <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/login_logout.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/login_logout_2.png'>
  </p>
    
    </details>
