@@ -263,7 +263,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
    <li>
     <details>
      <summary>
-       <strong> Access to icons via HTML </strong>
+       <strong> HTML png & svg options </strong>
      </summary>
 
 <br>  
@@ -273,7 +273,7 @@ As an alternative to icons download we offer quite a few options to get the icon
 It takes just a line of code to insert an icon in svg or png format directly from the <b>CDN</b> to your application of any scale:
  
  <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_1.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
  </p>
  
  <br> 
@@ -301,7 +301,7 @@ It takes just a line of code to insert an icon in svg or png format directly fro
  Html svg <b>background</b> option:
  
   <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background_2.png'>
  </p>
   
  
@@ -330,7 +330,8 @@ It takes just a line of code to insert an icon in svg or png format directly fro
    
    </details>
    </li>
-      <li>
+   <hr>
+   <li>
     <details>
      <summary>
        <strong> Multilanguage supprt </strong>
