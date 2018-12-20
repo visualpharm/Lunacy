@@ -345,7 +345,7 @@ Click on the flag icon and choose the language you prefer:
        <strong> Login / Logout </strong>
      </summary> 
      
-    <br>
+ <br>
   
 Once you've got an Icons8 account, you’ll be able to login into any of our product including our web app.
   
