@@ -353,7 +353,13 @@ We suport the following languages:
        <strong> Tehnical Support </strong>
      </summary>
   
-  X
+  <br>
+  
+  In case you have any question, issue or concern you are the most welcome to contact our freindly support team. We are completely customer service oriented! What means we are helping people! It is that simple!
+  
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
+ </p>
    
    </details>
    </li> 
