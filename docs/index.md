@@ -343,9 +343,15 @@ Click on the flag icon and choose the language you prefer:
     <details>
      <summary>
        <strong> Login / Logout </strong>
-     </summary>
+     </summary> 
+     
+    <br>
   
-  X
+Once you've got an Icons8 account, you’ll be able to login into any of our product including our web app.
+  
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/login_logout.png'>
+ </p>
    
    </details>
    </li>
