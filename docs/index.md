@@ -263,7 +263,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
    <li>
     <details>
      <summary>
-       <strong> HTML png & svg options </strong>
+       <strong> HTML png / svg options </strong>
      </summary>
 
 <br>  
@@ -312,10 +312,25 @@ It takes just a line of code to insert an icon in svg or png format directly fro
    <li>
     <details>
      <summary>
-       <strong> Tehnical Support </strong>
+       <strong> Multilanguage supprt </strong>
      </summary>
   
-  X
+   <br>
+We suport the following languages:
+- Chinese
+- English
+- French
+- Deutsch
+- Italian
+- Japanese
+- Portuguese
+- Russian
+- Spanish
+ 
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization.png'>
+ </p>
+  
    
    </details>
    </li>
@@ -334,7 +349,7 @@ It takes just a line of code to insert an icon in svg or png format directly fro
    <li>
     <details>
      <summary>
-       <strong> Multilanguage supprt </strong>
+       <strong> Tehnical Support </strong>
      </summary>
   
   X
