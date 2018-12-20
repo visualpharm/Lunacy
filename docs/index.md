@@ -317,6 +317,7 @@ It takes just a line of code to insert an icon in svg or png format directly fro
   
    <br>
 We suport the following languages:
+
 - Chinese
 - English
 - French
