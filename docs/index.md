@@ -329,9 +329,10 @@ We suport the following languages:
 - Russian
 - Spanish
  
+ <br>
 Click on the flag icon and choose the language you prefer:
 
-  <p align="center">
+ <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization_1.png'>
  </p>
   
@@ -378,15 +379,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
  
  
  </details>
-   <!--
-  <details>
-  <summary>
-   <strong> Desktop Apps (Windows & Mac) </strong>
-  </summary>
-
-    Desktop Apps (Windows & Mac)
-    </details>
-  -->
+  
   <details>
   <summary>
    <strong>Licensing</strong>
