@@ -408,7 +408,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
  
   <details>
   <summary>
-   <strong>Licensing</strong>
+   <strong>Paid vs Free licensing</strong>
   </summary>
  
  Paid and free of charge options are available to our clients.
@@ -421,9 +421,10 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
        <strong> PAID option  </strong>
      </summary>
       
-Paid option means you have to buy an access token, a short string code that you embed into your requests to both searching and retrieval engines. Exactly the same token is used to access both engines.
- 
-The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every additional 100 000 requests add $100 more to the monthly plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on this page: https://icons8.recurly.com/subscribe/api_access. After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines. 
+Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+
+Monthly subscription would cost you 19.95$ and yearly 199.90$. You purchase them on [this page](https://icons8.com/paid-license-99/#/).
+   </details>
    
    </details>
    
@@ -435,32 +436,7 @@ The starter icons service integration plan is $100/month - it includes up to 100
        <strong> FREE of charge option </strong>
      </summary>
       
- There is actually no free option to use our search engine, only the retrieval [omg-img](http://img.icons8.com) engine. However [omg-img](http://img.icons8.com) provides a great deal of opportunities to use <b>both searching and retrieaval absolutely for free</b>.
-   <br>
-  Few limitations of free of charge option are:
- - png icons are available in limited (<b>less than 550px</b>) size but suitable for a great deal of needs 
- - only <b>popular SVG</b> icons are available for <b>free</b>
- - searching is only by means of [omg-img](http://img.icons8.com)
-   
-   </details>
-   
-   </li>
-   <hr>
- </ul>
- 
- </details>
- 
- 
- 
-  
-  <details>
-  <summary>
-   <strong>Licensing</strong>
-  </summary>
-
-### Free of charge licensing
-You are welcome to use icons apps for free for personal or commercial use however it will require from you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
-
+You are welcome to use icons apps for free for personal or commercial use however it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
 
  <details>
      <summary>
@@ -469,7 +445,7 @@ You are welcome to use icons apps for free for personal or commercial use howeve
 Below is the list of suggested places where you may set up a link:
 
  - Websites - we require linking from all pages where the icons are used. Please put the link in the footer if the icons are used on each page. A nice example:  
-  
+ 
 ![](https://storage.crisp.chat/users/helpdesk/website/0387cc22-33e9-44e8-826f-c5c18d31fc81/15635e20-8c02-41d0-9b98-da3da95cf81b.png)  
   
  - Desktop software - please put the link in the About dialog
@@ -489,30 +465,13 @@ Below is the list of suggested places where you may set up a link:
  - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
 </details>
 
-###  Paid licensing
-  
-  available licenses are subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription stay yours for good. You may continue to use them in current or future commercial projects with few restrictions.
-  
- </details>
+
+   </li>
+   <hr>
+ </ul>
+ </details> 
  
  
-  
-
-<!--
- <details>
-  <summary>
-   <span style="color:blue"><strong>LICENSING MODEL</strong></span>
-  </summary>
- This section aims to explain in detail various aspects of licensing and pricing for icons/photos services. While the strict [license agreement](https://icons8.com/download/Icons8_License.pdf) mainly focuses on the legitimacy of various types of usage, this chapter helps our clients to quickly grasp the main pricing features and wisely select the best possible usage option.
-
-
-
- </details>
- 
- <hr>
- -->
-  
-
 ## Service Integration Framework
 In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of <b>search engine</b> that allows to programmatically search for icons metadata and icons <b>retrieval service</b> which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:
 
