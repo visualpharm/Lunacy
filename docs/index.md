@@ -810,8 +810,24 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
   <summary>
    <strong>  How to retrieve icons in particular style? </strong>
  </summary>
-Below is a list of icons styles containing more than 20 various styles that you may use to retrieve icons:
+ 
 
+To retrieve an icon in particular style you just substitute the style as a parameter in your retrieval request:
+ <p align="center">
+
+|monochrome|coloured|
+|----------|--------|
+|iOS: http://img.icons8.com/ios/car <img src='http://img.icons8.com/ios/car'>|Color: http://img.icons8.com/color/car <img src='http://img.icons8.com/color/car'>|
+|Windows: http://img.icons8.com/windows/car <img src='http://img.icons8.com/windows/car'>|Office: http://img.icons8.com/office/car <img src='http://img.icons8.com/office/car'>|
+|Material: http://img.icons8.com/material/car <img src='http://img.icons8.com/material/car'>|Dusk: http://img.icons8.com/dusk/car <img src='http://img.icons8.com/dusk/car'>|
+
+</p>
+
+<details>
+  <summary>
+   <strong>  See list of more than 20 various styles that you may use to retrieve icons  </strong>
+ </summary>
+ 
  <p align="center">
  
 |Platform|Icon style|
@@ -845,19 +861,7 @@ Below is a list of icons styles containing more than 20 various styles that you 
 |m_sharp|Material Design Sharp|
 
 </p>
-
-To retrieve an icon in particular style you just substitute the style as a parameter in your retrieval request:
- <p align="center">
-
-|monochrome|coloured|
-|----------|--------|
-|iOS: http://img.icons8.com/ios/car <img src='http://img.icons8.com/ios/car'>|Color: http://img.icons8.com/color/car <img src='http://img.icons8.com/color/car'>|
-|Windows: http://img.icons8.com/windows/car <img src='http://img.icons8.com/windows/car'>|Office: http://img.icons8.com/office/car <img src='http://img.icons8.com/office/car'>|
-|Material: http://img.icons8.com/material/car <img src='http://img.icons8.com/material/car'>|Dusk: http://img.icons8.com/dusk/car <img src='http://img.icons8.com/dusk/car'>|
-
-</p>
-
-[Omg-img](http://img.icons8.com/) let you apply a new style as easy as just inserting a style code within an icon’s link.
+</details>
 
 
  </details>
