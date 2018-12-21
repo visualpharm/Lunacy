@@ -526,6 +526,8 @@ Requests to the search engine are constructed with the use of a set of parameter
 
 Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
 
+ <p align="center">
+ 
 |Platform|Icon style|
 |----------|--------|
 |win8|icons in the Microsoft Windows 8/Metro style| 
@@ -555,6 +557,8 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 |m_rounded|Material Design Rounded|
 |m_two_tone|Material Design Two Tone|
 |m_sharp|Material Design Sharp|
+
+</p>
    
    </details>
    
@@ -569,6 +573,8 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
 
 Icon names, categories and tags are localized. Here's the list of supported languages:
 
+ <p align="center">
+ 
 |Language|Language name|
 |----------|--------|
 |en-US|English|
@@ -581,6 +587,8 @@ Icon names, categories and tags are localized. Here's the list of supported lang
 |es-ES|Spanish|
 |zh-CN|Chinese|
 |ja-JP|Japanese|
+
+</p>
 
 The primary language is English - if we do not translate something, it will be in English.
    
@@ -771,9 +779,8 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
  <li>
  <details>
   <summary>
-   <strong> Icon’s search with the use of our web app </strong>
+   <strong> Free icon’s search with the use of our web app </strong>
  </summary>
-  
 
 There is always an option for free customers to use [our web app](https://icons8.com/icon/new-icons/all) as a free searching tool and the free tool to constract the full paths to the icons they like.
 
@@ -801,18 +808,52 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
  <li>
  <details>
   <summary>
-   <strong>  How do I apply styles? </strong>
+   <strong>  How to retrieve icons in particular style? </strong>
  </summary>
+Below is a list of icons styles containing more than 20 various styles that you may use to retrieve icons:
 
-On our website, there is a list of icons styles on the left pane of the icons page. The list contains more than 20 various styles to outperform expectations of even the most demanding end-users of your apps. Below is the list of the most popular styles:
+ <p align="center">
+ 
+|Platform|Icon style|
+|----------|--------|
+|win8|icons in the Microsoft Windows 8/Metro style| 
+|win10 |icons in the Microsoft Windows 10/Threshold|
+|ios7|icons in the Apple iOS 7/8/9/10 style|  
+|android|icons in the Google Android 4 Kitkat style| 
+|androidL|icons in the Google Android 5 Lollipop (Material) style| 
+|color|flat color icons| 
+|office|Icons for Microsoft Office| 
+|ultraviolet|Blue UI|				
+|nolan|Gradient Line|				
+|p1em|Simple Small|
+|dotty|Dotted|	
+|dusk|Cute Color|				
+|Dusk_Wired|Cute Outline|	 
+|cotton|Pastel|			 
+|ios11|iOS Glyph|  
+|clouds|Clouds|
+|bubbles|Circle Bubbles|
+|plasticine|	Color Hand Drawn|
+|carbon_copy|Hand Drawn|
+|doodle|Doodle|
+|fineline|Fune Line|
+|isometric|Isometric|
+|flat_round|Round Infographic|
+|m_outlined|Material Design Outlined|
+|m_rounded|Material Design Rounded|
+|m_two_tone|Material Design Two Tone|
+|m_sharp|Material Design Sharp|
 
+</p>
+
+To retrieve an icon in particular style you just substitute the style as a parameter in your retrieval request:
  <p align="center">
 
 |monochrome|coloured|
 |----------|--------|
-|iOS: http://img.icons8.com/ios/car <img src='http://img.icons8.com/ios/car'>|Color: http://img.icons8.com/color/car|
-|Windows: http://img.icons8.com/windows/car <img src='http://img.icons8.com/windows/car'>|Office: http://img.icons8.com/office/car|
-|Material: http://img.icons8.com/material/car <img src='http://img.icons8.com/material/car'>|Dusk: http://img.icons8.com/dusk/car|
+|iOS: http://img.icons8.com/ios/car <img src='http://img.icons8.com/ios/car'>|Color: http://img.icons8.com/color/car <img src='http://img.icons8.com/color/car'>|
+|Windows: http://img.icons8.com/windows/car <img src='http://img.icons8.com/windows/car'>|Office: http://img.icons8.com/office/car <img src='http://img.icons8.com/office/car'>|
+|Material: http://img.icons8.com/material/car <img src='http://img.icons8.com/material/car'>|Dusk: http://img.icons8.com/dusk/car <img src='http://img.icons8.com/dusk/car'>|
 
 </p>
 
