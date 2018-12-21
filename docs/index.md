@@ -35,9 +35,9 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
     
    <br>
   Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
+<p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
-  
-  <br>
+</p> 
   <br>
   
   Alternatively searching could be accomplished by browsing through categorized sets of icons listed on the left pane of the app and at the same time by applying various styles as it is shown below. Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
@@ -730,7 +730,7 @@ In the above request, parameters commonName, platform, token - are mandatory, wh
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/JSON_RETRIEVE_1.png'>
  </p>
 
-In the JSON response we can see that planform parameter attains the value "ultroviolet" and the commonName attains the value "Link-company-child". Thats all we need to get the icon in the svg/eps/pdf/png formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
+In the JSON response we can see that for one of the entries platform parameter attains the value "ultroviolet" and the commonName attains the value "Link-company-child". Thats all we need to get the icon in the svg/eps/pdf/png formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
 
  <p align="center">
 
@@ -756,7 +756,7 @@ Note that the 'name' parameter is not used at all in the constraction of url for
    <strong> Icon’s search available straight from the address bar of your browser </strong>
  </summary>
   
-For your convenience, [omg-img](http://img.icons8.com/) service architecture allows developers and designers to browse for new icons directly from browser’s address bar as following: 
+For your convenience, [omg-img](http://img.icons8.com/) service architecture allows paying and free customers to browse for new icons directly from browser’s address bar as following: 
 
  - https://img.icons8.com/home 
  - https://img.icons8.com/house
@@ -775,7 +775,25 @@ For your convenience, [omg-img](http://img.icons8.com/) service architecture all
  </summary>
   
 
-There is always an option to browse for more icons from our web app  https://icons8.com/icon/new-icons/all to get the names that you may use in constructing appropriate icons links for your apps. Just type-in a query and click on search icon to get a list of the most relevant icons. Then select the icon you'd like to use and hit on the "HTML" button to see the full puth that you actually may use in your own app. 
+There is always an option for free customers to use [our web app](https://icons8.com/icon/new-icons/all) as a free searching tool and the free tool to constract the full paths to the icons they like.
+
+<br>
+Just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+ <p align="center">
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
+</p> 
+
+<br>
+Then click on the icon you'd like to use:
+  <p align="center">
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+ </p>
+ 
+ <br>
+ Click on the "HTML" button to get the full path that you actually may use in your own app:
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
+ </p>
 
  </details>
 </li>
