@@ -784,13 +784,13 @@ Just type-in a query in the app and click on search icon to get a list of the mo
 </p> 
 
 <br>
-Then click on the icon you'd like to use:
+Then click on the icon you'd like to use. When the editor shows up click on the "HTML" button:
   <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
  </p>
  
  <br>
- Click on the "HTML" button to get the full path that you actually may use in your own app:
+ Copy the full path to the icon and paste it in your own app:
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
  </p>
