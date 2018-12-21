@@ -953,10 +953,27 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
    <strong> Can an icon used in my app change over time? </strong>
  </summary>
   
-In short, it’s very unlikely but possible. The most updated version of an icon is accessible by a given icon’s link.
-E.G. currently for the following link **`https://img.icons8.com/water-molecule`** we keep showing an icon with illustration of a water drop or an abstract molecule. However if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O, then most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
+  Free icon’s search with the use of our web app
+  
+In short, it’s very unlikely, but it's possible. The most updated version of an icon is accessible by a given icon’s link.
+In other words, currently for the following link **`https://img.icons8.com/water-molecule`** we keep showing an icon with illustration of a water drop or an abstract molecule. However if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O, then most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
 
-In case if you are planning to use an icon longterm, the best solution would be to use the canonical full path to the icon (.png), which can be formed [here](https://icons8.com/).
+In case if you are planning to use an icon longterm, the best solution would be to use the canonical full path to the icon. For that, just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+ <p align="center">
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
+</p> 
+
+<br>
+Then click on the icon you'd like to use. When the editor shows up click on the "HTML" button:
+  <p align="center">
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+ </p>
+ 
+ <br>
+ Copy the full path to the icon and paste it in your own app:
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
+ </p>
 
  </details>
 </li>
