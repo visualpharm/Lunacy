@@ -953,12 +953,10 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
    <strong> Can an icon used in my app change over time? </strong>
  </summary>
   
-  Free icon’s search with the use of our web app
-  
 In short, it’s very unlikely, but it's possible. The most updated version of an icon is accessible by a given icon’s link.
 In other words, currently for the following link **`https://img.icons8.com/water-molecule`** we keep showing an icon with illustration of a water drop or an abstract molecule. However if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O, then most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
 
-In case if you are planning to use an icon longterm, the best solution would be to use the canonical full path to the icon. For that, just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+In case <b>if you are planning to use an icon longterm</b>, the best solution would be to use the canonical full path to the icon. For that, just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
  <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
 </p> 
@@ -977,17 +975,17 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
 
  </details>
 </li>
+<!--
 <hr>
 <li>
  <details>
   <summary>
    <strong> Can I use an icon with .png extension? </strong>
  </summary>
-  
 Yes you can use icons with .png extension in [omg-img](http://img.icons8.com/) service, however you would need to know the exact name of a .png icon. The .png names could differ from the names provided by the service. In order to find the desired .png icon name and create an appropriate query for it, you may use searching engine UI available on our website [here](https://icons8.com/icon/new-icons/all).
-
  </details>
 </li>
+-->
 <hr>
 <li>
  <details>
@@ -1115,6 +1113,328 @@ Notice, the icons that we have are of a vector format and that is why they could
  </details>
   <hr>
 </li>
+<hr>
+ <li>
+  
+ <details>
+  <summary>
+   <strong>Free VS Paid </strong>
+ </summary>
+  
+Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of course there are advanced options available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
+
+- access to generate PNG icons larger than 550 px
+- access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>FREE</b>.
+- access to more ['advanced search engine'](#service-integration-framework)  
+ 
+ </details>
+</li>
+ <hr>
+ <li>
+   <details>
+    <summary>
+      <strong> How to retrieve an icon for FREE? </strong>
+    </summary>
+    
+It takes just a line of code <!--, service endpoint concatinated with an icon's name,--> to insert an icon in svg or in png format directly from the CDN to your application of any scale:
+ 
+ - `<img src=’https://img.icons8.com/search.svg’/>`
+ - `<img src=’https://img.icons8.com/search.png’/>`
+ 
+ <br>
+ 
+  Also please note that:
+  
+ - png icons are available in limited size (less than 550px)
+ - only popular SVG icons are available for free
+ 
+   </details>
+ </li> 
+ <hr>
+ <li>
+   <details>
+    <summary>
+      <strong> How to retrieve an icon on PAID basis? </strong>
+    </summary>
+     
+     
+The canonical format for retrieving icons via paid requests is as following: 
+
+- http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=YOURTOKEN
+
+<br>
+
+In the above request, parameters commonName, platform, token - are mandatory, whereas size - is optional. Assume we call v4 search engine with 'house' searching phrase and receive a JSON response as following: 
+    
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/JSON_RETRIEVE_1.png'>
+ </p>
+
+In the JSON response we can see that for one of the entries platform parameter attains the value "ultroviolet" and the commonName attains the value "Link-company-child". Thats all we need to get the icon in the svg/eps/pdf/png formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
+
+ <p align="center">
+
+- 'http://img.icons8.com/ultraviolet/link-company-child.svg?token=YOURTOKEN' 
+- 'http://img.icons8.com/ultraviolet/link-company-child.eps?token=YOURTOKEN' 
+- 'http://img.icons8.com/ultraviolet/link-company-child.png?token=YOURTOKEN' 
+- 'http://img.icons8.com/ultraviolet/link-company-child.pdf?token=YOURTOKEN' 
+
+ </p>
+
+Note that the 'name' parameter is not used at all in the constraction of url for retrieving the icon.
+<!--
+'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
+-->
+ 
+   </details>
+ </li>
+ <hr>
+  
+ <li>
+ <details>
+  <summary>
+   <strong> Icon’s search available straight from the address bar of your browser </strong>
+ </summary>
+  
+For your convenience, [omg-img](http://img.icons8.com/) service architecture allows paying and free customers to browse for new icons directly from browser’s address bar as following: 
+
+ - https://img.icons8.com/home 
+ - https://img.icons8.com/house
+- https://img.icons8.com/bungalow
+- https://img.icons8.com/targaryen-house
+ 
+
+ </details>
+</li>
+<hr>
+  
+ <li>
+ <details>
+  <summary>
+   <strong> Free icon’s search with the use of our web app </strong>
+ </summary>
+
+There is always an option for free customers to use [our web app](https://icons8.com/icon/new-icons/all) as a free searching tool and the free tool to constract the full paths to the icons they like.
+
+<br>
+Just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+ <p align="center">
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
+</p> 
+
+<br>
+Then click on the icon you'd like to use. When the editor shows up click on the "HTML" button:
+  <p align="center">
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+ </p>
+ 
+ <br>
+ Copy the full path to the icon and paste it in your own app:
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
+ </p>
+
+ </details>
+</li>
+<hr>
+ <li>
+ <details>
+  <summary>
+   <strong>  How to retrieve icons in particular style? </strong>
+ </summary>
+ 
+
+To retrieve an icon in particular style you just substitute the style as a parameter in your retrieval request:
+ <p align="center">
+
+|monochrome|coloured|
+|----------|--------|
+|iOS: http://img.icons8.com/ios/car <img src='http://img.icons8.com/ios/car'>|Color: http://img.icons8.com/color/car <img src='http://img.icons8.com/color/car'>|
+|Windows: http://img.icons8.com/windows/car <img src='http://img.icons8.com/windows/car'>|Office: http://img.icons8.com/office/car <img src='http://img.icons8.com/office/car'>|
+|Material: http://img.icons8.com/material/car <img src='http://img.icons8.com/material/car'>|Dusk: http://img.icons8.com/dusk/car <img src='http://img.icons8.com/dusk/car'>|
+
+</p>
+
+<details>
+  <summary>
+   <strong>  See list of more than 20 various styles that you may use to retrieve icons  </strong>
+ </summary>
+ 
+ <p align="center">
+ 
+|Platform|Icon style|
+|----------|--------|
+|win8|icons in the Microsoft Windows 8/Metro style| 
+|win10 |icons in the Microsoft Windows 10/Threshold|
+|ios7|icons in the Apple iOS 7/8/9/10 style|  
+|android|icons in the Google Android 4 Kitkat style| 
+|androidL|icons in the Google Android 5 Lollipop (Material) style| 
+|color|flat color icons| 
+|office|Icons for Microsoft Office| 
+|ultraviolet|Blue UI|				
+|nolan|Gradient Line|				
+|p1em|Simple Small|
+|dotty|Dotted|	
+|dusk|Cute Color|				
+|Dusk_Wired|Cute Outline|	 
+|cotton|Pastel|			 
+|ios11|iOS Glyph|  
+|clouds|Clouds|
+|bubbles|Circle Bubbles|
+|plasticine|	Color Hand Drawn|
+|carbon_copy|Hand Drawn|
+|doodle|Doodle|
+|fineline|Fune Line|
+|isometric|Isometric|
+|flat_round|Round Infographic|
+|m_outlined|Material Design Outlined|
+|m_rounded|Material Design Rounded|
+|m_two_tone|Material Design Two Tone|
+|m_sharp|Material Design Sharp|
+
+</p>
+</details>
+
+
+ </details>
+</li>
+<hr>
+ <li>
+ <details>
+  <summary>
+   <strong> Recolouring of monochrome icons made easy </strong>
+ </summary>
+  
+To change color of an icon it's enough to insert an appropriate color code within an icon link:
+- <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
+- <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
+- <img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How can I resize an icon? </strong>
+ </summary>
+   
+  To modify an icon size it’s just enough to insert an icon size within its link:
+- 'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
+- 'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
+- 'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
+- 'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
+
+For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`.
+
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How to retrieve sharp pixel perfect icons? </strong>
+ </summary>
+  
+Each icon style is drawn for a specific pixel grid. Look at these few examples of various pixel grids: 
+* iOS: `50x50`
+* Metro: `26x26`
+* Windows: `32x32`
+* Material: `24x24`
+* Color: `48x48`
+* Office: `16x16`, `30x30`, `40x40`, `80x80`
+
+In order to avoid all sorts of artefacts (blurring edges, washed out colours etc.) associated with changing an icon size, we strongly recommend you to choose multiples of original icon size. For example for iOS style the multiples would be: `50x50`, `100x100`, `150x150` etc.
+You can set an icon size either by specifying the size in pixels `100x100` / `100px` or with the use of factors: `2x` or `x2` (the number can vary).
+For example:
+- 'https://img.icons8.com/color/1x/brazilian-carnival.png' <img src='https://img.icons8.com/color/1x/brazilian-carnival.png'/>
+- 'https://img.icons8.com/color/2x/brazilian-carnival.png' <img src='https://img.icons8.com/color/2x/brazilian-carnival.png' />
+
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> What is the maximum size of an icon that retrieval service can provide? </strong>
+ </summary>
+  
+The restriction applied to free png icons is 550 px. Paying clients may retrieve icons in any size up to 2048 px.
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> What should I do if I can not find an icon that I need? </strong>
+ </summary>
+  
+You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
+
+Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/)
+
+ </details>
+</li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Can an icon used in my app change over time? </strong>
+ </summary>
+  
+In short, it’s very unlikely, but it's possible. The most updated version of an icon is accessible by a given icon’s link.
+In other words, currently for the following link **`https://img.icons8.com/water-molecule`** we keep showing an icon with illustration of a water drop or an abstract molecule. However if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O, then most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
+
+In case <b>if you are planning to use an icon longterm</b>, the best solution would be to use the canonical full path to the icon. For that, just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+ <p align="center">
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
+</p> 
+
+<br>
+Then click on the icon you'd like to use. When the editor shows up click on the "HTML" button:
+  <p align="center">
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+ </p>
+ 
+ <br>
+ Copy the full path to the icon and paste it in your own app:
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
+ </p>
+
+ </details>
+</li>
+<!--
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Can I use an icon with .png extension? </strong>
+ </summary>
+Yes you can use icons with .png extension in [omg-img](http://img.icons8.com/) service, however you would need to know the exact name of a .png icon. The .png names could differ from the names provided by the service. In order to find the desired .png icon name and create an appropriate query for it, you may use searching engine UI available on our website [here](https://icons8.com/icon/new-icons/all).
+ </details>
+</li>
+-->
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong>How to use responsive size for style? </strong>
+ </summary>
+  
+It’s quite simple. Just add a parameter `office` to your request. For example:
+ - <img src='http://img.icons8.com/office/50px/car.png?office=16'> `http://img.icons8.com/office/50px/car.png?office=16`
+- <img src='http://img.icons8.com/office/50px/car.png?office=30'> `http://img.icons8.com/office/50px/car.png?office=30`
+- <img src='http://img.icons8.com/office/50px/car.png?office=40'> `http://img.icons8.com/office/50px/car.png?office=40`
+- <img src='http://img.icons8.com/office/50px/car.png?office=80'> `http://img.icons8.com/office/50px/car.png?office=80`
+
+ </details>
+ 
+</li>
+<hr>
 </ol> 
 
  </details>
