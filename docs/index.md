@@ -720,15 +720,17 @@ It takes just a line of code <!--, service endpoint concatinated with an icon's 
      
 The canonical format for retrieving icons via paid requests is as following: 
 
-- http://img.icons8.com/[platform]/[size]/[commonName].[format]?token='YOURTOKEN' 
+- http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=YOURTOKEN
+
+<br>
 
 In the above request, parameters commonName, platform, token - are mandatory, whereas size - is optional. Assume we call v4 search engine with 'house' searching phrase and receive a JSON response as following: 
     
  <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE_1.png'>
  </p>
 
-In the JSON response we can see that planform parameter attains "ultroviolet" value and the commonName attains "Link-company-child" value. Thats all we need to get the icon in the svg/eps/pdf/png formats. Here are the complete requests for all possible formats: 
+In the JSON response we can see that planform parameter attains the value "ultroviolet" and the commonName attains the value "Link-company-child". Thats all we need to get the icon in the svg/eps/pdf/png formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
 
  <p align="center">
 
