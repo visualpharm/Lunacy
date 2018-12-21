@@ -940,9 +940,9 @@ The restriction applied to free png icons is 550 px. Paying clients may retrieve
    <strong> What should I do if I can not find an icon that I need? </strong>
  </summary>
   
-You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. It’s completely free. We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
+You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
 
-Alternatively there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/)
+Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/)
 
  </details>
 </li>
