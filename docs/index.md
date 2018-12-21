@@ -696,7 +696,7 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
       <strong> How to retrieve an icon for FREE? </strong>
     </summary>
     
-It takes just a line of code <!--, service endpoint concatinated with an icon's name,--> to insert an icon in svg or png format directly from the CDN to your application of any scale:
+It takes just a line of code <!--, service endpoint concatinated with an icon's name,--> to insert an icon in svg or in png format directly from the CDN to your application of any scale:
  
  - `<img src=’https://img.icons8.com/search.svg’/>`
  - `<img src=’https://img.icons8.com/search.png’/>`
@@ -727,7 +727,7 @@ The canonical format for retrieving icons via paid requests is as following:
 In the above request, parameters commonName, platform, token - are mandatory, whereas size - is optional. Assume we call v4 search engine with 'house' searching phrase and receive a JSON response as following: 
     
  <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE_1.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/JSON_RETRIEVE_1.png'>
  </p>
 
 In the JSON response we can see that planform parameter attains the value "ultroviolet" and the commonName attains the value "Link-company-child". Thats all we need to get the icon in the svg/eps/pdf/png formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
