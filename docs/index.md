@@ -1,5 +1,5 @@
 # Welcome to icons user manual
-This document covers pretty much everything you need to know about how to get started and succeed with icons services.
+This document covers pretty much everything you need to know about how to get started and succeed with icons app and services.
 
 # Why Icons8?
 
@@ -423,7 +423,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
       
 Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
 
-Monthly subscription would cost you 19.95$ and yearly 199.90$. You purchase them on [this page](https://icons8.com/paid-license-99/#/). 
+[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
    
    </details>
    
