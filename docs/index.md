@@ -403,16 +403,69 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
  
  
  </details>
+ 
+ 
+ 
+  <details>
+  <summary>
+   <strong>Licensing</strong>
+  </summary>
+ 
+ Paid and free of charge options are available to our clients.
+ 
+ <ul>
+  <hr>
+   <li>
+   <details>
+     <summary>
+       <strong> PAID option  </strong>
+     </summary>
+      
+Paid option means you have to buy an access token, a short string code that you embed into your requests to both searching and retrieval engines. Exactly the same token is used to access both engines.
+ 
+The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every additional 100 000 requests add $100 more to the monthly plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on this page: https://icons8.recurly.com/subscribe/api_access. After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines. 
+   
+   </details>
+   
+   </li>
+    <hr>
+   <li>
+   <details>
+     <summary>
+       <strong> FREE of charge option </strong>
+     </summary>
+      
+ There is actually no free option to use our search engine, only the retrieval [omg-img](http://img.icons8.com) engine. However [omg-img](http://img.icons8.com) provides a great deal of opportunities to use <b>both searching and retrieaval absolutely for free</b>.
+   <br>
+  Few limitations of free of charge option are:
+ - png icons are available in limited (<b>less than 550px</b>) size but suitable for a great deal of needs 
+ - only <b>popular SVG</b> icons are available for <b>free</b>
+ - searching is only by means of [omg-img](http://img.icons8.com)
+   
+   </details>
+   
+   </li>
+   <hr>
+ </ul>
+ 
+ </details>
+ 
+ 
+ 
   
   <details>
   <summary>
    <strong>Licensing</strong>
   </summary>
-  
-There are two possibilities for our clients to use [Icons8](https://icons8.com/) services: on a free basis and on a payable basis. Please note that we do provide lots fruitful things to use for free. Actually, among all the icons/photos services there are only two services that potentially could be payable: [regular icon license](https://icons8.com/paid-license-99/#/) and [API integrations license](https://icons8.com/paid-license-99/#/). All other services provided absolutely for free without any hidden costs. Of cause, there could be some requests from our clients for custom art/photo processing work, but in general [these](https://icons8.com/paid-license-99/#/) are the only two services that in principle could be payable.  For information regarding the free of charge usage please read the ['Free of charge licensing'](#free-of-charge-licensing) section below. Payable option of cause have the most ambitious capabilities. All the shades of licensing associated with paid licenses are described in ['Paid licensing'](#paid-licensing) section. 
-## Free of charge licensing
-All of the [Icons8](https://icons8.com/) icons/photos services and icons apps can be used for free except the API integration service. You are welcome to use them for free for personal or commercial use however it will require from you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
 
+### Free of charge licensing
+You are welcome to use icons apps for free for personal or commercial use however it will require from you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
+
+
+ <details>
+     <summary>
+       <strong> How to setup a link? </strong>
+     </summary>
 Below is the list of suggested places where you may set up a link:
 
  - Websites - we require linking from all pages where the icons are used. Please put the link in the footer if the icons are used on each page. A nice example:  
@@ -434,8 +487,11 @@ Below is the list of suggested places where you may set up a link:
  - eBay page - you can put the link in the footer   
  - Social network - please place the link in some of your posts
  - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
+</details>
 
-##  Paid licensing
+###  Paid licensing
+  
+  available licenses are subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription stay yours for good. You may continue to use them in current or future commercial projects with few restrictions.
   
  </details>
  
