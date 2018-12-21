@@ -78,14 +78,14 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
    
   <p align="center">
-   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1.png'>
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
  </p>
  
   <br>
  A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
  
  <p align="center">
-   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_1_style.png'>
+   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_3_style.png'>
  </p>
   
   <br>
@@ -248,6 +248,12 @@ Another way to delete the entire collection or change its title is to click on t
  <br>
  Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Free customers are allowed to download icons in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are available in all formats, including SVG for both paying and free customers.
  
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/free_user_download.png'>
+ </p>
+
+<br>
+
 The icon download pane displays a pixel perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x etc. to get <b>sharpy</b> .png icons in various sizes. You may choose one of the predefined sizes or specify your custom size.
 
 There is an option to download selected icon in multiple sizes at once as a zip file. To achieve this you have to select the desired sizes with <b>ctrl</b> or <b>cmd</b> key pressed and click on the <b>download</b> button.
@@ -268,6 +274,9 @@ There is an option to download selected icon in multiple sizes at once as a zip 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_collection.png'>
  </p>
+  
+
+
 
 <br>
   
