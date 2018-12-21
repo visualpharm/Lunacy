@@ -680,7 +680,7 @@ Notice that you can filter results with style/platform and then group the result
   
 [Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>for free</b> for both for searching and for retrieving icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps. Exactly the same paid token is used to access both searching and retrieval engines.
  
- <ol>
+ <ul>
   <hr>
  <li>
   
@@ -1003,7 +1003,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  
 </li>
 <hr>
-</ol> 
+</ul> 
 
  </details>
  
