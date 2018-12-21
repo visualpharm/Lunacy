@@ -681,7 +681,7 @@ Notice that you can filter results with style/platform and then group the result
    <strong>Free VS Paid </strong>
  </summary>
   
-Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of cause there are advanced options available only to licensed clients. The major difference is that <b>paid license</b> provides extra features which are:
+Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of course there are advanced options available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
 
 - access to generate PNG icons larger than 550 px
 - access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>FREE</b>.
@@ -696,7 +696,7 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
       <strong> How to retrieve an icon for FREE? </strong>
     </summary>
     
- It takes just a line of code, service endpoint concatinated with an icon's name, to insert an icon in svg or png format directly from the CDN to your application of any scale:
+It takes just a line of code <!--, service endpoint concatinated with an icon's name,--> to insert an icon in svg or png format directly from the CDN to your application of any scale:
  
  - `<img src=’https://img.icons8.com/search.svg’/>`
  - `<img src=’https://img.icons8.com/search.png’/>`
@@ -718,18 +718,26 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
     </summary>
      
      
-The canonical format for retrieving icons in PAID license format is as follows: http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=e5b4w4e6a788431f805c1fkh1e16d  where commonName, platform, token - are mandatory, whereas size - is optional. Lets illustate the procedure on the following example. Assume we call v4 search engine with 'house' searching phrase and receive a JSON respnse as follows: 
-    
-    
-<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE.png'>
+The canonical format for retrieving icons via paid requests is as following: 
 
+- http://img.icons8.com/[platform]/[size]/[commonName].[format]?token='YOURTOKEN' 
 
-For the "house" search query we have response meta info with value "ultroviolet" for platform parameter, and "Link-company-child" for commonName parameter. Thats all we need to get the icon in the svg/eps/pdf/png formats. Here are the complete request strings: 
+In the above request, parameters commonName, platform, token - are mandatory, whereas size - is optional. Assume we call v4 search engine with 'house' searching phrase and receive a JSON response as following: 
+    
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/JSON_RETRIEVE.png'>
+ </p>
+
+In the JSON response we can see that planform parameter attains "ultroviolet" value and the commonName attains "Link-company-child" value. Thats all we need to get the icon in the svg/eps/pdf/png formats. Here are the complete requests for all possible formats: 
+
+ <p align="center">
 
 - 'http://img.icons8.com/ultraviolet/link-company-child.svg?token=YOURTOKEN' 
 - 'http://img.icons8.com/ultraviolet/link-company-child.eps?token=YOURTOKEN' 
 - 'http://img.icons8.com/ultraviolet/link-company-child.png?token=YOURTOKEN' 
 - 'http://img.icons8.com/ultraviolet/link-company-child.pdf?token=YOURTOKEN' 
+
+ </p>
 
 Note that the 'name' parameter is not used at all in the constraction of url for retrieving the icon.
 <!--
