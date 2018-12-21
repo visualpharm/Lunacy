@@ -23,7 +23,7 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <strong>Web App</strong>
   </summary>
  
- [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the URL: https://icons8.com/icons. The subscetions below grasp the main features of the web app:
+ [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the URL: https://icons8.com/icons. The subsections below grasp the main features of the web app:
    
   <ul>
     <hr>
