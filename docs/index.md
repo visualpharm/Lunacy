@@ -870,10 +870,10 @@ To retrieve an icon in particular style you just substitute the style as a param
  <li>
  <details>
   <summary>
-   <strong> Recolouring monochrome icons made easy </strong>
+   <strong> Recolouring of monochrome icons made easy </strong>
  </summary>
   
-To change the color of an icon with [omg-img](http://img.icons8.com/) service you simply insert an appropriate color code within an icon’s link as it is demonstrated below:
+To change color of an icon it's enough to insert an appropriate color code within an icon link:
 - <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
 - <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
 - <img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
@@ -887,13 +887,13 @@ To change the color of an icon with [omg-img](http://img.icons8.com/) service yo
    <strong> How can I resize an icon? </strong>
  </summary>
    
-  To modify an icon’s size the same logic is applied as before. It’s just enough to insert an icon’s size within its link:
+  To modify an icon size it’s just enough to insert an icon size within its link:
 - 'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
 - 'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
 - 'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
 - 'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
 
-For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`, depending on what you prefer the most.
+For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`.
 
 
  </details>
@@ -902,7 +902,7 @@ For your convenience, the size of an icon can be written in two different format
 <li>
  <details>
   <summary>
-   <strong> How can all sorts of artefacts be minimised when using pixel perfect? </strong>
+   <strong> How to retrieve sharp pixel perfect icons? </strong>
  </summary>
   
 Each icon style is drawn for a specific pixel grid. Look at these few examples of various pixel grids: 
@@ -913,8 +913,8 @@ Each icon style is drawn for a specific pixel grid. Look at these few examples o
 * Color: `48x48`
 * Office: `16x16`, `30x30`, `40x40`, `80x80`
 
-In order to avoid all sorts of artefacts (blurring edges, washed out colours etc.) associated with changing an icon’s size, we strongly recommend you to choose multiples of original icon's size. For example for iOS style the multiples would be: `50x50`, `100x100`, `150x150` etc.
-You can set an icon’s size either by specifying the size in pixels `100x100` / `100px` or with the use of factors: `2x` or `x2` (the number can vary).
+In order to avoid all sorts of artefacts (blurring edges, washed out colours etc.) associated with changing an icon size, we strongly recommend you to choose multiples of original icon size. For example for iOS style the multiples would be: `50x50`, `100x100`, `150x150` etc.
+You can set an icon size either by specifying the size in pixels `100x100` / `100px` or with the use of factors: `2x` or `x2` (the number can vary).
 For example:
 - 'https://img.icons8.com/color/1x/brazilian-carnival.png' <img src='https://img.icons8.com/color/1x/brazilian-carnival.png'/>
 - 'https://img.icons8.com/color/2x/brazilian-carnival.png' <img src='https://img.icons8.com/color/2x/brazilian-carnival.png' />
@@ -926,10 +926,10 @@ For example:
 <li>
  <details>
   <summary>
-   <strong> What is the maximum size of an icon that your service can provide? </strong>
+   <strong> What is the maximum size of an icon that retrieval service can provide? </strong>
  </summary>
   
-The restriction applied to free png icons is 550px. Please read more in [API license](https://icons8.com/paid-license-99/#/).
+The restriction applied to free png icons is 550 px. Paying clients may retrieve icons in any size up to 2048 px.
 
  </details>
 </li>
@@ -940,7 +940,9 @@ The restriction applied to free png icons is 550px. Please read more in [API lic
    <strong> What should I do if I can not find an icon that I need? </strong>
  </summary>
   
-You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually  need. It’s completely free. We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. You even may ask your friends, relatives and any community members to vote for your requested icon in order put your request on the very top of the queue. 
+You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. It’s completely free. We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
+
+Alternatively there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/)
 
  </details>
 </li>
