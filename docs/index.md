@@ -1024,7 +1024,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
       
 Paid option means you have to buy an access token, a short string code that you embed into your requests to both searching and retrieval engines. Exactly the same token is used to access both engines.
  
-The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every additional 100 000 requests add $100 more to the monthly plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on this page: https://icons8.recurly.com/subscribe/api_access. After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines. 
+The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every additional 100 000 requests add $100 more to the monthly plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on [this page](https://icons8.recurly.com/subscribe/api_access). After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines. 
    
    </details>
    
@@ -1110,8 +1110,7 @@ The starter icons service integration plan is $100/month - it includes up to 100
   
 Notice, the icons that we have are of a vector format and that is why they could be of any size. By this reason we do not include the icon's size in metadata of response from search engine. You simply can substitute any value for size parameter in request of a retrieval serivce and receive the corresponding png icon of the size that you requested. For icons retrieval we use [omg-img](http://img.icons8.com/) service. To retrieve an icon you embed your API TOKEN just right into your request http://img.icons8.com/ios/F0AC34/search.svg?token="YOURTOKEN". You may change the order of parameters in your request. Also keep in mind that due to the conversion of svg into png the "pixel perfect" come into play. To eliminate the artefacts of format conversion (from vector to raster) there is an appropriate size for each platform which you can then multiply by various factors 1x, 2x, 3x etc. to get the png size you need. 
 
- </details>
-  <hr>
+ </details> 
 </li>
 <hr>
  <li>
