@@ -206,12 +206,14 @@ In addidtion to drag and drop feature you may add new icons to collection by pre
   <br>
  To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
  
+ 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_item_from_collection.png'>
  </p>
  
   <br>
-You may delete the entire collection just by hovering the mouse courser over the collection in the list of collections and ckciking on the trash can icon:
+  
+You may delete the entire collection just by hovering the mouse cursor over the collection in the list of collections and clicking on the trash can icon:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_entire_collection_with_trash_can.png'>
