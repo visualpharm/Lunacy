@@ -338,7 +338,7 @@ It takes just a line of code to insert an icon in svg or png format directly fro
    <li>
     <details>
      <summary>
-       <strong> Multilanguage supprt </strong>
+       <strong> Multilanguage support</strong>
      </summary>
   
    <br>
