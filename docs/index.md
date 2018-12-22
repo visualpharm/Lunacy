@@ -1741,10 +1741,27 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
 <li>
  <details>
   <summary>
-   <strong> TTT </strong>
+   <strong> Are there any FRE SVG categories ? </strong>
  </summary>
+
+The free SVGs are available in these three categories: 
+
+- https://icons8.com/icon/pack/free-icons/all
+- https://icons8.com/icon/pack/characters/all
+- https://icons8.com/icon/pack/logos/all
+
+Free icon sets for websites and UX design: 
+
+- https://icons8.com/free-icons (some of them have free vector icons in SVG)
+
+Characters and logos don’t require linking. Everything else does!
   
-TTT
+Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
+
+<p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
+</p>
+ 
 
  </details> 
 </li> 
@@ -1752,10 +1769,10 @@ TTT
 <li>
  <details>
   <summary>
-   <strong> TTT </strong>
+   <strong> Can I use an icon as a Logo? </strong>
  </summary>
   
-TTT
+No problem, if you are using it for free please put a link to us somewhere in your project. If you want to edit it, please buy a license. Also, paid usage doesn't require linking us. 
 
  </details> 
 </li> 
@@ -1763,10 +1780,147 @@ TTT
 <li>
  <details>
   <summary>
-   <strong> TTT </strong>
+   <strong> Can I download many icons at once? </strong>
  </summary>
   
-TTT
+Yes, you can use collections for that.
+
+Collections provide you the functionality to gather a set of icons. For example, you can create:
+
+- a collection of icons in a specific size or color (available for all users)
+- a collection for creating a font or SVG set (for paid users)
+
+<br>
+   In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
+ 
+- PNG - download collection as a set of <b>png</b> icons
+- FONT - generate <b>font</b> from the collection and download it
+- SVG - download <b>svg sprite</b> or zip with <b>individual svg's</b>
+- EPS - download collection icons in <b>eps</b> format
+- PDF - download collection icons in <b>pdf</b> format
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_collection.png'>
+ </p>
+  
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How to delete and icon or entire collection?  </strong>
+ </summary>
+  
+ <br>
+ To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
+ 
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_item_from_collection.png'>
+ </p>
+ 
+  <br>
+  
+You may delete the entire collection just by hovering the mouse cursor over the collection in the list of collections and clicking on the trash can icon:
+
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_entire_collection_with_trash_can.png'>
+ </p>
+
+  <br>
+Another way to delete the entire collection or change its title is to click on the more options icon while you are within a given collection. A menu with two options will show up: <b>edit title</b> of the collection and <b>delete</b> the entire collection:
+
+   <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_title_or_delete_entire_collection.png'>
+ </p>
+ 
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How to add an icon to a collection ? </strong>
+ </summary>
+  
+Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. Icons can be added into a collection just by dragging and dropping it or just by pressing on a special label in the upper right corner of the outer space surrounding each icon when mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
+  
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/add_icons_to_collection.png'>
+ </p>
+ 
+ <br>
+You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. 
+
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
+ </p>
+ 
+  <br>
+In addidtion to drag and drop feature you may add new icons to collection by pressing <b>add sign</b> within your collection. This will launch file manager which will guide you through the procedure of selecting an svg file from your local file system and adding it to the collection: 
+ 
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager_2.png'>
+ </p>
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How can I edit a title of a collection ? </strong>
+ </summary>
+  
+ <br>
+In order to edit a title of a collection click on the more options icon while you are within a given collection. A menu with two options will show up: <b>edit title</b> of the collection and <b>delete</b> the entire collection:
+
+   <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_title_or_delete_entire_collection.png'>
+ </p>
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> What is the maximum number of icons that I can add to my collection ? </strong>
+ </summary>
+  
+You may create multiple collections with the 1000 icons limit per collection.
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Can I add icons from my file system into my web app collection? </strong>
+ </summary>
+   
+You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. 
+
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
+ </p>
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> What should I do if I can not find an icon that I need? </strong>
+ </summary>
+  
+You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
+
+Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/)
+
 
  </details> 
 </li> 
