@@ -391,7 +391,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
   
   <br>
   
-  In case you have any question, issue or concern you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
+In case you have any question, issue or concern, no matter are you a paying or free customer you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
@@ -1072,7 +1072,7 @@ The starter icons service integration plan is $100/month - it includes up to 100
  
  <details>
   <summary>
-   <strong>Service Integration Framework. Licensing. Requests limits. API tokens. Limitations. Use cases. </strong>
+   <strong>Service Integration. Licensing. Requests limits. API tokens. Limitations. Use cases. </strong>
  </summary>
  
  <br>
@@ -1442,12 +1442,11 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 
 <details>
   <summary>
-   <strong>Standard Framework. Licensing. Free usage. Editing. Web / Desktop. Usage after cancelation. Distribution. </strong>
+   <strong>Icons web app. Licensing. Free usage. Editing. Usage after cancelation. Distribution. Technical support.</strong>
  </summary>
  
  <br>
- <ol>
- <hr>
+ <ol> 
   <li>
  <details>
   <summary>
@@ -1475,7 +1474,7 @@ You are welcome to use icons apps for free for personal or commercial use howeve
  <li>
  <details>
   <summary>
-   <strong>Can I use the icons after my subscription is expired?</strong>
+   <strong>Can I use downloaded icons after my subscription is expired?</strong>
  </summary>
   
 Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
@@ -1523,6 +1522,93 @@ Below is the list of suggested places where you may set up a link:
  - Social network - please place the link in some of your posts
  - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
  
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Which languages are supported? </strong>
+ </summary>
+  
+We support the following languages:
+
+- Chinese
+- English
+- French
+- Deutsch
+- Italian
+- Japanese
+- Portuguese
+- Russian
+- Spanish
+ 
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Do you provide technical support? </strong>
+ </summary>
+  
+
+  In case you have any question, issue or concern, no matter are you a paying or free customer you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How to search for an icon? </strong>
+ </summary>
+  
+    
+   <br>
+  Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
+<p align="center">
+  <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
+</p> 
+  <br>
+  
+  Alternatively searching could be accomplished by browsing through categorized sets of icons listed on the left pane of the app and at the same time by applying various styles as it is shown below. Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
+ 
+   <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
+   </p>
+ 
+ 
+  <br>
+  While browsing icons within the categorized sets you may quickly try out various styles by selecting a style from the drop down menu: 
+  
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/quick_change_of_styles.png'>
+ </p>
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
 
  </details> 
 </li> 
