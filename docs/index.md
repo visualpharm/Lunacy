@@ -190,7 +190,7 @@ Collections is the best way to orgonize the icons you like into certain groups f
  </p>
  
  <br>
-You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. 
+You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. Please note that only files in SVG format can be added to your collection.
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
@@ -1597,7 +1597,7 @@ We support the following languages:
    <strong> How to Edit / Format an icon ? </strong>
  </summary>
 
-   Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
+   Editing and formatting tools show up whenever an icon from the list is clicked:
    
   <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
@@ -1902,7 +1902,7 @@ You may create multiple collections with the 1000 icons limit per collection.
    <strong> Can I add icons from my file system into my web app collection? </strong>
  </summary>
    
-You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. 
+You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. Please note that only files in SVG format can be added to your collection.
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
@@ -1928,6 +1928,59 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
 <li>
  <details>
   <summary>
+   <strong> What are icon editing options / effects are available ? </strong>
+ </summary>
+  
+  Editing and formatting tools show up whenever an icon from the list is clicked:
+   
+  <p align="center">
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+ </p>
+  
+  <br>
+  The editing tools are located on the most left pane of the editor and include the following tools:
+  
+  - Recolor
+  - Overlay
+  - Text
+  - No efects
+  - Stroke
+  - Padding
+  - Background
+  - Circle
+  - Square
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How can I delete an icon from my collection ? </strong>
+ </summary>
+  
+ To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
+ 
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_item_from_collection.png'>
+ </p>
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong>   </strong>
+ </summary>
+ 
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
    <strong> TTT </strong>
  </summary>
   
@@ -1936,6 +1989,30 @@ TTT
  </details> 
 </li> 
 <hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
+
+ </details> 
+</li> 
+<hr>
+
+
 
 
 </ol> 
