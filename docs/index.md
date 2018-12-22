@@ -386,7 +386,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
    <li>
     <details>
      <summary>
-       <strong> Tehnical Support </strong>
+       <strong> Technical Support </strong>
      </summary>
   
   <br>
