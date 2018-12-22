@@ -1478,10 +1478,52 @@ Kindly note that after you make subscription and it expires you are not able to 
   
 Unfortunately we do not have such an option at the moment. The best solution would be to purchase a subscription for a month, then download as many icons as you need and eventually cancel the subscription. You truly may cancel your subscription at any time, no hidden costs, no tricks no stuff like that. After your subscription is canceled you may continue to use your icons in current or future commercial projects. These icons stay yours for good. Though there are few restrictions are applied: https://icons8.com/download/Icons8_License.pdf
  </details>
-  <hr>
 </li>
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
 
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
 
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
+
+ </details> 
+</li> 
+<hr>
 
 
 </ol> 
