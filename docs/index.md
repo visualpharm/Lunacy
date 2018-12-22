@@ -1447,17 +1447,31 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
  
  <br>
  <ol>
-  <li>
-   <details>
-    <summary>
-      <strong>Can I use Icons8 for free?</strong>
-    </summary>
-    
-You are welcome to use icons apps for free for personal or commercial use however it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.
-   
-   </details>
  <hr>
+  <li>
+ <details>
+  <summary>
+   <strong> Paid License </strong>
+ </summary>
+  
+Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+
+[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Free License </strong>
+ </summary>
+  
+You are welcome to use icons apps for free for personal or commercial use however it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.
+
+ </details> 
  </li>
+ <hr>
  <li>
  <details>
   <summary>
@@ -1480,30 +1494,6 @@ Paying customers are elegible to download icons in png, svg, eps and pdf file fo
 Unfortunately we do not have such an option at the moment. The best solution would be to purchase a subscription for a month, then download as many icons as you need and eventually cancel the subscription. You truly may cancel your subscription at any time, no hidden costs, no tricks no stuff like that. After your subscription is canceled you may continue to use your icons in current or future commercial projects. These icons stay yours for good. Though there are few restrictions are applied: https://icons8.com/download/Icons8_License.pdf
  </details>
 </li>
-<hr>
-<li>
- <details>
-  <summary>
-   <strong> Paid License </strong>
- </summary>
-  
-Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
-
-[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
-
- </details> 
-</li> 
-<hr>
-<li>
- <details>
-  <summary>
-   <strong> Free License </strong>
- </summary>
-  
-You are welcome to use icons apps for free for personal or commercial use however it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.
-
- </details> 
-</li> 
 <hr>
 <li>
  <details>
@@ -1532,7 +1522,7 @@ Below is the list of suggested places where you may set up a link:
  - eBay page - you can put the link in the footer   
  - Social network - please place the link in some of your posts
  - T-shirts, mugs, umbrellas etc. - put the link in some noticeable location of the product
-</details>
+ 
 
  </details> 
 </li> 
