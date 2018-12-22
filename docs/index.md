@@ -391,7 +391,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
   
   <br>
   
-In case you have any question, issue or concern, no matter are you a paying or free customer you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
+In case you have any question, issue or concern, no matter are you a paying or a free customer you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
@@ -1560,7 +1560,7 @@ Click on the flag icon and choose the language you prefer:
    <strong> Do you provide technical support? </strong>
  </summary>
   
-  In case you have any question, issue or concern, no matter are you a paying or free customer you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
+  In case you have any question, issue or concern, no matter are you a paying or a free customer you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
@@ -1947,7 +1947,7 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
  </p>
   
   <br>
-  The editing tools are located on the most left pane of the editor and include the following tools:
+  The editing tools are located on the most left pane of the editor. They are:
   
   - Recolor
   - Overlay
