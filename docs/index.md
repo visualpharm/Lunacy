@@ -1450,7 +1450,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   <li>
  <details>
   <summary>
-   <strong> Paid License </strong>
+   <strong> Paid License. Subscription. How to purchase?</strong>
  </summary>
   
 Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
@@ -1587,6 +1587,164 @@ We support the following languages:
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/quick_change_of_styles.png'>
  </p>
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How to Edit / Format an icon ? </strong>
+ </summary>
+
+   Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
+   
+  <p align="center">
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+ </p>
+ 
+  <br>
+ A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
+ 
+ <p align="center">
+   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_3_style.png'>
+ </p>
+  
+  <br>
+  The editing tools are located on the most left pane of the editor and include the following tools:
+  
+  - Recolor
+  - Overlay
+  - Text
+  - No efects
+  - Stroke
+  - Padding
+  - Background
+  - Circle
+  - Square
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How to download an Icon? </strong>
+ </summary>
+     
+   <br>
+   Icon downloading feature is available from the main icon editor pane which in turn come up whenever an icon is clicked. When the download button is clicked the following screen shows up:
+   
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_2.png'>
+ </p>
+ 
+ <br>
+ Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Free customers are allowed to download icons in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are available in all formats, including SVG for both paying and free customers.
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/free_user_download.png'>
+ </p>
+
+<br>
+
+The icon download pane displays a pixel perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x etc. to get <b>sharpy</b> .png icons in various sizes. You may choose one of the predefined sizes or specify your custom size.
+
+There is an option to download selected icon in multiple sizes at once as a zip file. To achieve this you have to select the desired sizes with <b>ctrl</b> or <b>cmd</b> key pressed and click on the <b>download</b> button.
+  
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_1.jpg'>
+ </p> 
+ 
+ <br>
+   In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
+ 
+- PNG - download collection as a set of <b>png</b> icons
+- FONT - generate <b>font</b> from the collection and download it
+- SVG - download <b>svg sprite</b> or zip with <b>individual svg's</b>
+- EPS - download collection icons in <b>eps</b> format
+- PDF - download collection icons in <b>pdf</b> format
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_collection.png'>
+ </p>
+  
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> How to embed an icon via HTML ? </strong>
+ </summary> 
+
+<br>  
+As an alternative to icons download we offer quite a few options to get the icons right into you app of any scale via <b>html</b>. Just press the <b>HTML</b> button from the editor screen and a screen with HTML options will come up:
+     
+<br> 
+It takes just a line of code to insert an icon in svg or png format directly from the <b>CDN</b> to your application of any scale:
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
+ </p>
+ 
+ <br> 
+ Another option is to get your images encoded to <b>base64</b>:
+ 
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/htm_base64_1.png'>
+ </p>
+ 
+ <br> 
+ Inline <b>svg</b> option:
+ 
+  <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_inline.png'>
+ </p>
+  
+ <br>
+ Html svg <b>img tag</b> option:
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_img_tag.png'>
+ </p>
+ 
+ <br>
+ Html svg <b>background</b> option:
+ 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background_2.png'>
+ </p>
+  
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> Login / Logout </strong>
+ </summary>
+  
+
+Once you've got an Icons8 account, you’ll be able to login into any of our product including our web app.
+  
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/login_logout_2.png'>
+ </p>
+   
+
+ </details> 
+</li> 
+<hr>
+<li>
+ <details>
+  <summary>
+   <strong> TTT </strong>
+ </summary>
+  
+TTT
 
  </details> 
 </li> 
