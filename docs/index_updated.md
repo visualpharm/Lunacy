@@ -153,8 +153,6 @@ The <b> stroke effect</b> enhances the prominent features of the icon with the s
  </p>
  
  <br>
- 
- Also by setting up the <b>fill toggle</b> to <b>ON</b> state, you make the circle to be filled up with a specific color that you may choose.
 
 Setup the <b>fill toggle</b> to <b>ON</b> state to fill up the circle with a specific color of your choice.
  
