@@ -435,7 +435,7 @@ In case you have any question, issue or concern, no matter are you a paying or a
        <strong> PAID option  </strong>
      </summary>
       
-Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and yearly subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of yearly subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
 
 
 [Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
@@ -450,7 +450,7 @@ Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file f
        <strong> FREE of charge option </strong>
      </summary>
       
-You are welcome to use icons apps for free for personal or commercial use however it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
+You are welcome to use icons apps for free for personal or commercial use. In this case, you have to reference us somewhere in an appropriate place of your product. In most cases, it is enough to place a web link pointed to our website's main page. A better option would be to place a link pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
 
  <details>
      <summary>
