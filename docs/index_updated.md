@@ -212,7 +212,7 @@ In addition to drag and drop feature, there are two more option exist to add a n
  
   <br>
   
-  The second one is to click on <b>COLLLECT</b> button right in the icon editor:
+  The last option to collect an icon is to click on the <b>COLLECT</b> button right in the icon editor:
     <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_collect.png'>
  </p> 
