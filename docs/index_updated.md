@@ -1067,7 +1067,7 @@ The starter icons service integration plan is $100/month - it includes up to 100
 
 <details>
   <summary>
-   <strong>Icons Apps. Licensing. Free usage. Editing. Usage after cancelation. Distribution. Technical support.</strong>
+   <strong>Icons Apps</strong>
  </summary>
  
  <br>
