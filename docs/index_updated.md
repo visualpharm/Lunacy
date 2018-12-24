@@ -204,7 +204,7 @@ You may drag and drop an <b>SVG</b> icon from the web app or your local file sys
  
   <br>
   
-In addition, to drag and drop feature there is one more option exists.  You may add new icons to your collection by pressing <b>add sign</b> within your collection. This will launch the file manager. The manager will further guide you through the procedure of selecting an SVG file from your local file system and adding it to your collection: 
+In addition to drag and drop feature, there is one more option exists to add a new icon to your collection. Click on <b>add sign</b> within your collection. This will launch the file manager. The manager will further guide you to select an SVG file from your local file system and add it to your collection:
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager_2.png'>
