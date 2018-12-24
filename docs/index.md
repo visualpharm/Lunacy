@@ -1,13 +1,13 @@
 # Welcome to Icons User Manual
-This document helps to get started and succeed with icons apps and API.
+This document helps you to get started and succeed with icons apps and API.
 
 # Why Icons8?
 
-The demand for visual content is only getting stronger nowadays. Management of visual content becomes a troublesome task. How to manage icons? How to keep icons up-to date? How to access icons any time from anywhere? [Icons8](https://icons8.com) offers simple reliable solutions to cope with all sorts of the challenges.
+The demand for visual content is only getting stronger nowadays. Management of visual content becomes a troublesome task. How to manage icons? How to keep icons up-to date? How to search and access icons any time from anywhere? [Icons8](https://icons8.com) offers simple reliable solutions to cope with all sorts of the challenges.
 
 # Which License Do I Need?
 
-[Icons web app](https://icons8.com/icons) allows our clients to search and retrieve icons through a GUI. Icons API provides an ability to access icons from your code. End-users can build their own visual content from within your apps powered by our API.
+[Icons apps](https://icons8.com/icons) allows our clients to search and retrieve icons through a GUI. Icons API provides an ability to access icons from your code. End-users can build their own visual content from within your apps powered by our API.
 
 ## Icons Web App
 
