@@ -212,7 +212,7 @@ In addition to drag and drop feature, there is one more option exists to add a n
  
   <br>
   
- To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the trash sign that will come up. A dialog will further guide you to confirm and proceed with the deletion.
+ To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the trash sign that will come up. A dialog will further guide you to confirm and proceed with the deletion:
  
  
  <p align="center">
