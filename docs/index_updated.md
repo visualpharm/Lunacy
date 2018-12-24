@@ -33,14 +33,15 @@ The demand for visual content is only getting stronger nowadays. Management of v
 </p> 
   <br>
   
-  Alternatively searching could be accomplished by browsing through categorized sets of icons listed on the left pane of the app and at the same time by applying various styles as it is shown below. Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
- 
+  On the other hand, you may browse through categorized sets of icons listed on the left pane of the app. Various styles can be further applied. Note that sets of icons available for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
+  
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
    </p>
  
   <br>
-  While browsing icons within the categorized sets you may quickly try out various styles by selecting a style from the drop down menu: 
+  
+ Quickly try out various styles by selecting a style from the drop-down menu: 
   
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/quick_change_of_styles.png'>
@@ -48,13 +49,14 @@ The demand for visual content is only getting stronger nowadays. Management of v
  
  
   <br>
- Editor tool comes up whenever an icon is clicked: 
+  
+Editor tool comes up whenever an icon is clicked:
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_tool_comes_up.png'>
  </p>
  
- Icons editing tools and other tools for manipulation with icons are described in the following subsections.
+The next section grasps the main features of the icons editor.
  
    </details>
    
@@ -67,14 +69,15 @@ The demand for visual content is only getting stronger nowadays. Management of v
      </summary>
   
    <br>
-   Editing and formatting tools show up whenever an icon from the list is clicked (see previous subsection on how to retrieve a list of icons you need):
+   
+   Editing and formatting tools show up whenever an icon from the list is clicked:
    
   <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
  </p>
  
   <br>
- A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
+A group of styles options is displayed within the editor pane. They are the styles applicable to the selected icon. You may quickly change the style of the icon just by clicking on the style of your choice.
  
  <p align="center">
    <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_3_style.png'>
