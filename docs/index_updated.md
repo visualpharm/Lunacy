@@ -1467,7 +1467,7 @@ Collections provide you the functionality to gather a set of icons. For example,
  </summary>
   
  <br>
- To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
+ To delete an icon from a collection, hover the mouse cursor over the icon. Click on the trash can sign that will come up. A dialog will further guide you to confirm and proceed with the deletion:
  
  
  <p align="center">
