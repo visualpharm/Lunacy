@@ -189,28 +189,32 @@ The <b> stroke effect</b> enhances the prominent features of the icon with the s
      </summary>
      
   <br>
-Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. Icons can be added into a collection just by dragging and dropping it or just by pressing on a special label in the upper right corner of the outer space surrounding each icon when mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
+  
+Collections are the best way to organize the icons you like. Collections help you to group certain icons for further applications. You may create many collections with the 1000 icons limit per collection. An icon can be added to a collection by dragging and dropping it. Another way to add an icon to a collection is by pressing on a special label. This label is located in the upper right corner of the outer space surrounding each icon. The label becomes visible when the mouse cursor is hovering the icon.  Note that the red label states that the current icon is already added into your collection.
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/add_icons_to_collection.png'>
  </p>
  
  <br>
-You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. Please note that only files in SVG format can be added to your collection.
+
+You may drag and drop an <b>SVG</b> icon from the web app or your local file system right into your collection. Please note that only files in SVG format can be added to your collection. 
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
  </p>
  
   <br>
-In addidtion to drag and drop feature you may add new icons to collection by pressing <b>add sign</b> within your collection. This will launch file manager which will guide you through the procedure of selecting an svg file from your local file system and adding it to the collection: 
+  
+In addition, to drag and drop feature there is one more option exists.  You may add new icons to your collection by pressing <b>add sign</b> within your collection. This will launch the file manager. The manager will further guide you through the procedure of selecting an SVG file from your local file system and adding it to your collection: 
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager_2.png'>
  </p>
  
   <br>
- To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
+  
+ To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the trash sign that will come up. A dialog will further guide you to confirm and proceed with the deletion.
  
  
  <p align="center">
@@ -219,13 +223,14 @@ In addidtion to drag and drop feature you may add new icons to collection by pre
  
   <br>
   
-You may delete the entire collection just by hovering the mouse cursor over the collection in the list of collections and clicking on the trash can icon:
+To delete the entire collection, hover the mouse cursor over the collection in the list of collections. Click on the trash can icon:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_entire_collection_with_trash_can.png'>
  </p>
 
   <br>
+  
 Another way to delete the entire collection or change its title is to click on the more options icon while you are within a given collection. A menu with two options will show up: <b>edit title</b> of the collection and <b>delete</b> the entire collection:
 
    <p align="center">
