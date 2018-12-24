@@ -9,18 +9,13 @@ The demand for visual content seems is only getting stronger nowadays. Having ju
 
 Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed and utilized. These two licensing pathways are known as ['Standard'](#standard-framework) and ['Service Integration'](#service-integration-framework) frameworks. Each framework is associated with certain set of tools which are discussed below in detail. 
 
-<!--
-One of the most frequently asked questions from our customers is "<b>which license do I need</b>", meaning <b>which framework am I supposed to use</b> to achieve the goals of my project. The rest of this document is purposely dedicated to give you a clear answer for that question and to master the essentials of the frameworks. -->
+## Web App
 
-
-
-## Standard Framework
-
-Under the <b>Standard Framework</b> we consider a set of tools that allows our clients to manually search and retreive icons through a GUI. This manual covers the icons web app in detail:<!--These tools are web and desktop apps. The apps have a very similar functionality with some distinctions which are described in detail below:-->
+[Icons web app](https://icons8.com/icons) allows our clients to manually search and retreive icons through a GUI:
  
   <details>
   <summary>
-   <strong>Web App</strong>
+   <strong>Features</strong>
   </summary>
  
  [Icons web app](https://icons8.com/icons) is availale on any modern web browser and can be accessed via the URL: https://icons8.com/icons. The subsections below grasp the main features of the web app:
@@ -45,7 +40,6 @@ Under the <b>Standard Framework</b> we consider a set of tools that allows our c
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
    </p>
- 
  
   <br>
   While browsing icons within the categorized sets you may quickly try out various styles by selecting a style from the drop down menu: 
@@ -472,8 +466,8 @@ Below is the list of suggested places where you may set up a link:
  </ul>
  </details> 
  
- 
-## Service Integration Framework
+## Desktop Apps
+## API
 In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of <b>search engine</b> that allows to programmatically search for icons metadata and icons <b>retrieval service</b> which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:
 
 <!--<ul>
