@@ -7,7 +7,7 @@ The demand for visual content is only getting stronger nowadays. Management of v
 
 # Which License Do I Need?
 
-[Icons web app](https://icons8.com/icons) allows our clients to search and retrieve icons through a GUI. Icons API provides an ability to access icons from your code. End-users can build their own visual content from within your apps powered by our API.
+[Icons apps](https://icons8.com/icons) allows our clients to search and retrieve icons through a GUI. Icons API provides an ability to access icons from your code. End-users can build their own visual content from within your apps powered by our API.
 
 ## Icons Web App
 
