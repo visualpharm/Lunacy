@@ -235,8 +235,8 @@ To delete the entire collection, hover the mouse cursor over the collection in t
  </p>
 
   <br>
-  
-Another way to delete the entire collection or change its title is to click on the more options icon while you are within a given collection. A menu with two options will show up: <b>edit title</b> of the collection and <b>delete</b> the entire collection:
+
+Another way to delete the entire collection or to change its title is to click on the more options icon while you are within a given collection. A menu with two options will show up. The options are: <b>edit the title</b> of the collection and <b>delete the entire collection</b>.
 
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_title_or_delete_entire_collection.png'>
