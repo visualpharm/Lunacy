@@ -204,11 +204,18 @@ You may drag and drop an <b>SVG</b> icon from the web app or your local file sys
  
   <br>
   
-In addition to drag and drop feature, there is one more option exists to add a new icon to your collection. Click on <b>add sign</b> within your collection. This will launch the file manager. The manager will further guide you to select an SVG file from your local file system and add it to your collection:
+In addition to drag and drop feature, there are two more option exist to add a new icon to your collection. The first one is to click on <b>add sign</b> within your collection. This will launch the file manager. The manager will further guide you to select an SVG file from your local file system and add it to your collection:
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager_2.png'>
  </p>
+ 
+  <br>
+  
+  The second one is to click on <b>COLLLECT</b> button right in the icon editor:
+    <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_collect.png'>
+ </p> 
  
   <br>
   
@@ -314,7 +321,7 @@ To download a collection you have to select it in the list of collections and cl
 We have alternative options to icons download. With these options, you get the icons right into your app of any scale via <b>HTML</b>. To get started click on the <b>HTML</b> button from the editor screen:
 
  <p align="center">
-   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_html.png'>
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_html_1.png'>
  </p>
 
      
