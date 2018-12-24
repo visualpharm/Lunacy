@@ -9,7 +9,7 @@ The demand for visual content seems is only getting stronger nowadays. Having ju
 
 [Icons web app](https://icons8.com/icons) allows our clients to manually search and retreive icons through a GUI. Icons API provides an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps powered by our API. 
 
-## Web App
+## Icons Web App
 
   <details>
   <summary>
@@ -465,7 +465,7 @@ Below is the list of suggested places where you may set up a link:
  </details> 
  
 ## Desktop Apps
-## API
+## Icons API
 
 <!--The framework consist of <b>search engine</b> that allows to programmatically search for icons metadata and icons <b>retrieval service</b> which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:-->
 
