@@ -1,5 +1,5 @@
 # Welcome to icons user manual
-This document covers pretty much everything you need to know about how to get started and succeed with icons app and services.
+This document covers pretty much everything you need to know about how to get started and succeed with icons apps and API.
 
 # Why Icons8?
 
@@ -7,12 +7,10 @@ The demand for visual content seems is only getting stronger nowadays. Having ju
 
 # Which license do I need?
 
-Conceptually, the [Icons8](https://icons8.com/) provides two frameworks or in other words two distinct ways of how icons could be accessed and utilized. These two licensing pathways are known as ['Standard'](#standard-framework) and ['Service Integration'](#service-integration-framework) frameworks. Each framework is associated with certain set of tools which are discussed below in detail. 
+[Icons web app](https://icons8.com/icons) allows our clients to manually search and retreive icons through a GUI. API provides an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps powered by our API. 
 
 ## Web App
 
-[Icons web app](https://icons8.com/icons) allows our clients to manually search and retreive icons through a GUI:
- 
   <details>
   <summary>
    <strong>Features</strong>
@@ -468,7 +466,8 @@ Below is the list of suggested places where you may set up a link:
  
 ## Desktop Apps
 ## API
-In a short, service integration gives you an ability to access icons programmatically, from within your apps, on the fly in real-time. In particular end-users of your products could generate their own projects, build their own visual content from within your apps tied to our service. The framework consist of <b>search engine</b> that allows to programmatically search for icons metadata and icons <b>retrieval service</b> which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:
+
+<!--The framework consist of <b>search engine</b> that allows to programmatically search for icons metadata and icons <b>retrieval service</b> which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:-->
 
 <!--<ul>
   <li>-->
