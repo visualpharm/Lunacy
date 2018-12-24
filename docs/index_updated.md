@@ -248,15 +248,16 @@ Another way to delete the entire collection or change its title is to click on t
      
    <br>
    
-  Icon downloading feature is available from the main icon editor pane: 
+  Icon downloading feature is available from the main icon editor pane. Click on the download button to open the download window: 
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_download.png'>
  </p>   
  
  <br>
-  Click on the download button to open the download window:
-   
+
+ The following window comes up:
+ 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_2.png'>
  </p>
@@ -310,7 +311,7 @@ To download a collection you have to select it in the list of collections and cl
 
 <br>  
 
-We have alternative options to icons download. With these options, you get the icons right into your app of any scale via <b>HTML</b>. Press the <b>HTML</b> button from the editor screen and a screen with HTML options will come up:
+We have alternative options to icons download. With these options, you get the icons right into your app of any scale via <b>HTML</b>. To get started click on the <b>HTML</b> button from the editor screen:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_html.png'>
@@ -318,7 +319,7 @@ We have alternative options to icons download. With these options, you get the i
 
      
 <br> 
-It takes just a line of code to insert an icon in SVG or PNG format directly from <b>CDN</b> to your application of any scale:
+A window with HTML options will come up. With the first option it takes just a line of code to insert an icon in SVG or PNG format directly from <b>CDN</b> to your application of any scale:
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
