@@ -1,9 +1,9 @@
 # Welcome to Icons User Manual
-This document covers pretty much everything you need to know about how to get started and succeed with icons apps and API.
+This document helps to get started and succeed with icons apps and API.
 
 # Why Icons8?
 
-The demand for visual content seems is only getting stronger nowadays. Having just a huge bunch of icons files may not necessarily help one to efficiently and competitively develop and support visually rich applications. Wouldn't it be much better to have a dedicated reliable platform like the [Icons8](https://icons8.com/) that would cope with all sort of the challenges associated with managing icons, keeping them up-to-date, and making them easily accessible in the most suitable forms and various contexts?
+The demand for visual content is only getting stronger nowadays. Management of visual content becomes a troublesome task. How to manage icons, how to keep them up-to date and how to access them any time from anywhere? Icons8 offers simple reliable solutions to cope with all sorts of the challenges.
 
 # Which License Do I Need?
 
