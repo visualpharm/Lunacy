@@ -27,7 +27,7 @@ The demand for visual content is only getting stronger nowadays. Management of v
      </summary>
     
    <br>
-  Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
+  Enter a search query in the search bar and press enter key/search button. The most relevant icons set shows up. You may quickly vary icons styles, by selecting a style from the drop-down menu. Toggle switch button on the top right of the screen to switch between plain icons view and the icons view with titles:
 <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
 </p> 
