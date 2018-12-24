@@ -119,7 +119,7 @@ A group of styles options is displayed within the editor pane. They are the styl
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/text_tool_edit_1.png'>
  </p>
  
-Recolor, overlay, and text are the effects applied to the icon with the use of a toggle button. You may combine the effects by setting the appropriate buttons. The rest of the effects (stroke, padding, background, circle, square) are applied with the use of the radio button. You may apply one of the effects at a time. <b>"No Effects"</b> disables all the effects in the radio group.
+<b>Recolor</b>, <b>overlay</b>, and <b>text</b> are the effects applied to the icon with the use of a toggle button. You may combine the effects by setting the appropriate buttons. The rest of the effects (stroke, padding, background, circle, square) are applied with the use of the radio button. You may apply one of the effects at a time. <b>No effects</b> disables all the effects in the radio group.
  
  <br>
  
@@ -154,9 +154,9 @@ The <b> stroke effect</b> enhances the prominent features of the icon with the s
  
  <br>
  
- Also by setting up the <b>fill togle</b> to <b>ON</b> state you make the circle to be filled up with specific color that you may choose.
- 
- Setup the <b>fill togle</b> to <b>ON</b> state to fill up the circle with a specific color of your choice.
+ Also by setting up the <b>fill toggle</b> to <b>ON</b> state, you make the circle to be filled up with a specific color that you may choose.
+
+Setup the <b>fill toggle</b> to <b>ON</b> state to fill up the circle with a specific color of your choice.
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
@@ -350,7 +350,7 @@ It takes just a line of code to insert an icon in SVG or PNG format directly fro
    <li>
     <details>
      <summary>
-       <strong> Multilanguage support</strong>
+       <strong> Multilanguage Support</strong>
      </summary>
   
    <br>
