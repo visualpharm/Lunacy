@@ -715,7 +715,7 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
  <li>
    <details>
     <summary>
-      <strong> How to retrieve an icon for FREE? </strong>
+      <strong> How to Retrieve an Icon for FREE? </strong>
     </summary>
     
 It takes a line of code to insert an icon in SVG or PNG format from the CDN to your application of any scale:
@@ -882,7 +882,7 @@ Retrieving an icon in particular style is easy. To do this, you embed the desire
  <li>
  <details>
   <summary>
-   <strong> How to recolor of monochrome icons? </strong>
+   <strong> How to Recolor Monochrome Icons? </strong>
  </summary>
   
 To change the color of an icon it's enough to insert an appropriate color code within an icon link:
