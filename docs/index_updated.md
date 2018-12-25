@@ -793,13 +793,12 @@ Note that the 'name' parameter is not used at all in building a retrieving URL f
  <li>
  <details>
   <summary>
-   <strong> Free icon’s search with the use of our web app </strong>
+   <strong> Free Icon’s Search With the Use of Our Web App </strong>
  </summary>
 
-There is always an option for free customers to use [our web app](https://icons8.com/icon/new-icons/all) as a free searching tool and the free tool to constract the full paths to the icons they like.
-
 <br>
-Just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+
+Free customers may use our web app as a free tool to search and full paths to the icons they like. Type-in a query in the app and click on the search icon to get a list of the most relevant icons.
  <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
 </p> 
@@ -811,7 +810,7 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
  </p>
  
  <br>
- Copy the full path to the icon and paste it in your own app:
+ Copy the full path to the icon and paste it into your app:
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
  </p>
@@ -822,11 +821,10 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
  <li>
  <details>
   <summary>
-   <strong>  How to retrieve icons in particular style? </strong>
+   <strong>  How to Retrieve Icons in a Particular Style? </strong>
  </summary>
  
-
-To retrieve an icon in particular style you just substitute the style as a parameter in your retrieval request:
+Retrieving an icon in particular style is easy. To do this, you embed the desired style as a parameter in your retrieval request:
  <p align="center">
 
 |monochrome|coloured|
@@ -839,7 +837,7 @@ To retrieve an icon in particular style you just substitute the style as a param
 
 <details>
   <summary>
-   <strong>  See list of more than 20 various styles that you may use to retrieve icons  </strong>
+   <strong>  See the List of More Than 20 Various Styles That You May Use to Retrieve Icons  </strong>
  </summary>
  
  <p align="center">
