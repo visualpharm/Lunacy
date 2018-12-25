@@ -521,7 +521,7 @@ Below is the list of suggested places where you may set up a link:
  
  
    
-Requests to the search engine are constructed with the use of a set of parameters. These parameters are concatenated one after another in a row in the order that can be changed on your own:
+Requests to the search engine include a set of parameters. These parameters are concatenated one after another in a row in the order that can be changed on your own:
 
 
   <ul>
