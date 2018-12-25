@@ -521,7 +521,7 @@ Below is the list of suggested places where you may set up a link:
  
  
    
-Requests to the search engine are constructed with the use of a set of parameters concatenated one after another in a row in the order that can be changed on your own. These paramateres are:
+Requests to the search engine are constructed with the use of a set of parameters. These parameters are concatenated one after another in a row in the order that can be changed on your own:
 
 
   <ul>
@@ -558,7 +558,7 @@ Requests to the search engine are constructed with the use of a set of parameter
      </summary>
  
 
-Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platform_code`  all indicate the style of the icons. We are sorry, we have various names which mean the same things.
+There is a set of parameters or attributes with a name  `platform` or a `platform_api_code` or a `platform_code.`  All these names mean the same thing, the style of the icons. 
 
  <p align="center">
  
@@ -605,7 +605,7 @@ Attributes and parameters named  `platform`  or  `platform_api_code`  or  `platf
      </summary>
 
 
-Icon names, categories and tags are localized. Here's the list of supported languages:
+Icon names, categories, and tags are localized. Here's the list of supported languages:
 
  <p align="center">
  
@@ -636,7 +636,7 @@ The primary language is English - if we do not translate something, it will be i
        <strong> Amount  </strong>
      </summary>
       
-   This field is the maximum number of icons which you'd like to receive. Default value is 25.
+   This field is the maximum number of icons which you'd like to receive. The default value is 25.
    
    </details>
    
@@ -648,7 +648,7 @@ The primary language is English - if we do not translate something, it will be i
        <strong>  Offset  </strong>
      </summary>
       
- This field is the offset from the first received result. Default value is 0.
+ This field is the offset from the first received result. The default value is 0.
    
    </details>
    
@@ -658,7 +658,7 @@ The primary language is English - if we do not translate something, it will be i
    <li>
    <details>
      <summary>
-       <strong> Sample request </strong>
+       <strong> Sample Request </strong>
      </summary>
       
 https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
@@ -670,7 +670,7 @@ https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platf
    <li>
    <details>
      <summary>
-       <strong> Sample response </strong>
+       <strong> Sample Response </strong>
      </summary>
       
  |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
@@ -681,14 +681,8 @@ https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platf
    </li>
    <hr>
    </ul>
-   
-
-
-    
-    
-
  
-Notice that you can filter results with style/platform and then group the results with the use of categories. Basically when you supply a search query to our <b>Search Engine of Version 4.0</b> you get back a json file which contains all the metadata of the most relevant icons associated with that query. Then you may use this category info contained in the metadata to actually group the results according to the categories. Pay attention that the <b>Search Engine</b> will not return the categories which have less than 10 icons.
+You can filter results with style/platform and then group the results with the use of categories. In response to a search query to our <b>Search Engine of Version 4.0</b>, you get back a JSON file with metadata. The metadata is a set of structured elements most relevant to the initial search query. Each element has a set of attributes. Icon category is one of those attributes. You may use this attribute to categorize the results. Pay attention that the <b>Search Engine</b> will not return the categories which have less than ten icons.
 
 
 
@@ -712,7 +706,7 @@ Notice that you can filter results with style/platform and then group the result
    <strong> Retrieval Engine </strong>
  </summary>
   
-[Omg-img](http://img.icons8.com/) serivce could be used absolutely <b>for free</b> for both for searching and for retrieving icons. <b>Paid</b> license gives you an <b>unbeatable</b> functionality to craft cutting edge apps. Exactly the same paid token is used to access both searching and retrieval engines.
+[Omg-img](http://img.icons8.com/) serivce provides <b>free means</b> to search and retrieve icons. <b>Paid</b> license gives you an <b>extra</b> functionality to craft cutting edge apps. You may use exactly the same paid token to access both searching and retrieval engines.
  
  <ol>
   <hr>
