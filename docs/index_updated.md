@@ -706,6 +706,8 @@ You can filter results with style/platform and then group the results with the u
  </summary>
   
 [Omg-img](http://img.icons8.com/) serivce provides <b>free means</b> to search and retrieve icons. <b>Paid</b> license gives you an <b>extra</b> functionality to craft cutting edge apps. You may use exactly the same paid token to access both searching and retrieval engines.
+
+Omg-img service provides free and paid options. Yes, you can search and retrieve icons with omg-img for free. The free option works great for small and simple apps. The paid option lets you craft cutting-edge apps. You may use exactly the same paid token to access both searching and retrieval engines.
  
  <ol>
   <hr>
