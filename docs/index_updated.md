@@ -775,7 +775,7 @@ Note that the 'name' parameter is not used at all in building a retrieving URL f
  <li>
  <details>
   <summary>
-   <strong> Icon’s Search Available Atraight From the Address Bar of Your Browser </strong>
+   <strong> Icon’s Search Available Straight From the Address Bar of Your Browser </strong>
  </summary>
 
 [Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
