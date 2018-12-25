@@ -924,9 +924,8 @@ Each icon style is drawn for a specific pixel grid. Look at these few examples o
 * Color: `48x48`
 * Office: `16x16`, `30x30`, `40x40`, `80x80`
 
-In order to avoid all sorts of artefacts (blurring edges, washed out colours etc.) associated with changing an icon size, we strongly recommend you to choose multiples of original icon size. For example for iOS style the multiples would be: `50x50`, `100x100`, `150x150` etc.
-You can set an icon size either by specifying the size in pixels `100x100` / `100px` or with the use of factors: `2x` or `x2` (the number can vary).
-For example:
+We recommend you to use multiples of original icon size. This will help to avoid all sorts of artifacts (blurring edges, washed out, etc.) associated with changing an icon size. For example, for the iOS style, the multiples would be 50x50, 100x100, 150x150 and so forth. You can set an icon size either by specifying the size in pixels 100x100 / 100px or with the use of factors: 2x or x2 (the number can vary):
+
 - 'https://img.icons8.com/color/1x/brazilian-carnival.png' <img src='https://img.icons8.com/color/1x/brazilian-carnival.png'/>
 - 'https://img.icons8.com/color/2x/brazilian-carnival.png' <img src='https://img.icons8.com/color/2x/brazilian-carnival.png' />
 
@@ -937,7 +936,7 @@ For example:
 <li>
  <details>
   <summary>
-   <strong> What is the maximum size of an icon that retrieval service can provide? </strong>
+   <strong> What is the Greatest Size of an Icon That Retrieval Service Can Provide? </strong>
  </summary>
   
 The restriction applied to free png icons is 550 px. Paying clients may retrieve icons in any size up to 2048 px.
@@ -948,12 +947,12 @@ The restriction applied to free png icons is 550 px. Paying clients may retrieve
 <li>
  <details>
   <summary>
-   <strong> What should I do if I can not find an icon that I need? </strong>
+   <strong> What Should I Do if I Can not Find an Icon That I Need? </strong>
  </summary>
   
-You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
+You may send us a [request](https://icons8.com/request-icon/) to draw an icon you need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However, we do prioritize the requests which have the highest demand. Be creative, ask your friends, relatives, and any community members to vote for your requested icon to put your request higher on the queue.
 
-Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/)
+Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/).
 
  </details>
 </li>
@@ -961,13 +960,12 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
 <li>
  <details>
   <summary>
-   <strong> Can an icon used in my app change over time? </strong>
+   <strong> Can an Icon Used in my App Change Over Time? </strong>
  </summary>
   
-In short, it’s very unlikely, but it's possible. The most updated version of an icon is accessible by a given icon’s link.
-In other words, currently for the following link **`https://img.icons8.com/water-molecule`** we keep showing an icon with illustration of a water drop or an abstract molecule. However if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O, then most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
+In short, it’s very unlikely, but it's possible. The most updated version of an icon is accessible by a given icon’s link. Let take a look at the following example. Imaging we have a link **`https://img.icons8.com/water-molecule`**. For this URL we keep showing an icon with an illustration of a water drop or an abstract molecule. But what happens if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O. Most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
 
-In case <b>if you are planning to use an icon longterm</b>, the best solution would be to use the canonical full path to the icon. For that, just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+In case <b>if you are planning to use an icon longterm</b>, the best solution would be to use the full canonical path to the icon. For that, type in a query in the app and click on the search icon to get a list of the most relevant icons. 
  <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
 </p> 
