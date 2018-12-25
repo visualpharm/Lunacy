@@ -882,10 +882,10 @@ Retrieving an icon in particular style is easy. To do this, you embed the desire
  <li>
  <details>
   <summary>
-   <strong> Recolouring of monochrome icons made easy </strong>
+   <strong> How to recolor of monochrome icons? </strong>
  </summary>
   
-To change color of an icon it's enough to insert an appropriate color code within an icon link:
+To change the color of an icon it's enough to insert an appropriate color code within an icon link:
 - <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
 - <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
 - <img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
@@ -896,17 +896,16 @@ To change color of an icon it's enough to insert an appropriate color code withi
 <li>
  <details>
   <summary>
-   <strong> How can I resize an icon? </strong>
+   <strong> How Can I Resize an Icon? </strong>
  </summary>
    
-  To modify an icon size it’s just enough to insert an icon size within its link:
+  To change icon size, it’s just enough to embed an icon size within its link:
 - 'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
 - 'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
 - 'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
 - 'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
 
-For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`.
-
+Icon's size can be written in two different formats: `100x100` or `100px`.
 
  </details>
 </li>
@@ -914,7 +913,7 @@ For your convenience, the size of an icon can be written in two different format
 <li>
  <details>
   <summary>
-   <strong> How to retrieve sharp pixel perfect icons? </strong>
+   <strong> How to Retrieve Sharp Pixel Perfect Icons? </strong>
  </summary>
   
 Each icon style is drawn for a specific pixel grid. Look at these few examples of various pixel grids: 
