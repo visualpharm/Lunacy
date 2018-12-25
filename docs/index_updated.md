@@ -623,7 +623,7 @@ Icon names, categories, and tags are localized. Here's the list of supported lan
 
 </p>
 
-The primary language is English - if we do not translate something, it will be in English.
+The primary language is English. If we do not internationalize something, it will be in English.
    
    </details>
    
