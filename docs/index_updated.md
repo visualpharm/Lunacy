@@ -683,31 +683,16 @@ https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platf
  
 You can filter results with style/platform and then group the results with the use of categories. In response to a search query to our <b>Search Engine of Version 4.0</b>, you get back a JSON file with metadata. The metadata is a set of structured elements most relevant to the initial search query. Each element has a set of attributes. Icon category is one of those attributes. You may use this attribute to categorize the results. Pay attention that the <b>Search Engine</b> will not return the categories which have less than ten icons.
 
-
-
-<!--
-
-<b>
-  - API key i.e. token
-  - endpoint
-  - platform
-  - language
-  - offset
-  - amount </b >-->
-
-
-     
-
+ 
+ 
   </details>
   
   <details>
   <summary>
    <strong> Retrieval Engine </strong>
  </summary>
-  
-[Omg-img](http://img.icons8.com/) serivce provides <b>free means</b> to search and retrieve icons. <b>Paid</b> license gives you an <b>extra</b> functionality to craft cutting edge apps. You may use exactly the same paid token to access both searching and retrieval engines.
 
-Omg-img service provides free and paid options. Yes, you can search and retrieve icons with omg-img for free. The free option works great for small and simple apps. The paid option lets you craft cutting-edge apps. You may use exactly the same paid token to access both searching and retrieval engines.
+[Omg-img](http://img.icons8.com/) service provides free and paid options. Yes, you can search and retrieve icons with omg-img for free. The <b>free</b> option works great for small and simple projects. The <b>paid</b> option lets you craft cutting-edge apps. You may use exactly the same paid token to access both searching and retrieval engines. 
  
  <ol>
   <hr>
@@ -718,7 +703,7 @@ Omg-img service provides free and paid options. Yes, you can search and retrieve
    <strong>Free VS Paid </strong>
  </summary>
   
-Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of course there are advanced options available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
+Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Premium options are available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
 
 - access to generate PNG icons larger than 550 px
 - access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>FREE</b>.
@@ -733,7 +718,7 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
       <strong> How to retrieve an icon for FREE? </strong>
     </summary>
     
-It takes just a line of code <!--, service endpoint concatinated with an icon's name,--> to insert an icon in svg or in png format directly from the CDN to your application of any scale:
+It takes a line of code to insert an icon in SVG or PNG format from the CDN to your application of any scale:
  
  - `<img src=’https://img.icons8.com/search.svg’/>`
  - `<img src=’https://img.icons8.com/search.png’/>`
@@ -742,7 +727,7 @@ It takes just a line of code <!--, service endpoint concatinated with an icon's 
  
   Also please note that:
   
- - png icons are available in limited size (less than 550px)
+ - PNG icons are available in limited size (less than 550px)
  - only popular SVG icons are available for free
  
    </details>
@@ -751,23 +736,23 @@ It takes just a line of code <!--, service endpoint concatinated with an icon's 
  <li>
    <details>
     <summary>
-      <strong> How to retrieve an icon on PAID basis? </strong>
+      <strong> How to Retrieve an Icon on a PAID Basis? </strong>
     </summary>
      
      
-The canonical format for retrieving icons via paid requests is as following: 
+The format for retrieving icons via paid requests is as follows: 
 
 - http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=YOURTOKEN
 
 <br>
 
-In the above request, parameters commonName, platform, token - are mandatory, whereas size - is optional. Assume we call v4 search engine with 'house' searching phrase and receive a JSON response as following: 
+In the above request, parameters commonName, platform, token - are mandatory. Size - is optional. Assume we call v4 search engine with 'house' searching phrase and receive a JSON response as follows:
     
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/JSON_RETRIEVE_1.png'>
  </p>
 
-In the JSON response we can see that for one of the entries platform parameter attains the value "ultroviolet" and the commonName attains the value "Link-company-child". Thats all we need to get the icon in the svg/eps/pdf/png formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
+Take a look onto parameters in the JSON. Platform parameter attains the value "ultroviolet". The commonName attains the value "Link-company-child". That's all we need to get the icon in the SVG / EPS / PDF / PNG formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
 
  <p align="center">
 
@@ -778,7 +763,7 @@ In the JSON response we can see that for one of the entries platform parameter a
 
  </p>
 
-Note that the 'name' parameter is not used at all in the constraction of url for retrieving the icon.
+Note that the 'name' parameter is not used at all in building a retrieving URL for the icon.
 <!--
 'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
 -->
@@ -790,10 +775,10 @@ Note that the 'name' parameter is not used at all in the constraction of url for
  <li>
  <details>
   <summary>
-   <strong> Icon’s search available straight from the address bar of your browser </strong>
+   <strong> Icon’s Search Available Atraight From the Address Bar of Your Browser </strong>
  </summary>
-  
-For your convenience, [omg-img](http://img.icons8.com/) service architecture allows paying and free customers to browse for new icons directly from browser’s address bar as following: 
+
+[Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
 
  - https://img.icons8.com/home 
  - https://img.icons8.com/house
