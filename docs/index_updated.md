@@ -529,11 +529,10 @@ Requests to the search engine include a set of parameters. These parameters are 
    <li>
    <details>
      <summary>
-       <strong> API key / Token </strong>
+       <strong> API Key / Token </strong>
      </summary>
  
- 
- Personal <b>API key</b> or <b>token</b> is a short code in text format that basically grants you permissions to send requests to both searching and retrieval engines. After we receive a payment from a client we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access)
+ Personal <b>API key</b> or <b>token</b> is a shortcode in text format. This token grants you permission to send requests to searching and retrieval engines. After we receive a payment from a client, we issue an API key. You may proceed with the payment on [this page](https://icons8.recurly.com/subscribe/api_access).
    
    </details>
    
