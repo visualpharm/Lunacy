@@ -31,7 +31,7 @@ The demand for visual content is only getting stronger nowadays. Management of v
 </p> 
   <br>
   
-  On the other hand, you may browse through categorized sets of icons listed on the left pane of the app. Various styles can be further applied. Note that sets of icons available for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
+You may browse through categorized sets of icons listed on the left pane of the app. Various styles can be further applied. Note that sets of icons available for free in SVG are highlighted</b> with <b>"Free SVG"</b> label:
   
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
@@ -54,7 +54,7 @@ Editor tool comes up whenever an icon is clicked:
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_tool_comes_up.png'>
  </p>
  
-The next section grasps the main features of the icons editor.
+<!--The next section grasps the main features of the icons editor.-->
  
    </details>
    
@@ -78,7 +78,7 @@ The next section grasps the main features of the icons editor.
 A group of styles options is displayed within the editor pane. They are the styles applicable to the selected icon. You may quickly change the style of the icon just by clicking on the style of your choice.
  
  <p align="center">
-   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_3_style.png'>
+   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_4_style.png'>
  </p>
   
   <br>
@@ -152,7 +152,7 @@ The <b> stroke effect</b> enhances the prominent features of the icon with the s
  
  <br>
 
-Setup the <b>fill toggle</b> to <b>ON</b> state to fill up the circle with a specific color of your choice.
+Set the <b>fill toggle</b> to <b>"on"</b> state to fill up the circle with a specific color of your choice.
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
@@ -202,7 +202,7 @@ You may drag and drop an <b>SVG</b> icon from the web app or your local file sys
  
   <br>
   
-In addition to drag and drop feature, there are two more option exist to add a new icon to your collection. The first one is to click on <b>add sign</b> within your collection. This will launch the file manager. The manager will further guide you to select an SVG file from your local file system and add it to your collection:
+In addition to drag and drop feature, there are two more option exist to add a new icon to your collection. The first one is to click on <b>"add new"</b> button within your collection. This will launch the file manager. The manager will further guide you to select an SVG file from your local file system and add it to your collection:
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager_2.png'>
@@ -210,14 +210,14 @@ In addition to drag and drop feature, there are two more option exist to add a n
  
   <br>
   
-  The last option to collect an icon is to click on the <b>COLLECT</b> button right in the icon editor:
+  The last option to collect an icon is to click on the <b>"Collect"</b> button right in the icon editor:
     <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_collect.png'>
  </p> 
  
   <br>
   
- To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the trash sign that will come up. A dialog will further guide you to confirm and proceed with the deletion:
+ To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the <b>"trash can"</b> button that will come up. A dialog will further guide you to confirm and proceed with the deletion:
  
  
  <p align="center">
@@ -226,7 +226,7 @@ In addition to drag and drop feature, there are two more option exist to add a n
  
   <br>
   
-To delete the entire collection, hover the mouse cursor over the collection in the list of collections. Click on the trash can icon:
+To delete the entire collection, hover the mouse cursor over the collection in the list of collections. Click on the <b>"trash can"</b> button:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_entire_collection_with_trash_can.png'>
@@ -234,7 +234,7 @@ To delete the entire collection, hover the mouse cursor over the collection in t
 
   <br>
 
-Another way to delete the entire collection or to change its title is to click on the more options icon while you are within a given collection. A menu with two options will show up. The options are: <b>edit the title</b> of the collection and <b>delete the entire collection</b>.
+Another way to delete the entire collection or to change its title is to click on the <b>"more options"</b> button while you are within a given collection. A menu with two options will show up. The options are: <b>"edit title"</b> of the collection and <b>"delete"</b> the entire collection.
 
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_title_or_delete_entire_collection.png'>
@@ -384,7 +384,7 @@ We support the following languages:
 - Spanish
  
  <br>
-Click on the flag icon and choose the language you prefer:
+Click on the "country flag" button and choose the language you prefer:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization_1.png'>
@@ -714,54 +714,33 @@ You may use category attribute to group the results. Pay attention that the serv
    <strong> Retrieval Engine </strong>
  </summary>
 
-[Omg-img](http://img.icons8.com/) service provides free and paid options. Yes, you can search and retrieve icons with omg-img for free. The <b>free</b> option works great for small and simple projects. The <b>paid</b> option lets you craft cutting-edge apps. You may use exactly the same paid token to access both searching and retrieval engines. 
+
  
- <ol>
-  <hr>
+ <ul>
+ <hr>
  <li>
-  
  <details>
   <summary>
    <strong>Free VS Paid </strong>
  </summary>
   
+[Omg-img](http://img.icons8.com/) service provides free and paid options. Yes, you can search and retrieve icons with omg-img for free. The <b>free</b> option works great for small and simple projects. The <b>paid</b> option lets you craft cutting-edge apps. You may use exactly the same paid token to access both searching and retrieval engines. 
+  
 Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Premium options are available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
 
-- access to generate PNG icons larger than 550 px
-- access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>FREE</b>.
-- access to more ['advanced search engine'](#service-integration-framework)  
+- Access to generate PNG icons larger than 550 px
+- Access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>free</b>.
+- Access to more ['advanced search engine'](#service-integration-framework)  
  
  </details>
-</li>
+ </li>
  <hr>
  <li>
-   <details>
-    <summary>
-      <strong> How to Retrieve an Icon for FREE? </strong>
-    </summary>
-    
-It takes a line of code to insert an icon in SVG or PNG format from the CDN to your application of any scale:
- 
- - `<img src=’https://img.icons8.com/search.svg’/>`
- - `<img src=’https://img.icons8.com/search.png’/>`
- 
- <br>
- 
-  Also please note that:
+ <details>
+  <summary>
+   <strong> How to Retrieve an Icon on a Paid Basis? </strong>
+ </summary>
   
- - PNG icons are available in limited size (less than 550px)
- - only popular SVG icons are available for free
- 
-   </details>
- </li> 
- <hr>
- <li>
-   <details>
-    <summary>
-      <strong> How to Retrieve an Icon on a PAID Basis? </strong>
-    </summary>
-     
-     
 The format for retrieving icons via paid requests is as follows: 
 
 - http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=YOURTOKEN
@@ -786,20 +765,37 @@ Take a look onto parameters in the JSON. Platform parameter attains the value "u
  </p>
 
 Note that the 'name' parameter is not used at all in building a retrieving URL for the icon.
-<!--
-'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
--->
  
-   </details>
+ </details>
  </li>
  <hr>
+ <li>
+ <details>
+  <summary>
+   <strong> How to Retrieve an Icon for Free? </strong>
+ </summary>
   
+It takes a line of code to insert an icon in SVG or PNG format from the CDN to your application of any scale:
+ 
+ - `<img src=’https://img.icons8.com/search.svg’/>`
+ - `<img src=’https://img.icons8.com/search.png’/>`
+ 
+ <br>
+ 
+  Also please note that:
+  
+ - PNG icons are available in limited size (less than 550px)
+ - only popular SVG icons are available for free
+ 
+ </details>
+ </li>
+ <hr>
  <li>
  <details>
   <summary>
    <strong> Icon’s Search Available Straight From the Address Bar of Your Browser </strong>
  </summary>
-
+  
 [Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
 
  - https://img.icons8.com/home 
@@ -807,11 +803,10 @@ Note that the 'name' parameter is not used at all in building a retrieving URL f
 - https://img.icons8.com/bungalow
 - https://img.icons8.com/targaryen-house
  
-
+ 
  </details>
-</li>
-<hr>
-  
+ </li>
+ <hr>
  <li>
  <details>
   <summary>
@@ -1043,8 +1038,6 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
    <strong>Licensing</strong>
   </summary>
  
- Paid and free of charge options are available to our clients.
- 
  <ul>
   <hr>
    <li>
@@ -1085,13 +1078,16 @@ Paid option means you have to buy an access token. The token is a short string c
    <strong>Use Cases</strong>
   </summary>
 
-  These are examples of Service Integration usage in production applications by our clients:
+  <!--These are examples of Service Integration usage in production applications by our clients:-->
 
--   **Template customisation:**  <br> [Canva](https://www.canva.com/)
+- Template customization. [Canva](https://www.canva.com/) licensed our icons and photos. Canva users can add them to the artworks they create, paying $1 each.
     
--   **Graphics and text editors:** <br>  [Gravit](https://gravit.io/) 
+- Graphics and text editors. [Gravit](https://gravit.io/) is a cross-platform design tool consuming our API. It allows users to insert our icons into the mockups.
     
--   **Application customisation:** <br>  [TimeTune](http://timetune.center/) 
+- Application customisation. [TimeTune](http://timetune.center/) is another great consumer of our API service. [TimeTune](http://timetune.center/) uses our icons to customize the activities.
+
+
+
 
  </details>
  
@@ -1408,7 +1404,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
 <li>
  <details>
   <summary>
-   <strong> Are there any FRE SVG categories ? </strong>
+   <strong> Are there any FREE SVG categories ? </strong>
  </summary>
 
 The free SVGs are available in these three categories: 
@@ -2017,3 +2013,4 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 </ol> 
 
  </details>
+
