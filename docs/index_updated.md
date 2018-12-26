@@ -640,7 +640,7 @@ The primary language is English. If we do not internationalize something, it wil
        <strong> Amount  </strong>
      </summary>
       
-   This field is the maximum number of icons which you'd like to receive. The default value is 25.
+This field is the largest number of icons which you'd like to receive. The default value is 25.
    
    </details>
    
@@ -653,6 +653,7 @@ The primary language is English. If we do not internationalize something, it wil
      </summary>
       
  This field is the offset from the first received result. The default value is 0.
+ 
    
    </details>
    
@@ -667,11 +668,13 @@ The primary language is English. If we do not internationalize something, it wil
       
 https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
 
-   - Search query: "home"
-   - Amount: "50"
-   - Platform (style): "all"
-   - Language: "US"
-   - Token: "al05i21yfatb4s5eac20c4wr4394b1z2"
+   - search query: "home"
+   - amount: "50"
+   - platform (style): "all"
+   - language: "US"
+   - token: "al05i21yfatb4s5eac20c4wr4394b1z2"
+   
+   <br>
    
    You may use the platform as a filter in your requests.
    
