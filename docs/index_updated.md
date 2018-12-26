@@ -695,8 +695,6 @@ https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platf
    
    </p>
    
-    The metadata attributes helps you further to filter, group and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters can be changed on your own:
-   
 You may use category attribute to group the results. Pay attention that the service will not return the categories which have less than ten icons.
  
    </details>
@@ -1380,8 +1378,7 @@ It takes just a line of code to insert an icon in svg or png format directly fro
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_img_tag.png'>
  </p>
  
- <br>
- Html svg <b>background</b> option:
+ <br>Html svg <b>background</b> option:
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background_2.png'>
@@ -1480,7 +1477,7 @@ Collections provide you the functionality to gather a set of icons. For example,
 <li>
  <details>
   <summary>
-   <strong> How to delete and icon or entire collection?  </strong>
+   <strong> How to Delete an Icon or Entire Collection?  </strong>
  </summary>
   
  <br>
