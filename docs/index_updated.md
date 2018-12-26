@@ -1078,13 +1078,13 @@ Paid option means you have to buy an access token. The token is a short string c
    <strong>Use Cases</strong>
   </summary>
 
-  These are examples of Service Integration usage in production applications by our clients:
+  <!--These are examples of Service Integration usage in production applications by our clients:-->
 
--   **Template customisation:**  <br> [Canva](https://www.canva.com/)
+- Template customization. [Canva](https://www.canva.com/) licensed our icons and photos. Canva users can add them to the artworks they create, paying $1 each.
     
--   **Graphics and text editors:** <br>  [Gravit](https://gravit.io/) 
+- Graphics and text editors. [Gravit](https://gravit.io/) allows to insert our icons into the mockups.
     
--   **Application customisation:** <br>  [TimeTune](http://timetune.center/) 
+- Application customisation. [TimeTune](http://timetune.center/) uses our icons to customize the activities.
 
  </details>
  
@@ -1401,7 +1401,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
 <li>
  <details>
   <summary>
-   <strong> Are there any FRE SVG categories ? </strong>
+   <strong> Are there any FREE SVG categories ? </strong>
  </summary>
 
 The free SVGs are available in these three categories: 
