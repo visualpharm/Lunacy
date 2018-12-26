@@ -152,7 +152,7 @@ The <b> stroke effect</b> enhances the prominent features of the icon with the s
  
  <br>
 
-Setup the <b>fill toggle</b> to <b>ON</b> state to fill up the circle with a specific color of your choice.
+Set the <b>fill toggle</b> to <b>"on"</b> state to fill up the circle with a specific color of your choice.
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/circle_effect_edit_with_fill.png'>
@@ -210,7 +210,7 @@ In addition to drag and drop feature, there are two more option exist to add a n
  
   <br>
   
-  The last option to collect an icon is to click on the <b>COLLECT</b> button right in the icon editor:
+  The last option to collect an icon is to click on the <b>"Collect"</b> button right in the icon editor:
     <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_collect.png'>
  </p> 
@@ -451,7 +451,7 @@ In case you have any question, issue or concern, no matter are you a paying or a
        <strong> Paid Option  </strong>
      </summary>
       
-Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
 
 
 [Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
