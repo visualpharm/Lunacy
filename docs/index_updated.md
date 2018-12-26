@@ -311,7 +311,7 @@ To download a collection you have to select it in the list of collections and cl
    <li>
     <details>
      <summary>
-       <strong> HTML PNG/SVG options </strong>
+       <strong> HTML Options </strong>
      </summary>
 
 <br>  
