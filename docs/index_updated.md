@@ -450,7 +450,7 @@ In case you have any question, issue or concern, no matter are you a paying or a
    <li>
    <details>
      <summary>
-       <strong> PAID option  </strong>
+       <strong> Paid Option  </strong>
      </summary>
       
 Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
@@ -465,14 +465,14 @@ Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file f
    <li>
    <details>
      <summary>
-       <strong> FREE of charge option </strong>
+       <strong> Free of Charge Option </strong>
      </summary>
       
 You are welcome to use icons apps for free for personal or commercial use. In this case, you have to reference us somewhere in an appropriate place of your product. In most cases, it is enough to place a web link pointed to our website's main page. A better option would be to place a link pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.  
 
  <details>
      <summary>
-       <strong> How to setup a link? </strong>
+       <strong> How to Setup a Link? </strong>
      </summary>
 Below is the list of suggested places where you may set up a link:
 
@@ -1028,7 +1028,7 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
    <li>
    <details>
      <summary>
-       <strong> PAID option  </strong>
+       <strong> Paid Option  </strong>
      </summary>
 
 Paid option means you have to buy an access token. The token is a short string code. You embed the token into your requests for searching and retrieval engines. The same token is used to access both engines. The starter API license is $100/month. It includes up to 100K requests to retrieval engine per month. The requests are the actual, non-cached icons downloads.  Every extra 100K requests add $100 more to the monthly plan. You may cache retrieval requests on your side and pay only for actual downloads from our engine. Requests to search engine have no limit within any API plan. No matter how many retrieval requests you've purchased. You may pay for API license on [this page](https://icons8.recurly.com/subscribe/api_access). After we receive payment, we issue an API token for accessing our engines.
@@ -1040,10 +1040,10 @@ Paid option means you have to buy an access token. The token is a short string c
    <li>
    <details>
      <summary>
-       <strong> FREE of charge option </strong>
+       <strong> Free of Charge Option </strong>
      </summary>
       
- There is actually no free option to use our search engine, only the retrieval [omg-img](http://img.icons8.com) engine. However [omg-img](http://img.icons8.com) provides a great deal of opportunities to use <b>both searching and retrieaval absolutely for free</b>.
+ There is no free option to use our dedicated search engine. Only the retrieval [omg-img](http://img.icons8.com) engine can be used for free. However [omg-img](http://img.icons8.com) provides a great deal of opportunities to use <b>both searching and retrieaval absolutely for free</b>.
    <br>
   Few limitations of free of charge option are:
  - png icons are available in limited (<b>less than 550px</b>) size but suitable for a great deal of needs 
