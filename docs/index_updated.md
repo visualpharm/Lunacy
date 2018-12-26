@@ -78,7 +78,7 @@ Editor tool comes up whenever an icon is clicked:
 A group of styles options is displayed within the editor pane. They are the styles applicable to the selected icon. You may quickly change the style of the icon just by clicking on the style of your choice.
  
  <p align="center">
-   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_3_style.png'>
+   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_4_style.png'>
  </p>
   
   <br>
