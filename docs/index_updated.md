@@ -717,9 +717,8 @@ You may use category attribute to group the results. Pay attention that the serv
 
  
  <ul>
-  <hr>
+ <hr>
  <li>
-  
  <details>
   <summary>
    <strong>Free VS Paid </strong>
@@ -734,7 +733,29 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
 - Access to more ['advanced search engine'](#service-integration-framework)  
  
  </details>
-</li>
+ </li>
+ <hr>
+ <li>
+ <details>
+  <summary>
+   <strong> nnn </strong>
+ </summary>
+  
+nnn
+ 
+ </details>
+ </li>
+ <hr>
+ <li>
+ <details>
+  <summary>
+   <strong> nnn </strong>
+ </summary>
+  
+nnn
+ 
+ </details>
+ </li>
  <hr>
  <li>
    <details>
