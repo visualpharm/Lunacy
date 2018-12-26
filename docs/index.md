@@ -3,14 +3,11 @@ This document helps you to get started and succeed with icons apps and API.
 
 # Why Icons8?
 
-The demand for visual content is only getting stronger nowadays. Management of visual content becomes a troublesome task. How to manage icons? How to keep icons up-to date? How to search and access icons any time from anywhere? [Icons8](https://icons8.com) offers simple reliable solutions to cope with all sorts of the challenges.
+The demand for visual content is only getting stronger nowadays. Management of visual content becomes a challenging task. How to manage icons? How to keep them up-to-date? How to search and access icons any time from anywhere? [Icons8](https://icons8.com) offers simple reliable solutions to cope with all sorts of the challenges.
 
 # Which License Do I Need?
 
-
-[Icons apps](https://icons8.com/icons) allow to search and retrieve icons manually through a GUI. Apps have their great pros and apparent cons. They suit for certain area of applications confined with the scope. The other route is to use icons API. Icons API provides an ability to access icons from your code. It drastically changes the game. Now, your end-users can build their visual content from within your apps powered by our API.
-
-
+[Icons apps](https://icons8.com/icons) allow to search and retrieve icons manually through a GUI. The apps have their great pros and clear cons. They suit perfect for certain tasks confined with the scope. The other route is to use icons API. Icons API provides an ability to access icons from your code. It drastically changes the game. Now, your end-users can build their visual content from within your apps powered by our API.
 
 ## Icons Web App
 
@@ -18,9 +15,7 @@ The demand for visual content is only getting stronger nowadays. Management of v
   <summary>
    <strong>Features</strong>
   </summary>
- 
- [Icons web app](https://icons8.com/icons) main features:
-   
+ <!-- [Icons web app](https://icons8.com/icons) main features: -->
   <ul>
     <hr>
    <li>
@@ -316,7 +311,7 @@ To download a collection you have to select it in the list of collections and cl
    <li>
     <details>
      <summary>
-       <strong> HTML PNG/SVG options </strong>
+       <strong> HTML Options </strong>
      </summary>
 
 <br>  
@@ -446,7 +441,7 @@ In case you have any question, issue or concern, no matter are you a paying or a
    <strong>Licensing</strong>
   </summary>
  
- Paid and free of charge options are available to our clients.
+  <!-- Paid and free of charge options are available to our clients. -->
  
  <ul>
   <hr>
@@ -1046,7 +1041,7 @@ Paid option means you have to buy an access token. The token is a short string c
        <strong> Free of Charge Option </strong>
      </summary>
       
- There is actually no free option to use our search engine, only the retrieval [omg-img](http://img.icons8.com) engine. However [omg-img](http://img.icons8.com) provides a great deal of opportunities to use <b>both searching and retrieaval absolutely for free</b>.
+ There is no free option to use our dedicated search engine. Only the retrieval [omg-img](http://img.icons8.com) engine can be used for free. However [omg-img](http://img.icons8.com) provides a great deal of opportunities to use <b>both searching and retrieaval absolutely for free</b>.
    <br>
   Few limitations of free of charge option are:
  - png icons are available in limited (<b>less than 550px</b>) size but suitable for a great deal of needs 
@@ -1068,11 +1063,11 @@ Paid option means you have to buy an access token. The token is a short string c
 
   These are examples of Service Integration usage in production applications by our clients:
 
--   **Template Customisation:**  <br> [Canva](https://www.canva.com/)
+-   **Template customisation:**  <br> [Canva](https://www.canva.com/)
     
--   **Graphics and Text Editors:** <br>  [Gravit](https://gravit.io/) 
+-   **Graphics and text editors:** <br>  [Gravit](https://gravit.io/) 
     
--   **Application Customisation:** <br>  [TimeTune](http://timetune.center/) 
+-   **Application customisation:** <br>  [TimeTune](http://timetune.center/) 
 
  </details>
  
