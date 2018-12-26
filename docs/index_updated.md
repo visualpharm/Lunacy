@@ -15,9 +15,7 @@ The demand for visual content is only getting stronger nowadays. Management of v
   <summary>
    <strong>Features</strong>
   </summary>
- 
- [Icons web app](https://icons8.com/icons) main features:
-   
+ <!-- [Icons web app](https://icons8.com/icons) main features: -->
   <ul>
     <hr>
    <li>
@@ -443,7 +441,7 @@ In case you have any question, issue or concern, no matter are you a paying or a
    <strong>Licensing</strong>
   </summary>
  
- Paid and free of charge options are available to our clients.
+  <!-- Paid and free of charge options are available to our clients. -->
  
  <ul>
   <hr>
