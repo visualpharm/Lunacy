@@ -217,7 +217,7 @@ In addition to drag and drop feature, there are two more option exist to add a n
  
   <br>
   
- To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the trash sign that will come up. A dialog will further guide you to confirm and proceed with the deletion:
+ To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the <b>"trash can"</b> icon that will come up. A dialog will further guide you to confirm and proceed with the deletion:
  
  
  <p align="center">
@@ -226,7 +226,7 @@ In addition to drag and drop feature, there are two more option exist to add a n
  
   <br>
   
-To delete the entire collection, hover the mouse cursor over the collection in the list of collections. Click on the trash can icon:
+To delete the entire collection, hover the mouse cursor over the collection in the list of collections. Click on the <b>"trash can"</b> icon:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_entire_collection_with_trash_can.png'>
