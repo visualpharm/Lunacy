@@ -7,7 +7,10 @@ The demand for visual content is only getting stronger nowadays. Management of v
 
 # Which License Do I Need?
 
-[Icons apps](https://icons8.com/icons) allow our clients to search and retrieve icons through a GUI. Apps have their great pros and apparent cons. They suit for a limited area of application. Another route is to use icons API. Icons API provides an ability to access icons from your code. It drastically changes the game. Now, your end-users can build their visual content from within your apps powered by our API.
+
+[Icons apps](https://icons8.com/icons) allow to search and retrieve icons manually through a GUI. Apps have their great pros and apparent cons. They suit for certain area of applications confined with the scope. The other route is to use icons API. Icons API provides an ability to access icons from your code. It drastically changes the game. Now, your end-users can build their visual content from within your apps powered by our API.
+
+
 
 ## Icons Web App
 
