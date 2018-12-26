@@ -738,10 +738,10 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
  <li>
  <details>
   <summary>
-   <strong> nnn </strong>
+   <strong>  </strong>
  </summary>
   
-nnn
+
  
  </details>
  </li>
@@ -749,42 +749,81 @@ nnn
  <li>
  <details>
   <summary>
-   <strong> nnn </strong>
+   <strong>  </strong>
  </summary>
   
-nnn
+
  
  </details>
  </li>
  <hr>
  <li>
-   <details>
-    <summary>
-      <strong> How to Retrieve an Icon for FREE? </strong>
-    </summary>
-    
-It takes a line of code to insert an icon in SVG or PNG format from the CDN to your application of any scale:
- 
- - `<img src=’https://img.icons8.com/search.svg’/>`
- - `<img src=’https://img.icons8.com/search.png’/>`
- 
- <br>
- 
-  Also please note that:
+ <details>
+  <summary>
+   <strong>  </strong>
+ </summary>
   
- - PNG icons are available in limited size (less than 550px)
- - only popular SVG icons are available for free
+
  
-   </details>
- </li> 
+ </details>
+ </li>
+  <hr>
+ <li>
+ <details>
+  <summary>
+   <strong>  </strong>
+ </summary>
+  
+
+ 
+ </details>
+ </li>
  <hr>
  <li>
-   <details>
-    <summary>
-      <strong> How to Retrieve an Icon on a PAID Basis? </strong>
-    </summary>
-     
-     
+ <details>
+  <summary>
+   <strong>  </strong>
+ </summary>
+  
+
+ 
+ </details>
+ </li>
+ <hr>
+ <li>
+ <details>
+  <summary>
+   <strong>  </strong>
+ </summary>
+  
+
+ 
+ </details>
+ </li>
+  <hr>
+ <li>
+ <details>
+  <summary>
+   <strong> Icon’s Search Available Straight From the Address Bar of Your Browser </strong>
+ </summary>
+  
+[Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
+
+ - https://img.icons8.com/home 
+ - https://img.icons8.com/house
+- https://img.icons8.com/bungalow
+- https://img.icons8.com/targaryen-house
+ 
+ 
+ </details>
+ </li>
+ <hr>
+ <li>
+ <details>
+  <summary>
+   <strong> How to Retrieve an Icon on a PAID Basis? </strong>
+ </summary>
+  
 The format for retrieving icons via paid requests is as follows: 
 
 - http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=YOURTOKEN
@@ -809,34 +848,31 @@ Take a look onto parameters in the JSON. Platform parameter attains the value "u
  </p>
 
 Note that the 'name' parameter is not used at all in building a retrieving URL for the icon.
-<!--
-'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
--->
  
-   </details>
+ </details>
  </li>
- <hr>
- </ul>
- <ol>
  <hr>
  <li>
  <details>
   <summary>
-   <strong> Icon’s Search Available Straight From the Address Bar of Your Browser </strong>
+   <strong> How to Retrieve an Icon for FREE? </strong>
  </summary>
-
-[Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
-
- - https://img.icons8.com/home 
- - https://img.icons8.com/house
-- https://img.icons8.com/bungalow
-- https://img.icons8.com/targaryen-house
- 
-
- </details>
-</li>
-<hr>
   
+It takes a line of code to insert an icon in SVG or PNG format from the CDN to your application of any scale:
+ 
+ - `<img src=’https://img.icons8.com/search.svg’/>`
+ - `<img src=’https://img.icons8.com/search.png’/>`
+ 
+ <br>
+ 
+  Also please note that:
+  
+ - PNG icons are available in limited size (less than 550px)
+ - only popular SVG icons are available for free
+ 
+ </details>
+ </li>
+ <hr>
  <li>
  <details>
   <summary>
