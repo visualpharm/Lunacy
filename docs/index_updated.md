@@ -716,7 +716,7 @@ You may use category attribute to group the results. Pay attention that the serv
 
 
  
- <ol>
+ <ul>
   <hr>
  <li>
   
@@ -729,9 +729,9 @@ You may use category attribute to group the results. Pay attention that the serv
   
 Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Premium options are available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
 
-- access to generate PNG icons larger than 550 px
-- access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>FREE</b>.
-- access to more ['advanced search engine'](#service-integration-framework)  
+- Access to generate PNG icons larger than 550 px
+- Access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>free</b>.
+- Access to more ['advanced search engine'](#service-integration-framework)  
  
  </details>
 </li>
@@ -795,7 +795,9 @@ Note that the 'name' parameter is not used at all in building a retrieving URL f
    </details>
  </li>
  <hr>
-  
+ </ul>
+ <ol>
+ <hr>
  <li>
  <details>
   <summary>
