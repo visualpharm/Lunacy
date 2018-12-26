@@ -769,7 +769,6 @@ Note that the 'name' parameter is not used at all in building a retrieving URL f
  </details>
  </li>
  <hr>
-  <hr>
  <li>
  <details>
   <summary>
@@ -790,6 +789,7 @@ It takes a line of code to insert an icon in SVG or PNG format from the CDN to y
  
  </details>
  </li>
+ <hr>
  <li>
  <details>
   <summary>
