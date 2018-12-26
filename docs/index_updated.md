@@ -1082,9 +1082,12 @@ Paid option means you have to buy an access token. The token is a short string c
 
 - Template customization. [Canva](https://www.canva.com/) licensed our icons and photos. Canva users can add them to the artworks they create, paying $1 each.
     
-- Graphics and text editors. [Gravit](https://gravit.io/) is design tool powered by our API. It allows users to insert our icons into the mockups.
+- Graphics and text editors. [Gravit](https://gravit.io/) is a cross-platform design tool consuming our API. It allows users to insert our icons into the mockups.
     
-- Application customisation. [TimeTune](http://timetune.center/) is another great consumer of our API service. [TimeTune](http://timetune.center/)uses our icons to customize the activities.
+- Application customisation. [TimeTune](http://timetune.center/) is another great consumer of our API service. [TimeTune](http://timetune.center/) uses our icons to customize the activities.
+
+
+
 
  </details>
  
