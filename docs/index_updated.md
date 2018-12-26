@@ -202,7 +202,7 @@ You may drag and drop an <b>SVG</b> icon from the web app or your local file sys
  
   <br>
   
-In addition to drag and drop feature, there are two more option exist to add a new icon to your collection. The first one is to click on <b>add sign</b> within your collection. This will launch the file manager. The manager will further guide you to select an SVG file from your local file system and add it to your collection:
+In addition to drag and drop feature, there are two more option exist to add a new icon to your collection. The first one is to click on <b>"add new"</b> button within your collection. This will launch the file manager. The manager will further guide you to select an SVG file from your local file system and add it to your collection:
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager_2.png'>
@@ -217,7 +217,7 @@ In addition to drag and drop feature, there are two more option exist to add a n
  
   <br>
   
- To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the <b>"trash can"</b> icon that will come up. A dialog will further guide you to confirm and proceed with the deletion:
+ To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the <b>"trash can"</b> button that will come up. A dialog will further guide you to confirm and proceed with the deletion:
  
  
  <p align="center">
@@ -226,7 +226,7 @@ In addition to drag and drop feature, there are two more option exist to add a n
  
   <br>
   
-To delete the entire collection, hover the mouse cursor over the collection in the list of collections. Click on the <b>"trash can"</b> icon:
+To delete the entire collection, hover the mouse cursor over the collection in the list of collections. Click on the <b>"trash can"</b> button:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_entire_collection_with_trash_can.png'>
@@ -234,7 +234,7 @@ To delete the entire collection, hover the mouse cursor over the collection in t
 
   <br>
 
-Another way to delete the entire collection or to change its title is to click on the more options icon while you are within a given collection. A menu with two options will show up. The options are: <b>edit the title</b> of the collection and <b>delete the entire collection</b>.
+Another way to delete the entire collection or to change its title is to click on the <b>"more options"</b> icon while you are within a given collection. A menu with two options will show up. The options are: <b>"edit title"</b> of the collection and <b>"delete"</b> the entire collection.
 
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_title_or_delete_entire_collection.png'>
