@@ -738,89 +738,6 @@ Lots of the [omg-img](http://img.icons8.com/) features are available to our clie
  <li>
  <details>
   <summary>
-   <strong>  </strong>
- </summary>
-  
-
- 
- </details>
- </li>
- <hr>
- <li>
- <details>
-  <summary>
-   <strong>  </strong>
- </summary>
-  
-
- 
- </details>
- </li>
- <hr>
- <li>
- <details>
-  <summary>
-   <strong>  </strong>
- </summary>
-  
-
- 
- </details>
- </li>
-  <hr>
- <li>
- <details>
-  <summary>
-   <strong>  </strong>
- </summary>
-  
-
- 
- </details>
- </li>
- <hr>
- <li>
- <details>
-  <summary>
-   <strong>  </strong>
- </summary>
-  
-
- 
- </details>
- </li>
- <hr>
- <li>
- <details>
-  <summary>
-   <strong>  </strong>
- </summary>
-  
-
- 
- </details>
- </li>
-  <hr>
- <li>
- <details>
-  <summary>
-   <strong> Icon’s Search Available Straight From the Address Bar of Your Browser </strong>
- </summary>
-  
-[Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
-
- - https://img.icons8.com/home 
- - https://img.icons8.com/house
-- https://img.icons8.com/bungalow
-- https://img.icons8.com/targaryen-house
- 
- 
- </details>
- </li>
- <hr>
- <li>
- <details>
-  <summary>
    <strong> How to Retrieve an Icon on a PAID Basis? </strong>
  </summary>
   
@@ -852,6 +769,7 @@ Note that the 'name' parameter is not used at all in building a retrieving URL f
  </details>
  </li>
  <hr>
+  <hr>
  <li>
  <details>
   <summary>
@@ -869,6 +787,22 @@ It takes a line of code to insert an icon in SVG or PNG format from the CDN to y
   
  - PNG icons are available in limited size (less than 550px)
  - only popular SVG icons are available for free
+ 
+ </details>
+ </li>
+ <li>
+ <details>
+  <summary>
+   <strong> Icon’s Search Available Straight From the Address Bar of Your Browser </strong>
+ </summary>
+  
+[Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
+
+ - https://img.icons8.com/home 
+ - https://img.icons8.com/house
+- https://img.icons8.com/bungalow
+- https://img.icons8.com/targaryen-house
+ 
  
  </details>
  </li>
