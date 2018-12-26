@@ -666,6 +666,14 @@ The primary language is English. If we do not internationalize something, it wil
      </summary>
       
 https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+
+   - Search query: "home"
+   - Amount: "50"
+   - Platform (style): "all"
+   - Language: "US"
+   - Token: "al05i21yfatb4s5eac20c4wr4394b1z2"
+   
+   You may use the platform as a filter in your requests.
    
    </details>
    
@@ -677,16 +685,24 @@ https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platf
        <strong> Sample Response </strong>
      </summary>
       
+ <p align="center">
+       
  |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
 |----------|--------|
    
+   </p>
+   
+    The metadata attributes helps you further to filter, group and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters can be changed on your own:
+   
+You may use category attribute to group the results. Pay attention that the service will not return the categories which have less than ten icons.
+ 
    </details>
    
    </li>
    <hr>
    </ul>
  
-You can filter results with style/platform and then group the results with the use of categories. In response to a search query to our <b>Search Engine of Version 4.0</b>, you get back a JSON file with metadata. The metadata is a set of structured elements most relevant to the initial search query. Each element has a set of attributes. Icon category is one of those attributes. You may use this attribute to categorize the results. Pay attention that the <b>Search Engine</b> will not return the categories which have less than ten icons.
+
 
  
  
