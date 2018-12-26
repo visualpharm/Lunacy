@@ -384,7 +384,7 @@ We support the following languages:
 - Spanish
  
  <br>
-Click on the flag icon and choose the language you prefer:
+Click on the "country flag" button and choose the language you prefer:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization_1.png'>
