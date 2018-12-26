@@ -31,7 +31,7 @@ The demand for visual content is only getting stronger nowadays. Management of v
 </p> 
   <br>
   
-  On the other hand, you may browse through categorized sets of icons listed on the left pane of the app. Various styles can be further applied. Note that sets of icons available for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
+You may browse through categorized sets of icons listed on the left pane of the app. Various styles can be further applied. Note that sets of icons available for free in SVG are highlighted</b> with <b>"Free SVG"</b> label:
   
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
