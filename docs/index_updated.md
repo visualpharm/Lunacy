@@ -54,7 +54,7 @@ Editor tool comes up whenever an icon is clicked:
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_tool_comes_up.png'>
  </p>
  
-The next section grasps the main features of the icons editor.
+<!--The next section grasps the main features of the icons editor.-->
  
    </details>
    
