@@ -3,7 +3,7 @@ This document helps you to get started and succeed with icons apps and API.
 
 # Why Icons8?
 
-The demand for visual content is only getting stronger nowadays. Management of visual content becomes a troublesome task. How to manage icons? How to keep icons up-to date? How to search and access icons any time from anywhere? [Icons8](https://icons8.com) offers simple reliable solutions to cope with all sorts of the challenges.
+The demand for visual content is only getting stronger nowadays. Management of visual content becomes a challenging task. How to manage icons? How to keep them up-to-date? How to search and access icons any time from anywhere? [Icons8](https://icons8.com) offers simple reliable solutions to cope with all sorts of the challenges.
 
 # Which License Do I Need?
 
