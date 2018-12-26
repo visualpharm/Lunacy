@@ -714,7 +714,7 @@ You may use category attribute to group the results. Pay attention that the serv
    <strong> Retrieval Engine </strong>
  </summary>
 
-[Omg-img](http://img.icons8.com/) service provides free and paid options. Yes, you can search and retrieve icons with omg-img for free. The <b>free</b> option works great for small and simple projects. The <b>paid</b> option lets you craft cutting-edge apps. You may use exactly the same paid token to access both searching and retrieval engines. 
+
  
  <ol>
   <hr>
@@ -724,6 +724,8 @@ You may use category attribute to group the results. Pay attention that the serv
   <summary>
    <strong>Free VS Paid </strong>
  </summary>
+  
+[Omg-img](http://img.icons8.com/) service provides free and paid options. Yes, you can search and retrieve icons with omg-img for free. The <b>free</b> option works great for small and simple projects. The <b>paid</b> option lets you craft cutting-edge apps. You may use exactly the same paid token to access both searching and retrieval engines. 
   
 Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Premium options are available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
 
@@ -1042,8 +1044,6 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
   <summary>
    <strong>Licensing</strong>
   </summary>
- 
- Paid and free of charge options are available to our clients.
  
  <ul>
   <hr>
