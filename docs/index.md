@@ -451,7 +451,7 @@ In case you have any question, issue or concern, no matter are you a paying or a
        <strong> Paid Option  </strong>
      </summary>
       
-Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
 
 
 [Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
@@ -517,13 +517,20 @@ Below is the list of suggested places where you may set up a link:
   
  <!--## Overview-->
  
- 
-   
-Requests to the search engine include a set of parameters. These parameters are concatenated one after another in a row in the order that can be changed on your own:
-
-
   <ul>
     <hr>
+    <li>
+   <details>
+     <summary>
+       <strong> How it Works? </strong>
+     </summary> 
+   
+The engine is a dedicated service. It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. The metadata attributes helps you further to filter, group and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters can be changed on your own:
+   
+   </details>
+   
+   </li>
+   <hr>
    <li>
    <details>
      <summary>
@@ -633,7 +640,7 @@ The primary language is English. If we do not internationalize something, it wil
        <strong> Amount  </strong>
      </summary>
       
-   This field is the maximum number of icons which you'd like to receive. The default value is 25.
+This field is the largest number of icons which you'd like to receive. The default value is 25.
    
    </details>
    
@@ -646,6 +653,7 @@ The primary language is English. If we do not internationalize something, it wil
      </summary>
       
  This field is the offset from the first received result. The default value is 0.
+ 
    
    </details>
    
@@ -659,6 +667,16 @@ The primary language is English. If we do not internationalize something, it wil
      </summary>
       
 https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=al05i21yfatb4s5eac20c4wr4394b1z2. 
+
+   - search query: "home"
+   - amount: "50"
+   - platform (style): "all"
+   - language: "US"
+   - token: "al05i21yfatb4s5eac20c4wr4394b1z2"
+   
+   <br>
+   
+   You may use the platform as a filter in your requests.
    
    </details>
    
@@ -670,16 +688,22 @@ https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platf
        <strong> Sample Response </strong>
      </summary>
       
+ <p align="center">
+       
  |<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_1.png'>|<img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/v4_Search_JSON_2.png'>|
 |----------|--------|
    
+   </p>
+   
+You may use category attribute to group the results. Pay attention that the service will not return the categories which have less than ten icons.
+ 
    </details>
    
    </li>
    <hr>
    </ul>
  
-You can filter results with style/platform and then group the results with the use of categories. In response to a search query to our <b>Search Engine of Version 4.0</b>, you get back a JSON file with metadata. The metadata is a set of structured elements most relevant to the initial search query. Each element has a set of attributes. Icon category is one of those attributes. You may use this attribute to categorize the results. Pay attention that the <b>Search Engine</b> will not return the categories which have less than ten icons.
+
 
  
  
@@ -1354,8 +1378,7 @@ It takes just a line of code to insert an icon in svg or png format directly fro
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_img_tag.png'>
  </p>
  
- <br>
- Html svg <b>background</b> option:
+ <br>Html svg <b>background</b> option:
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background_2.png'>
@@ -1454,7 +1477,7 @@ Collections provide you the functionality to gather a set of icons. For example,
 <li>
  <details>
   <summary>
-   <strong> How to delete and icon or entire collection?  </strong>
+   <strong> How to Delete an Icon or Entire Collection?  </strong>
  </summary>
   
  <br>
