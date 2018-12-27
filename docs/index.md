@@ -502,6 +502,9 @@ Below is the list of suggested places where you may set up a link:
  </details> 
  
 ## Desktop Apps
+
+[Desktop Apps](https://icons8.com/app) are Windows and IOS icons apps. The main idea behind the desktop apps is to provide offline access to our icons. Download it once and use it offline side by side with design tools of your choice. Ease of search and ease of use! Drag and drop icons from the app right into your design. It is that simple and effective! Take your dev process to the next level with our desktop apps!
+
 ## Icons API
 
 <!--The framework consist of <b>search engine</b> that allows to programmatically search for icons metadata and icons <b>retrieval service</b> which utilizes that metadata to actually retrieve icons in various formats, styles, colours, sizes etc. Click on the collapsable items below to read more about each of the topics:-->
