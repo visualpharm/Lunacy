@@ -454,7 +454,7 @@ In case you have any question, issue or concern, no matter are you a paying or a
 Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
 
 
-[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
+[Monthly subscription would cost you 19.95$ and annual just 199.90$](https://icons8.com/paid-license-99/#/). 
    
    </details>
    
@@ -503,7 +503,7 @@ Below is the list of suggested places where you may set up a link:
  
 ## Desktop Apps
 
-[Desktop Apps](https://icons8.com/app) are Windows and IOS icons apps. The main idea behind the desktop apps is to provide offline access to our icons. Download it once and use it offline side by side with design tools of your choice. Ease of search and ease of use! Drag and drop icons from the app right into your design. It is that simple and effective! Take your dev process to the next level with our desktop apps!
+[Desktop Apps](https://icons8.com/app) are Windows and Mac icons apps. The main idea behind the desktop apps is to provide offline access to our icons. Download it once and use it offline side by side with design tools of your choice. Ease of search and ease of use! Drag and drop icons from the app right into your design. It is that simple and effective! Take your dev process to the next level with our desktop apps!
 
 ## Icons API
 
@@ -1114,7 +1114,7 @@ Paid option means you have to buy an access token. The token is a short string c
 Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
 
 
-[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
+[Monthly subscription would cost you 19.95$ and annual just 199.90$](https://icons8.com/paid-license-99/#/). 
 
  </details> 
 </li> 
@@ -1141,7 +1141,7 @@ You are welcome to use icons apps for free. For personal or commercial use. Howe
 Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
 
 
-[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/).  
+[Monthly subscription would cost you 19.95$ and annual just 199.90$](https://icons8.com/paid-license-99/#/).  
 
  </details>
   <hr>
