@@ -1105,6 +1105,7 @@ Paid option means you have to buy an access token. The token is a short string c
  
  <br>
  <ol> 
+  <hr>
   <li>
  <details>
   <summary>
@@ -1691,6 +1692,7 @@ A group of styles options is displayed within the editor pane. They are the styl
  
  <br>
  <ol>
+  <hr>
   <li>
    <details>
     <summary>
