@@ -1122,7 +1122,9 @@ Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file f
    <strong> Free License </strong>
  </summary>
   
-You are welcome to use icons apps for free. For personal or commercial use. However it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.
+You are welcome to use icons apps for free. For personal or commercial use. However, it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases, it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.
+
+
 
  </details> 
  </li>
@@ -1130,7 +1132,7 @@ You are welcome to use icons apps for free. For personal or commercial use. Howe
  <li>
  <details>
   <summary>
-   <strong>Can I use downloaded icons after my subscription is expired?</strong>
+   <strong>Can I Use Downloaded Icons After my Subscription is Expired?</strong>
  </summary>
   
 Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
@@ -1144,17 +1146,18 @@ Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file f
  <li>
  <details>
   <summary>
-   <strong>How can I purchase just a single icon?</strong>
+   <strong>How Can I Purchase Just a Single Icon?</strong>
  </summary>
   
-Unfortunately we do not have such an option at the moment. The best solution would be to purchase a subscription for a month, then download as many icons as you need and eventually cancel the subscription. You truly may cancel your subscription at any time, no hidden costs, no tricks no stuff like that. After your subscription is canceled you may continue to use your icons in current or future commercial projects. These icons stay yours for good. Though there are few restrictions are applied: https://icons8.com/download/Icons8_License.pdf
+Unfortunately, we do not have such an option at the moment. The best solution would be to purchase a subscription for a month. Then download as many icons as you need. And eventually, cancel the subscription. You honestly may cancel your subscription at any time, no hidden costs, no tricks, no stuff like that. After your subscription is canceled you may continue to use your icons in current or future commercial projects. These icons stay yours for good. Though, there are few restrictions applied: https://icons8.com/download/Icons8_License.pdf
+
  </details>
 </li>
 <hr>
 <li>
  <details>
   <summary>
-   <strong> How to set up a link? </strong>
+   <strong> How to Set up a Link? </strong>
  </summary>
    
 Below is the list of suggested places where you may set up a link:
@@ -1186,9 +1189,10 @@ Below is the list of suggested places where you may set up a link:
 <li>
  <details>
   <summary>
-   <strong> Which languages are supported? </strong>
+   <strong> Which Languages are Supported? </strong>
  </summary>
   
+   
 We support the following languages:
 
 - Chinese
@@ -1200,13 +1204,14 @@ We support the following languages:
 - Portuguese
 - Russian
 - Spanish
-
+ 
  <br>
-Click on the flag icon and choose the language you prefer:
+Click on the "country flag" button and choose the language you prefer:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/internalization_1.png'>
- </p> 
+ </p>
+  
  
  </details> 
 </li> 
@@ -1214,10 +1219,11 @@ Click on the flag icon and choose the language you prefer:
 <li>
  <details>
   <summary>
-   <strong> Do you provide technical support? </strong>
+   <strong> Do you Provide Technical Support? </strong>
  </summary>
   
-  In case you have any question, issue or concern, no matter are you a paying or a free customer you are the most welcome to contact our freindly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
+  
+In case you have any question, issue or concern, no matter are you a paying or a free customer you are the most welcome to contact our friendly support team. We are completely customer service oriented, what means we are oriented on helping to people! It is that simple! Just try us out!
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/tech_support_2.png'>
@@ -1229,26 +1235,25 @@ Click on the flag icon and choose the language you prefer:
 <li>
  <details>
   <summary>
-   <strong> How to search for an icon? </strong>
+   <strong> How to Search for an Icon? </strong>
  </summary>
   
     
-   <br>
-  Searching is accomplished by entering a search query in the search bar as demonstrated below and pressing enter key / search button. The most relevant icons set shows up. While entering search queries, you may quickly vary icons styles, by selecting a style from the drop down menu. You have an option to view plain icons only as well as icons with titles just by toggling an approprite switch button on the top right of the screen:
+  Enter a search query in the search bar and press enter key/search button. The most relevant icons set shows up. You may quickly vary icons styles, by selecting a style from the drop-down menu. Toggle switch button on the top right of the screen to switch between plain icons view and the icons view with titles:
 <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
 </p> 
   <br>
   
-  Alternatively searching could be accomplished by browsing through categorized sets of icons listed on the left pane of the app and at the same time by applying various styles as it is shown below. Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
- 
+You may browse through categorized sets of icons listed on the left pane of the app. Various styles can be further applied. Note that sets of icons available for free in SVG are highlighted</b> with <b>"Free SVG"</b> label:
+  
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
    </p>
  
- 
   <br>
-  While browsing icons within the categorized sets you may quickly try out various styles by selecting a style from the drop down menu: 
+  
+ Quickly try out various styles by selecting a style from the drop-down menu: 
   
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/quick_change_of_styles.png'>
@@ -1260,7 +1265,7 @@ Click on the flag icon and choose the language you prefer:
 <li>
  <details>
   <summary>
-   <strong> How to Edit / Format an icon ? </strong>
+   <strong> How to Edit / Format an Icon ? </strong>
  </summary>
 
    Editing and formatting tools show up whenever an icon from the list is clicked:
@@ -1295,7 +1300,7 @@ Click on the flag icon and choose the language you prefer:
 <li>
  <details>
   <summary>
-   <strong> How to download an Icon? </strong>
+   <strong> How to Download an Icon? </strong>
  </summary>
      
    <br>
@@ -1342,7 +1347,7 @@ There is an option to download selected icon in multiple sizes at once as a zip 
 <li>
  <details>
   <summary>
-   <strong> How to embed an icon via HTML ? </strong>
+   <strong> How to Embed an Icon via HTML ? </strong>
  </summary> 
 
 <br>  
@@ -1406,7 +1411,7 @@ Once you've got an Icons8 account, you’ll be able to login into any of our pro
 <li>
  <details>
   <summary>
-   <strong> Are there any FREE SVG categories ? </strong>
+   <strong> Are There any Free SVG Categories ? </strong>
  </summary>
 
 The free SVGs are available in these three categories: 
@@ -1434,7 +1439,7 @@ Note that sets of icons available <b>for free in SVG are highlighted</b> with <b
 <li>
  <details>
   <summary>
-   <strong> Can I use an icon as a Logo? </strong>
+   <strong> Can I Use an Icon as a Logo? </strong>
  </summary>
   
 No problem, if you are using it for free please put a link to us somewhere in your project. If you want to edit it, please buy a license. Also, paid usage doesn't require linking us. 
@@ -1445,7 +1450,7 @@ No problem, if you are using it for free please put a link to us somewhere in yo
 <li>
  <details>
   <summary>
-   <strong> Can I download many icons at once? </strong>
+   <strong> Can I Download Many Icons at Once? </strong>
  </summary>
   
 Yes, you can use collections for that.
@@ -1508,7 +1513,7 @@ Another way to delete the entire collection or change its title is to click on t
 <li>
  <details>
   <summary>
-   <strong> How to add an icon to a collection ? </strong>
+   <strong> How to Add an Icon to a Collection ? </strong>
  </summary>
   
 Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. Icons can be added into a collection just by dragging and dropping it or just by pressing on a special label in the upper right corner of the outer space surrounding each icon when mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
@@ -1537,7 +1542,7 @@ In addidtion to drag and drop feature you may add new icons to collection by pre
 <li>
  <details>
   <summary>
-   <strong> How can I edit a title of a collection ? </strong>
+   <strong> How Can I Edit a Title of a Collection ? </strong>
  </summary>
   
  <br>
@@ -1553,7 +1558,7 @@ In order to edit a title of a collection click on the more options icon while yo
 <li>
  <details>
   <summary>
-   <strong> What is the maximum number of icons that I can add to my collection ? </strong>
+   <strong> What is the Largest Number of Icons That I Can Add to my Collection ? </strong>
  </summary>
   
 You may create multiple collections with the 1000 icons limit per collection.
@@ -1564,7 +1569,7 @@ You may create multiple collections with the 1000 icons limit per collection.
 <li>
  <details>
   <summary>
-   <strong> Can I add icons from my file system into my web app collection? </strong>
+   <strong> Can I Add Icons From my File System Into my Web App Collection? </strong>
  </summary>
    
 You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. Please note that only files in SVG format can be added to your collection.
@@ -1579,7 +1584,7 @@ You may drag and drop an <b>svg</b> icon from web app or from your local file sy
 <li>
  <details>
   <summary>
-   <strong> What should I do if I can not find an icon that I need? </strong>
+   <strong> What Should I Do if I Can not Find an Icon That I Need? </strong>
  </summary>
   
 You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
@@ -1593,7 +1598,7 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
 <li>
  <details>
   <summary>
-   <strong> What are icon editing options / effects are available ? </strong>
+   <strong> What Are the Icon Editing Options Available ? </strong>
  </summary>
   
   Editing and formatting tools show up whenever an icon from the list is clicked:
@@ -1621,7 +1626,7 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
 <li>
  <details>
   <summary>
-   <strong> How can I delete an icon from my collection ? </strong>
+   <strong> How Can I Delete an Icon From my Collection ? </strong>
  </summary>
   
  To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
@@ -1684,7 +1689,7 @@ The endpoint is the URL. Use this URL to access our API from your application.
    <strong>Why Icon Size is not in JSON? Why Pixel Perfect?</strong>
  </summary> 
 
-Notice, the icons that we have are of a vector format. That is why they could be of any size. For this reason we do not include the icon's size in the metadata of response from the search engine. You merely can substitute any value for size parameter in request of a retrieval service. In response, you'll receive the corresponding PNG icon of the size that you requested. For icons retrieval, we use [omg-img](http://img.icons8.com/) service. To retrieve an icon you embed your API TOKEN right into your request http://img.icons8.com/ios/F0AC34/search.svg?token=YOURTOKEN. You may change the order of parameters in your request. Also keep in mind that due to the conversion of SVG into PNG, the "pixel perfect" come into play. There is a way to eliminate the artifacts of format conversion from vector to raster. There is an appropriate size for each platform which you can then multiply by various factors like 1x, 2x, 3x, etc. to get the PNG size you need.
+Notice, the icons that we have are of a vector format. That is why they could be of any size. For this reason we do not include the icon's size in the metadata of response from the search engine. You merely can substitute any value for size parameter in request of a retrieval service. In response, you'll receive the corresponding PNG icon of the size that you requested. For icons retrieval, we use [omg-img](http://img.icons8.com/) service. To retrieve an icon you embed your API token right into your request http://img.icons8.com/ios/F0AC34/search.svg?token=YOURTOKEN. You may change the order of parameters in your request. Also keep in mind that due to the conversion of SVG into PNG, the "pixel perfect" come into play. There is a way to eliminate the artifacts of format conversion from vector to raster. There is an appropriate size for each platform which you can then multiply by various factors like 1x, 2x, 3x, etc. to get the PNG size you need.
 
  </details> 
 </li>
