@@ -823,7 +823,7 @@ Free customers may use our web app as a free tool to search and full paths to th
 <br>
 Then click on the icon you'd like to use. When the editor shows up click on the "HTML" button:
   <p align="center">
-   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_html_1'>
  </p>
  
  <br>
@@ -990,7 +990,7 @@ In case <b>if you are planning to use an icon longterm</b>, the best solution wo
 <br>
 Then click on the icon you'd like to use. When the editor shows up click on the "HTML" button:
   <p align="center">
-   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_html_1'>
  </p>
  
  <br>
@@ -1829,7 +1829,7 @@ Free customers may use our web app as a free tool to search and full paths to th
 <br>
 Then click on the icon you'd like to use. When the editor shows up click on the "HTML" button:
   <p align="center">
-   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_html_1'>
  </p>
  
  <br>
@@ -1996,7 +1996,7 @@ In case <b>if you are planning to use an icon longterm</b>, the best solution wo
 <br>
 Then click on the icon you'd like to use. When the editor shows up click on the "HTML" button:
   <p align="center">
-   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+   <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_html_1'>
  </p>
  
  <br>
