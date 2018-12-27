@@ -1275,10 +1275,10 @@ You may browse through categorized sets of icons listed on the left pane of the 
  </p>
  
   <br>
- A group of styles options applicable to the selected icon provide you with ability to quickly change the style of the icon you've just selected just by clicking on the style of your choice.
+A group of styles options is displayed within the editor pane. They are the styles applicable to the selected icon. You may quickly change the style of the icon just by clicking on the style of your choice.
  
  <p align="center">
-   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_3_style.png'>
+   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_4_style.png'>
  </p>
   
   <br>
@@ -1303,15 +1303,23 @@ You may browse through categorized sets of icons listed on the left pane of the 
    <strong> How to Download an Icon? </strong>
  </summary>
      
-   <br>
-   Icon downloading feature is available from the main icon editor pane which in turn come up whenever an icon is clicked. When the download button is clicked the following screen shows up:
-   
+  Icon downloading feature is available from the main icon editor pane. Click on the download button to open the download window: 
+  
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_download.png'>
+ </p>   
+ 
+ <br>
+
+ The following window comes up:
+ 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_2.png'>
  </p>
  
  <br>
- Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Free customers are allowed to download icons in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are available in all formats, including SVG for both paying and free customers.
+ 
+ Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Free customers are allowed to download icons in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/free_user_download.png'>
@@ -1319,22 +1327,23 @@ You may browse through categorized sets of icons listed on the left pane of the 
 
 <br>
 
-The icon download pane displays a pixel perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x etc. to get <b>sharpy</b> .png icons in various sizes. You may choose one of the predefined sizes or specify your custom size.
+The icon download pane displays a pixel-perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x and so forth. This way you get sharp PNG icons in multiple sizes. You may choose one of the predefined sizes or specify your custom size.
 
-There is an option to download selected icon in multiple sizes at once as a zip file. To achieve this you have to select the desired sizes with <b>ctrl</b> or <b>cmd</b> key pressed and click on the <b>download</b> button.
+There is an option to download selected icon in multiple sizes at once as a zip file. To achieve this, you have to choose the desired sizes with <b>ctrl</b>, or <b>cmd</b> key pressed and click on the download button.
   
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_multiple_edit_1.jpg'>
  </p> 
  
  <br>
-   In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
  
-- PNG - download collection as a set of <b>png</b> icons
+To download a collection you have to select it in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
+ 
+- PNG - download collection as a set of <b>PNG</b> icons
 - FONT - generate <b>font</b> from the collection and download it
-- SVG - download <b>svg sprite</b> or zip with <b>individual svg's</b>
-- EPS - download collection icons in <b>eps</b> format
-- PDF - download collection icons in <b>pdf</b> format
+- SVG - download <b>SVG sprite</b> or ZIP with <b>individual SVG's</b>
+- EPS - download collection icons in <b>EPS</b> format
+- PDF - download collection icons in <b>PDF</b> format
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_collection.png'>
@@ -1350,11 +1359,15 @@ There is an option to download selected icon in multiple sizes at once as a zip 
    <strong> How to Embed an Icon via HTML ? </strong>
  </summary> 
 
-<br>  
-As an alternative to icons download we offer quite a few options to get the icons right into you app of any scale via <b>html</b>. Just press the <b>HTML</b> button from the editor screen and a screen with HTML options will come up:
+We have alternative options to icons download. With these options, you get the icons right into your app of any scale via <b>HTML</b>. To get started click on the <b>HTML</b> button from the editor screen:
+
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_html_1.png'>
+ </p>
+
      
 <br> 
-It takes just a line of code to insert an icon in svg or png format directly from the <b>CDN</b> to your application of any scale:
+A window with HTML options will come up. With the first option it takes just a line of code to insert an icon in SVG or PNG format directly from <b>CDN</b> to your application of any scale:
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
@@ -1368,20 +1381,21 @@ It takes just a line of code to insert an icon in svg or png format directly fro
  </p>
  
  <br> 
- Inline <b>svg</b> option:
+ Inline <b>SVG</b> option:
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_inline.png'>
  </p>
   
  <br>
- Html svg <b>img tag</b> option:
+ Html SVG <b>img tag</b> option:
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_img_tag.png'>
  </p>
  
- <br>Html svg <b>background</b> option:
+ <br>
+ Html SVG <b>background</b> option:
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_background_2.png'>
@@ -1397,7 +1411,6 @@ It takes just a line of code to insert an icon in svg or png format directly fro
    <strong> Login / Logout </strong>
  </summary>
   
-
 Once you've got an Icons8 account, you’ll be able to login into any of our product including our web app.
   
  <p align="center">
@@ -1426,11 +1439,12 @@ Free icon sets for websites and UX design:
 
 Characters and logos don’t require linking. Everything else does!
   
-Note that sets of icons available <b>for free in SVG are highlighted</b> with <b>FREE SVG</b> label:
-
-<p align="center">
+Note that sets of icons available for free in SVG are highlighted</b> with <b>"Free SVG"</b> label:
+  
+   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_by_categories_and_Styles.png'>
-</p>
+   </p>
+ 
  
 
  </details> 
@@ -1461,13 +1475,13 @@ Collections provide you the functionality to gather a set of icons. For example,
 - a collection for creating a font or SVG set (for paid users)
 
 <br>
-   In order to download a collection you have to select the collection in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
+To download a collection you have to select it in the list of collections and click on download button.  From the download screen you have several output options for your collection. These output options are:
  
-- PNG - download collection as a set of <b>png</b> icons
+- PNG - download collection as a set of <b>PNG</b> icons
 - FONT - generate <b>font</b> from the collection and download it
-- SVG - download <b>svg sprite</b> or zip with <b>individual svg's</b>
-- EPS - download collection icons in <b>eps</b> format
-- PDF - download collection icons in <b>pdf</b> format
+- SVG - download <b>SVG sprite</b> or ZIP with <b>individual SVG's</b>
+- EPS - download collection icons in <b>EPS</b> format
+- PDF - download collection icons in <b>PDF</b> format
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/download_collection.png'>
@@ -1601,10 +1615,17 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
    <strong> What Are the Icon Editing Options Available ? </strong>
  </summary>
   
-  Editing and formatting tools show up whenever an icon from the list is clicked:
+   Editing and formatting tools show up whenever an icon from the list is clicked:
    
   <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
+ </p>
+ 
+  <br>
+A group of styles options is displayed within the editor pane. They are the styles applicable to the selected icon. You may quickly change the style of the icon just by clicking on the style of your choice.
+ 
+ <p align="center">
+   <img  src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_4_style.png'>
  </p>
   
   <br>
