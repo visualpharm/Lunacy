@@ -1497,8 +1497,7 @@ To download a collection you have to select it in the list of collections and cl
    <strong> How to Delete an Icon or Entire Collection?  </strong>
  </summary>
   
- <br>
- To delete an icon from a collection, hover the mouse cursor over the icon. Click on the trash can sign that will come up. A dialog will further guide you to confirm and proceed with the deletion:
+ To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the <b>"trash can"</b> button that will come up. A dialog will further guide you to confirm and proceed with the deletion:
  
  
  <p align="center">
@@ -1507,19 +1506,19 @@ To download a collection you have to select it in the list of collections and cl
  
   <br>
   
-You may delete the entire collection just by hovering the mouse cursor over the collection in the list of collections and clicking on the trash can icon:
+To delete the entire collection, hover the mouse cursor over the collection in the list of collections. Click on the <b>"trash can"</b> button:
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_entire_collection_with_trash_can.png'>
  </p>
 
   <br>
-Another way to delete the entire collection or change its title is to click on the more options icon while you are within a given collection. A menu with two options will show up: <b>edit title</b> of the collection and <b>delete</b> the entire collection:
+
+Another way to delete the entire collection or to change its title is to click on the <b>"more options"</b> button while you are within a given collection. A menu with two options will show up. The options are: <b>"edit title"</b> of the collection and <b>"delete"</b> the entire collection.
 
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_title_or_delete_entire_collection.png'>
  </p>
- 
 
  </details> 
 </li> 
@@ -1530,25 +1529,34 @@ Another way to delete the entire collection or change its title is to click on t
    <strong> How to Add an Icon to a Collection ? </strong>
  </summary>
   
-Collections is the best way to orgonize the icons you like into certain groups for further applications. You may create multiple collections with the 1000 icons limit per collection. Icons can be added into a collection just by dragging and dropping it or just by pressing on a special label in the upper right corner of the outer space surrounding each icon when mouse cursor is over the icon. This is demonstrated on the screenshot below. Notice that red labels indicate that current icon is already added into your collection. 
+Collections are the best way to organize the icons you like. Collections help you to group certain icons for further applications. You may create many collections with the 1000 icons limit per collection. An icon can be added to a collection by dragging and dropping it. Another way to add an icon to a collection is by pressing on a special label. This label is located in the upper right corner of the outer space surrounding each icon. The label becomes visible when the mouse cursor is hovering the icon.  Note that the red label states that the current icon is already added into your collection.
   
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/add_icons_to_collection.png'>
  </p>
  
  <br>
-You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. 
+
+You may drag and drop an <b>SVG</b> icon from the web app or your local file system right into your collection. Please note that only files in SVG format can be added to your collection. 
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
  </p>
  
   <br>
-In addidtion to drag and drop feature you may add new icons to collection by pressing <b>add sign</b> within your collection. This will launch file manager which will guide you through the procedure of selecting an svg file from your local file system and adding it to the collection: 
+  
+In addition to drag and drop feature, there are two more option exist to add a new icon to your collection. The first one is to click on <b>"add new"</b> button within your collection. This will launch the file manager. The manager will further guide you to select an SVG file from your local file system and add it to your collection:
  
   <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Collection_FileManager_2.png'>
  </p>
+ 
+  <br>
+  
+  The last option to collect an icon is to click on the <b>"Collect"</b> button right in the icon editor:
+    <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_start_collect.png'>
+ </p> 
 
  </details> 
 </li> 
@@ -1560,7 +1568,7 @@ In addidtion to drag and drop feature you may add new icons to collection by pre
  </summary>
   
  <br>
-In order to edit a title of a collection click on the more options icon while you are within a given collection. A menu with two options will show up: <b>edit title</b> of the collection and <b>delete</b> the entire collection:
+In order to edit a title of a collection click on the <b>"more options"</b> button while you are within a given collection. A menu with two options will show up. The options are: <b>"edit title"</b> of the collection and <b>"delete"</b> the entire collection.
 
    <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/edit_title_or_delete_entire_collection.png'>
@@ -1586,7 +1594,7 @@ You may create multiple collections with the 1000 icons limit per collection.
    <strong> Can I Add Icons From my File System Into my Web App Collection? </strong>
  </summary>
    
-You may drag and drop an <b>svg</b> icon from web app or from your local file system right into the collection. Please note that only files in SVG format can be added to your collection.
+You may drag and drop an <b>SVG</b> icon from the web app or your local file system right into your collection. Please note that only files in SVG format can be added to your collection. 
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/collections_drag_and_drop.png'>
@@ -1601,9 +1609,9 @@ You may drag and drop an <b>svg</b> icon from web app or from your local file sy
    <strong> What Should I Do if I Can not Find an Icon That I Need? </strong>
  </summary>
   
-You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
+You may send us a [request](https://icons8.com/request-icon/) to draw an icon you need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However, we do prioritize the requests which have the highest demand. Be creative, ask your friends, relatives, and any community members to vote for your requested icon to put your request higher on the queue.
 
-Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/)
+Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/).
 
 
  </details> 
@@ -1615,7 +1623,7 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
    <strong> What Are the Icon Editing Options Available ? </strong>
  </summary>
   
-   Editing and formatting tools show up whenever an icon from the list is clicked:
+  Editing and formatting tools show up whenever an icon from the list is clicked:
    
   <p align="center">
    <img   src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/editor_main_2.png'>
@@ -1650,12 +1658,13 @@ A group of styles options is displayed within the editor pane. They are the styl
    <strong> How Can I Delete an Icon From my Collection ? </strong>
  </summary>
   
- To delete an icon from collection just hover the mouse cursor over the icon and click on the trash sign that will come up. A dialog will further ask you to confirm and proceed with the deletion. 
+ To delete an icon from a collection, hover the mouse cursor over the icon.  Click on the <b>"trash can"</b> button that will come up. A dialog will further guide you to confirm and proceed with the deletion:
  
  
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/delete_item_from_collection.png'>
  </p>
+ 
 
  </details> 
 </li> 
