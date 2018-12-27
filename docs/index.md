@@ -793,7 +793,7 @@ It takes a line of code to insert an icon in SVG or PNG format from the CDN to y
  <li>
  <details>
   <summary>
-   <strong> Icon’s Search Available Straight From the Address Bar of Your Browser </strong>
+   <strong> Icon’s Search From the Address Bar </strong>
  </summary>
   
 [Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
@@ -810,7 +810,7 @@ It takes a line of code to insert an icon in SVG or PNG format from the CDN to y
  <li>
  <details>
   <summary>
-   <strong> Free Icon’s Search With the Use of Our Web App </strong>
+   <strong> Free Icon’s Search From Web App </strong>
  </summary>
 
 <br>
@@ -953,7 +953,7 @@ We recommend you to use multiples of original icon size. This will help to avoid
 <li>
  <details>
   <summary>
-   <strong> What is the Greatest Size of an Icon That Retrieval Service Can Provide? </strong>
+   <strong> What is the Greatest Size of an Icon I Can Retrieve? </strong>
  </summary>
   
 The restriction applied to free png icons is 550 px. Paying clients may retrieve icons in any size up to 2048 px.
@@ -1016,7 +1016,7 @@ Yes you can use icons with .png extension in [omg-img](http://img.icons8.com/) s
 <li>
  <details>
   <summary>
-   <strong>How to use responsive size for style? </strong>
+   <strong>How to Use Responsive Size for Style? </strong>
  </summary>
   
 It’s quite simple. Just add a parameter `office` to your request. For example:
@@ -1108,7 +1108,8 @@ Paid option means you have to buy an access token. The token is a short string c
    <strong> Paid License. Subscription. How to purchase?</strong>
  </summary>
   
-Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+
 
 [Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
 
@@ -1121,7 +1122,7 @@ Paying customers are elegible to download icons in png, svg, eps and pdf file fo
    <strong> Free License </strong>
  </summary>
   
-You are welcome to use icons apps for free for personal or commercial use however it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.
+You are welcome to use icons apps for free. For personal or commercial use. However it will require you to reference us somewhere in an appropriate (publicly accessible) place of your product. In most cases it is enough to place a web link pointed to our website's main page or best of all, pointed directly to the icon you decided to use. Please note that the free icons can only be downloaded in PNG up to 100x100px. The [Popular Icons](https://icons8.com/icon/pack/free-icons/all) and [Logos](https://icons8.com/icon/pack/Logos/all) are free in all formats, including SVG.
 
  </details> 
  </li>
@@ -1132,9 +1133,10 @@ You are welcome to use icons apps for free for personal or commercial use howeve
    <strong>Can I use downloaded icons after my subscription is expired?</strong>
  </summary>
   
-Paying customers are elegible to download icons in png, svg, eps and pdf file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions - monthly (your account is charged every month) or yearly (you charged once per year). You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>STAY YOURS FOR GOOD</b>. You may continue to use them in current or future commercial projects with few restrictions. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
+Paying customers are eligible to download icons in PNG, SVG, EPS, and PDF file formats in any size up to 2048 pixels. Licensing is available in the form of subscriptions. Monthly and annual subscriptions are available. In case of monthly subscription, your account is charged once per month. In case of annual subscription, your account is charged once a year. You may cancel your subscription at any time. All materials downloaded while you are on subscription <b>stay yours for good</b>. You may continue to use them in current or future commercial projects. Few restrictions are applied. Please read more about [permitted and prohibited uses](https://icons8.com/download/Icons8_License.pdf).
 
-[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/). 
+
+[Monthly subscription would cost you 19.95$ and yearly 199.90$](https://icons8.com/paid-license-99/#/).  
 
  </details>
   <hr>
@@ -1654,10 +1656,10 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
   <li>
    <details>
     <summary>
-      <strong>How can I purchase Service Integration API Key? What is included?</strong>
+      <strong>How Can I Purchase API Key? What is Included?</strong>
     </summary>
     
-The starter icons service integration plan is $100/month - it includes up to 100 000 requests to retrieval engine (actual, non cached icons downloads) per month. Every additional 100 000 requests add $100 more to the monthly plan. You certainly may cache retrieval requests on your side and pay only for actual downloads/retrievals from our engine. Requests to search engine are unlimited within any servce integration plan - no matter how many retrieval requests you've purchased. Payments for the plans are accepted on this page: https://icons8.recurly.com/subscribe/api_access. After we receive a payment we issue an API key or i.e. token for accessing our searching and retieval engines.
+Paid option means you have to buy an access token or API key. The token is a short string code. You embed the token into your requests for searching and retrieval engines. The same token is used to access both engines. The starter API license is $100/month. It includes up to 100K requests to retrieval engine per month. The requests are the actual, non-cached icons downloads.  Every extra 100K requests add $100 more to the monthly plan. You may cache retrieval requests on your side and pay only for actual downloads from our engine. Requests to search engine have no limit within any API plan. No matter how many retrieval requests you've purchased. You may pay for API license on [this page](https://icons8.recurly.com/subscribe/api_access). After we receive payment, we issue an API token for accessing our engines.
    
    
    </details>
@@ -1666,14 +1668,12 @@ The starter icons service integration plan is $100/month - it includes up to 100
  <li>
  <details>
   <summary>
-   <strong>What are the end points for icons Searching/Retrieval? Give me few examples, please!</strong>
+   <strong>What Are the End Points for API?</strong>
  </summary>
   
-  The endpoint is the URL where our service can be accessed by a client application. 
-  
-  - The v4 search engine endpoint is: https://api.icons8.com/api/iconsets/v4/search. Here is an example request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=YOURTOKEN.
-  
-  - The endpoint for retrievale is: http://img.icons8.com. Here is an example request: http://img.icons8.com/ultraviolet/link-company-child.svg?token=YOURTOKEN
+The endpoint is the URL. Use this URL to access our API from your application.
+- Searching endpoint. Here is the URL: https://api.icons8.com/api/iconsets/v4/search. This is a sample request: https://api.icons8.com/api/iconsets/v4/search?term=home&amount=50&offset=0&platform=all&language=en-US&token=YOURTOKEN
+- Retrieval endpoint. Here is the URL: http://img.icons8.com. This is a sample request: http://img.icons8.com/ultraviolet/link-company-child.svg?token=YOURTOKEN
   
  </details>
   <hr>
@@ -1681,71 +1681,50 @@ The starter icons service integration plan is $100/month - it includes up to 100
  <li>
  <details>
   <summary>
-   <strong>Why icon size is not icluded in metadata returned by Search Engine? Why Pixel Perfect?</strong>
- </summary>
-  
-Notice, the icons that we have are of a vector format and that is why they could be of any size. By this reason we do not include the icon's size in metadata of response from search engine. You simply can substitute any value for size parameter in request of a retrieval serivce and receive the corresponding png icon of the size that you requested. For icons retrieval we use [omg-img](http://img.icons8.com/) service. To retrieve an icon you embed your API TOKEN just right into your request http://img.icons8.com/ios/F0AC34/search.svg?token="YOURTOKEN". You may change the order of parameters in your request. Also keep in mind that due to the conversion of svg into png the "pixel perfect" come into play. To eliminate the artefacts of format conversion (from vector to raster) there is an appropriate size for each platform which you can then multiply by various factors 1x, 2x, 3x etc. to get the png size you need. 
+   <strong>Why Icon Size is not in JSON? Why Pixel Perfect?</strong>
+ </summary> 
+
+Notice, the icons that we have are of a vector format. That is why they could be of any size. For this reason we do not include the icon's size in the metadata of response from the search engine. You merely can substitute any value for size parameter in request of a retrieval service. In response, you'll receive the corresponding PNG icon of the size that you requested. For icons retrieval, we use [omg-img](http://img.icons8.com/) service. To retrieve an icon you embed your API TOKEN right into your request http://img.icons8.com/ios/F0AC34/search.svg?token=YOURTOKEN. You may change the order of parameters in your request. Also keep in mind that due to the conversion of SVG into PNG, the "pixel perfect" come into play. There is a way to eliminate the artifacts of format conversion from vector to raster. There is an appropriate size for each platform which you can then multiply by various factors like 1x, 2x, 3x, etc. to get the PNG size you need.
 
  </details> 
 </li>
 <hr>
  <li>
-  
  <details>
   <summary>
    <strong>Free VS Paid </strong>
  </summary>
   
-Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Of course there are advanced options available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
+[Omg-img](http://img.icons8.com/) service provides free and paid options. Yes, you can search and retrieve icons with omg-img for free. The <b>free</b> option works great for small and simple projects. The <b>paid</b> option lets you craft cutting-edge apps. You may use exactly the same paid token to access both searching and retrieval engines. 
+  
+Lots of the [omg-img](http://img.icons8.com/) features are available to our clients for free. Premium options are available only to paying clients. The major difference is that <b>paid license</b> provides extra features which are:
 
-- access to generate PNG icons larger than 550 px
-- access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>FREE</b>.
-- access to more ['advanced search engine'](#service-integration-framework)  
+- Access to generate PNG icons larger than 550 px
+- Access to vector-format icons (SVG, EPS, PDF). Popular SVG icons are available for <b>free</b>.
+- Access to more ['advanced search engine'](#service-integration-framework)  
  
  </details>
-</li>
+ </li>
  <hr>
  <li>
-   <details>
-    <summary>
-      <strong> How to retrieve an icon for FREE? </strong>
-    </summary>
-    
-It takes just a line of code <!--, service endpoint concatinated with an icon's name,--> to insert an icon in svg or in png format directly from the CDN to your application of any scale:
- 
- - `<img src=’https://img.icons8.com/search.svg’/>`
- - `<img src=’https://img.icons8.com/search.png’/>`
- 
- <br>
- 
-  Also please note that:
+ <details>
+  <summary>
+   <strong> How to Retrieve an Icon on a Paid Basis? </strong>
+ </summary>
   
- - png icons are available in limited size (less than 550px)
- - only popular SVG icons are available for free
- 
-   </details>
- </li> 
- <hr>
- <li>
-   <details>
-    <summary>
-      <strong> How to retrieve an icon on PAID basis? </strong>
-    </summary>
-     
-     
-The canonical format for retrieving icons via paid requests is as following: 
+The format for retrieving icons via paid requests is as follows: 
 
 - http://img.icons8.com/[platform]/[size]/[commonName].[format]?token=YOURTOKEN
 
 <br>
 
-In the above request, parameters commonName, platform, token - are mandatory, whereas size - is optional. Assume we call v4 search engine with 'house' searching phrase and receive a JSON response as following: 
+In the above request, parameters commonName, platform, token - are mandatory. Size - is optional. Assume we call v4 search engine with 'house' searching phrase and receive a JSON response as follows:
     
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/JSON_RETRIEVE_1.png'>
  </p>
 
-In the JSON response we can see that for one of the entries platform parameter attains the value "ultroviolet" and the commonName attains the value "Link-company-child". Thats all we need to get the icon in the svg/eps/pdf/png formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
+Take a look onto parameters in the JSON. Platform parameter attains the value "ultroviolet". The commonName attains the value "Link-company-child". That's all we need to get the icon in the SVG / EPS / PDF / PNG formats by sending the following requests to the [omg-img](http://img.icons8.com/) service:
 
  <p align="center">
 
@@ -1756,43 +1735,58 @@ In the JSON response we can see that for one of the entries platform parameter a
 
  </p>
 
-Note that the 'name' parameter is not used at all in the constraction of url for retrieving the icon.
-<!--
-'http://img.icons8.com/ultraviolet/link-company-child/House.svg?token=we95b4o4ea7t8e41f707bc7dr0a01ef6d' 
--->
+Note that the 'name' parameter is not used at all in building a retrieving URL for the icon.
  
-   </details>
+ </details>
  </li>
  <hr>
-  
  <li>
  <details>
   <summary>
-   <strong> Icon’s search available straight from the address bar of your browser </strong>
+   <strong> How to Retrieve an Icon for Free? </strong>
  </summary>
   
-For your convenience, [omg-img](http://img.icons8.com/) service architecture allows paying and free customers to browse for new icons directly from browser’s address bar as following: 
+It takes a line of code to insert an icon in SVG or PNG format from the CDN to your application of any scale:
+ 
+ - `<img src=’https://img.icons8.com/search.svg’/>`
+ - `<img src=’https://img.icons8.com/search.png’/>`
+ 
+ <br>
+ 
+  Also please note that:
+  
+ - PNG icons are available in limited size (less than 550px)
+ - only popular SVG icons are available for free
+ 
+ </details>
+ </li>
+ <hr>
+ <li>
+ <details>
+  <summary>
+   <strong> Icon’s Search From the Address Bar </strong>
+ </summary>
+  
+[Omg-img](http://img.icons8.com/) allows browsing for new icons from a browser’s address bar. This feature available for both paying and free customers:
 
  - https://img.icons8.com/home 
  - https://img.icons8.com/house
 - https://img.icons8.com/bungalow
 - https://img.icons8.com/targaryen-house
  
-
+ 
  </details>
-</li>
-<hr>
-  
+ </li>
+ <hr>
  <li>
  <details>
   <summary>
-   <strong> Free icon’s search with the use of our web app </strong>
+   <strong> Free Icon’s Search From Web App </strong>
  </summary>
 
-There is always an option for free customers to use [our web app](https://icons8.com/icon/new-icons/all) as a free searching tool and the free tool to constract the full paths to the icons they like.
-
 <br>
-Just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+
+Free customers may use our web app as a free tool to search and full paths to the icons they like. Type-in a query in the app and click on the search icon to get a list of the most relevant icons.
  <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
 </p> 
@@ -1804,7 +1798,7 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
  </p>
  
  <br>
- Copy the full path to the icon and paste it in your own app:
+ Copy the full path to the icon and paste it into your app:
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/html_cdn_2.png'>
  </p>
@@ -1815,11 +1809,10 @@ Then click on the icon you'd like to use. When the editor shows up click on the 
  <li>
  <details>
   <summary>
-   <strong>  How to retrieve icons in particular style? </strong>
+   <strong>  How to Retrieve Icons in a Particular Style? </strong>
  </summary>
  
-
-To retrieve an icon in particular style you just substitute the style as a parameter in your retrieval request:
+Retrieving an icon in particular style is easy. To do this, you embed the desired style as a parameter in your retrieval request:
  <p align="center">
 
 |monochrome|coloured|
@@ -1832,7 +1825,7 @@ To retrieve an icon in particular style you just substitute the style as a param
 
 <details>
   <summary>
-   <strong>  See list of more than 20 various styles that you may use to retrieve icons  </strong>
+   <strong>  See the List of More Than 20 Various Styles That You May Use to Retrieve Icons  </strong>
  </summary>
  
  <p align="center">
@@ -1877,10 +1870,10 @@ To retrieve an icon in particular style you just substitute the style as a param
  <li>
  <details>
   <summary>
-   <strong> Recolouring of monochrome icons made easy </strong>
+   <strong> How to Recolor Monochrome Icons? </strong>
  </summary>
   
-To change color of an icon it's enough to insert an appropriate color code within an icon link:
+To change the color of an icon it's enough to insert an appropriate color code within an icon link:
 - <img src='http://img.icons8.com/ios/FF0000/car'> `http://img.icons8.com/ios/FF0000/car`
 - <img src='http://img.icons8.com/ios/00FF00/car'> `http://img.icons8.com/ios/00FF00/car`
 - <img src='http://img.icons8.com/ios/0000FF/car'> `http://img.icons8.com/ios/0000FF/car`
@@ -1891,17 +1884,16 @@ To change color of an icon it's enough to insert an appropriate color code withi
 <li>
  <details>
   <summary>
-   <strong> How can I resize an icon? </strong>
+   <strong> How Can I Resize an Icon? </strong>
  </summary>
    
-  To modify an icon size it’s just enough to insert an icon size within its link:
+  To change icon size, it’s just enough to embed an icon size within its link:
 - 'http://img.icons8.com/color/30px/car' <img src='http://img.icons8.com/color/30px/car' />
 - 'http://img.icons8.com/color/40px/car' <img src='http://img.icons8.com/color/40px/car' />
 - 'http://img.icons8.com/color/50px/car' <img src='http://img.icons8.com/color/50px/car' /> 
 - 'http://img.icons8.com/color/60px/car' <img src='http://img.icons8.com/color/60px/car' /> 
 
-For your convenience, the size of an icon can be written in two different formats: `100x100` or `100px`.
-
+Icon's size can be written in two different formats: `100x100` or `100px`.
 
  </details>
 </li>
@@ -1909,7 +1901,7 @@ For your convenience, the size of an icon can be written in two different format
 <li>
  <details>
   <summary>
-   <strong> How to retrieve sharp pixel perfect icons? </strong>
+   <strong> How to Retrieve Sharp Pixel Perfect Icons? </strong>
  </summary>
   
 Each icon style is drawn for a specific pixel grid. Look at these few examples of various pixel grids: 
@@ -1920,9 +1912,8 @@ Each icon style is drawn for a specific pixel grid. Look at these few examples o
 * Color: `48x48`
 * Office: `16x16`, `30x30`, `40x40`, `80x80`
 
-In order to avoid all sorts of artefacts (blurring edges, washed out colours etc.) associated with changing an icon size, we strongly recommend you to choose multiples of original icon size. For example for iOS style the multiples would be: `50x50`, `100x100`, `150x150` etc.
-You can set an icon size either by specifying the size in pixels `100x100` / `100px` or with the use of factors: `2x` or `x2` (the number can vary).
-For example:
+We recommend you to use multiples of original icon size. This will help to avoid all sorts of artifacts (blurring edges, washed out, etc.) associated with changing an icon size. For example, for the iOS style, the multiples would be 50x50, 100x100, 150x150 and so forth. You can set an icon size either by specifying the size in pixels 100x100 / 100px or with the use of factors: 2x or x2 (the number can vary):
+
 - 'https://img.icons8.com/color/1x/brazilian-carnival.png' <img src='https://img.icons8.com/color/1x/brazilian-carnival.png'/>
 - 'https://img.icons8.com/color/2x/brazilian-carnival.png' <img src='https://img.icons8.com/color/2x/brazilian-carnival.png' />
 
@@ -1933,7 +1924,7 @@ For example:
 <li>
  <details>
   <summary>
-   <strong> What is the maximum size of an icon that retrieval service can provide? </strong>
+   <strong> What is the Greatest Size of an Icon I Can Retrieve? </strong>
  </summary>
   
 The restriction applied to free png icons is 550 px. Paying clients may retrieve icons in any size up to 2048 px.
@@ -1944,12 +1935,12 @@ The restriction applied to free png icons is 550 px. Paying clients may retrieve
 <li>
  <details>
   <summary>
-   <strong> What should I do if I can not find an icon that I need? </strong>
+   <strong> What Should I Do if I Can not Find an Icon That I Need? </strong>
  </summary>
   
-You may send us a [request](https://icons8.com/request-icon/) to draw any icon you actually need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However we do prioritise the requests which have the highest demand. Be creative, ask your friends, relatives and any community members to vote for your requested icon in order to put your request higher on the queue. 
+You may send us a [request](https://icons8.com/request-icon/) to draw an icon you need. [It’s completely free](https://icons8.com/request-icon/free/hot). We try to do our the best to make our service comprehensive. However, we do prioritize the requests which have the highest demand. Be creative, ask your friends, relatives, and any community members to vote for your requested icon to put your request higher on the queue.
 
-Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/)
+Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a day](https://icons8.com/request-icon/custom/).
 
  </details>
 </li>
@@ -1957,13 +1948,12 @@ Alternatively, there is a paid fast option too, [$50 per icon, up to 20 icons a 
 <li>
  <details>
   <summary>
-   <strong> Can an icon used in my app change over time? </strong>
+   <strong> Can an Icon Used in my App Change Over Time? </strong>
  </summary>
   
-In short, it’s very unlikely, but it's possible. The most updated version of an icon is accessible by a given icon’s link.
-In other words, currently for the following link **`https://img.icons8.com/water-molecule`** we keep showing an icon with illustration of a water drop or an abstract molecule. However if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O, then most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
+In short, it’s very unlikely, but it's possible. The most updated version of an icon is accessible by a given icon’s link. Let take a look at the following example. Imaging we have a link **`https://img.icons8.com/water-molecule`**. For this URL we keep showing an icon with an illustration of a water drop or an abstract molecule. But what happens if we begin to receive more and more requests to change the icon’s appearance to say a water molecule like this H<sub>2</sub>O. Most probably we will alternate its look somehow to represent the structure of two atoms of hydrogen and one atom of oxygen bonded together. 
 
-In case <b>if you are planning to use an icon longterm</b>, the best solution would be to use the canonical full path to the icon. For that, just type-in a query in the app and click on search icon to get a list of the most relevant icons. 
+In case <b>if you are planning to use an icon longterm</b>, the best solution would be to use the full canonical path to the icon. For that, type in a query in the app and click on the search icon to get a list of the most relevant icons. 
  <p align="center">
   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/search_with_query_3.png'>
 </p> 
@@ -1997,7 +1987,7 @@ Yes you can use icons with .png extension in [omg-img](http://img.icons8.com/) s
 <li>
  <details>
   <summary>
-   <strong>How to use responsive size for style? </strong>
+   <strong>How to Use Responsive Size for Style? </strong>
  </summary>
   
 It’s quite simple. Just add a parameter `office` to your request. For example:
@@ -2013,6 +2003,3 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 </ol> 
 
  </details>
-
- 
-
