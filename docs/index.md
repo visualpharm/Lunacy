@@ -528,7 +528,7 @@ Below is the list of suggested places where you may set up a link:
        <strong> How it Works? </strong>
      </summary> 
    
-The engine is a dedicated service. It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. The metadata attributes helps you further to filter, group and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters can be changed on your own:
+The engine is a dedicated service. It accepts search queries and returns responses. A response is a JSON containing metadata items for the most relevant icons. The metadata attributes help you further to filter, group and retrieve icons. This section explains the searching parameters used for the service. You embed these parameters one after another in your query. The order of the parameters can be changed on your own:
    
    </details>
    
