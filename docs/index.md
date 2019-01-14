@@ -2047,9 +2047,9 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
    <strong> YouTube Tutorials </strong>
  </summary>
   --> 
-  # YouTube Tutorials
+  # YouTube
   
- - [A tutorial created by one of our fan completely free](https://www.youtube.com/watch?v=eRU1FYO_NJU&feature=youtu.be)
+ [A tutorial created by one of our fan completely free](https://www.youtube.com/watch?v=eRU1FYO_NJU&feature=youtu.be)
    
   
   <!--</details>-->
