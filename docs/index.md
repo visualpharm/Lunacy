@@ -2040,3 +2040,19 @@ It’s quite simple. Just add a parameter `office` to your request. For example:
 </ol> 
 
  </details>
+ 
+  <details>
+  <summary>
+   <strong> YouTube Tutorials </strong>
+ </summary>
+  
+  <ul>
+  <hr>
+  <li>
+     [A tutorial created by one of our fan completely free](https://www.youtube.com/watch?v=eRU1FYO_NJU&feature=youtu.be)
+  </li>
+  <ul>
+  
+  </details>
+ 
+
