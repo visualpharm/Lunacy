@@ -274,7 +274,15 @@ Another way to delete the entire collection or to change its title is to click o
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/free_user_download.png'>
  </p>
+ 
+ <br>
+ 
+ Whenever you download a single icon, you add a copy of the icon to the Downloads collection. The Downloads collection let you access any of the ever downloaded icons. Use this collection if you need a variation of the icons that you have already downloaded. Jump in the collection, edit the icon, change its size and format and download it again. It is quick and easy!
 
+ <p align="center">
+   <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Downloaded_collection.png'>
+ </p>
+ 
 <br>
 
 The icon download pane displays a pixel-perfect size for the selected icon. You can multiply this platform specific size by various factors like 1x, 2x, 3x and so forth. This way you get sharp PNG icons in multiple sizes. You may choose one of the predefined sizes or specify your custom size.
