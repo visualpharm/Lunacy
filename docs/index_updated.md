@@ -277,7 +277,7 @@ Another way to delete the entire collection or to change its title is to click o
 
 <br>
 
- Whenever you download a single icon, you add a copy of the icon to the Downloads collection. The Downloads collection let you access any of the ever downloaded icons. Use this collection if you need a variation of the icons that you have already downloaded. Jump in the collection, edit the icon, change its size and format and download it again. It is quick and easy!
+Whenever you download a single icon, you add a copy of the icon to the <b>Downloaded</b> collection. The <b>Downloaded</b> collection let you access any of the ever downloaded icons. Use this collection if you need a variation of the icons that you have already downloaded. Jump in the collection, edit the icon, change its size and format and download it again. It is quick and easy!
 
  <p align="center">
    <img src='https://github.com/visualpharm/icons-docs/blob/master/docs/Images/Icons/Downloaded_collection_1.png'>
